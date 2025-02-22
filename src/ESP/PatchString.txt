@@ -1,0 +1,2334 @@
+Cutthroat1	hachazo de Bartuc
+ModStr5d	Resistencia máxima
+Mauler	Vapuleador
+StrSkill41	 daño
+D2bnetHelp13	/whisper <*accountname>, /w <*accountname>
+D2bnetHelp13b	/msg <*accountname>, /m <*accountname>
+D2bnetHelp15	/squelch <*accountname>
+D2bnetHelp15b	/ignore <*accountname>
+D2bnetHelp16	/unsquelch <*accountname>
+D2bnetHelp16b	/unignore <*accountname>
+D2bnetHelp21	/ban <*accountname>
+D2bnetHelp23	/designate <*accountname>
+D2bnetHelp24	/kick <*accountname>
+D2bnetHelp26	/whois <*accountname>, /where <*accountname>
+D2bnetHelp26b	/whereis <*accountname>
+D2bnetHelp32	/stats <*accountname> <programID>
+x	INFIERNO
+x	PESADILLA
+x	NORMAL
+x	SELECCIONAR DIFICULTAD
+ModStr6e	Drenaje de resistencia más lento
+xhm	yelmo alado
+Hsarus' Defense	Defensa de Hsarus
+strModEnhancedDamage	Daño mejorado\n
+strModAllResistances	todas las resistencias +%d
+strModAllSkillLevels	 +%d a todos los niveles de habilidad
+strModFireDamage	 +%d daño de fuego
+strModFireDamageRange	Añade %d-%d daño de fuego
+strModColdDamage	 +%d daño frío
+strModColdDamageRange	Añade %d-%d daño frío
+strModLightningDamage	 +%d daño de rayos
+strModLightningDamageRange	Añade %d-%d daño de rayos
+strModMagicDamage	 +%d daño mágico
+strModMagicDamageRange	Añade %d-%d daño mágico
+strModPoisonDamage	 +%d daño de veneno durante %d segundos
+strModPoisonDamageRange	Añade %d-%d daño de veneno durante %d segundos
+strModMinDamage	 +%d daño
+strModMinDamageRange	Añade %d-%d daño
+strModEnhancedDamage	Daño aumentado
+ModStre9j	Daño de fuego reducido por
+ModStre9k	Capa sombras
+ModStre9l	Daño de rayos reducido por
+ModStre9m	Daño de veneno reducido por
+ModStre9n	Absorbe el daño mágico
+ModStre9o	Absorbe el daño de fuego
+ModStre9p	Absorbe el daño de frío
+ModStre9q	Absorbe el daño de rayos
+ModStre9r	Absorbe el daño de veneno
+of the Wraith	del espectro
+of Equilibrium	de equilibrio
+Valkyrie's	de valquiria
+Maiden's	de doncella
+Blank	inválido
+strEskilllighttoattack	 a tu ataque
+StrSklTabItem1	+%d para habilidades de jabalina y lanza
+StrSklTabItem2	+%d para habilidades pasivas y mágicas
+StrSklTabItem3	+%d para habilidades de arco y ballesta
+StrSklTabItem4	+%d para aura defensiva
+StrSklTabItem5	+%d para aura ofensiva
+StrSklTabItem6	+%d para habilidades de combate
+StrSklTabItem6	+%d para habilidades de invocación
+StrSklTabItem7	+%d para habilidades de veneno y hueso
+StrSklTabItem8	+%d para maldiciones
+StrSklTabItem10	+%d para grito en guerra
+StrSklTabItem11	+%d para habilidades de combate
+StrSklTabItem12	+%d para dominios
+StrSklTabItem13	+%d para habilidades de frío
+StrSklTabItem14	+%d para habilidades de rayos
+StrSklTabItem15	+%d para habilidades de fuego
+StrSklTabItem16	+%d para habilidades de invocación
+StrSklTabItem17	+%d para habilidades de cambio de forma
+StrSklTabItem18	+%d para habilidades elementales
+StrSklTabItem19	+%d para trampas
+StrSklTabItem20	+%d para disciplina de las sombras
+StrSklTabItem21	+%d para artes marciales
+x	El personaje '%s' no ha sido utilizado durante 3 meses y ha caducado.
+upgraderestrictEx	No hay objetos mágicos, ahuecados, raros, únicos ni fragmentados. No hay joyas.
+UndeadDescriptX	 muerto viviente
+DemonID	Demonio
+strScaryMonDescA	
+strScaryMonDescB	Immune a todo daño
+strScaryMonDesc1	Inmune al fuego
+strScaryMonDesc2	Inmune al frío
+strScaryMonDesc3	Inmune a los rayos
+strScaryMonDesc4	Inmune al veneno
+strScaryMonDesc5	Inmune a los golpes físicos
+strScaryMonDesc6	Inmune a la magia
+PlayerNameOnItemstring	%s's
+PlayerNameOnItemstringX	%s'
+SetItemFormatX	%0
+x	CLASIFICACIÓN SOFTCORE
+x	CLASIFICACIÓN HARDCORE
+D2bnetHelp47a	La CLASIFICACIÓN DE EXPANSIÓN muestra a los principales personajes clasificados según su experiencia. La configuración predeterminada muestra la clasificación general, pero puedes ver las listas ordenadas por clases si seleccionas dicha opción.
+D2bnetHelp48a	La CLASIFICACIÓN HARDCORE DE EXPANSIÓN muestra a los principales personajes básicos clasificados según su experiencia. La configuración predeterminada muestra la clasificación general, pero puedes ver las listas ordenadas por clases si seleccionas dicha opción.
+x	Reparar todo
+x	Reparar todo el equipo: 
+x	Ningún objeto del equipo necesita ser reparado
+Druid	Druida
+Assassin	Asesina
+partychardru	Druida
+partycharass	Asesina
+x	No se puede entrar en la partida. Los personajes de Diablo II no pueden unirse a las partidas creadas por un personaje de la expansión de Diablo II.
+x	No se puede entrar en la partida. Los personajes de la expansión de Diablo II no pueden unirse a las partidas creadas por un personaje de la versión original de Diablo II.
+charmonsterX	%s: %d%%
+charmontohit1X	Bonus de daño de fuerza:
+charmontohit2X	Bonus de daño de destreza:
+Party1X	%s te permite robar su cadáver.
+Party2X	%s te permite robar su cadáver.
+Party10	%s no te permite volver a acceder a su cadáver.
+Party11	%s no te permite volver a acceder a su cadáver.
+Party12	sois hostiles entre vosotros
+Party13	%s se muestra hostil contigo, pero tú eres amable con él
+Party14	%s se muestra hostil contigo, pero tú eres amable con ella
+Party 15	%s es amable contigo, pero tú te muestras hostil con él
+Party16	%s es amable contigo, pero tú te muestras hostil con ella
+Party17	sois amables entre vosotros
+Party18	podéis robar el cadáver del otro
+Party19	%s puede robar tu cadáver, pero tú no puedes robar el suyo
+Party20	%s puede robar tu cadáver, pero tú no puedes robar el suyo
+Party21	%s no puede robar tu cadáver, pero tú sí puedes robar el suyo
+Party22	%s no puede robar tu cadáver, pero tú sí puedes robar el suyo
+Party23	ninguno puede robar el cadáver del otro
+Civerb's Ward	Sala de Civerb
+Civerb's Icon	Icono de Civerb
+Civerb's Cudgel	Porra de Civerb
+Hsarus' Iron Heel	Talón de acero de Hsarus
+Hsarus' Iron Fist	Puño de hierro de Hsarus
+Hsarus' Iron Stay	Cinturón de hierro de Hsarus
+Cleglaw's Tooth	Diente de Cleglaw
+Cleglaw's Claw	Garra de Cleglaw
+Cleglaw's Pincers	Pinzas de Cleglaw
+Iratha's Cord	Cuerda de Iratha
+Iratha's Coil	Serpentín de Iratha
+Iratha's Cuff	Esposas de Iratha
+Iratha's Collar	Collar de Iratha
+Isenhart's Horns	Cuernos de Isenhart
+Isenhart's Case	Estuche de Isenhart
+Isenhart's Parry	Evasión de Isenhart
+Isenhart's Lightbrand	Tizón de luz de Isenhart
+Vidala's Snare	Trampa de Vidala
+Vidala's Ambush	Emboscada de Vidala
+Vidala's Fetlock	Espolón de Vidala
+Vidala's Barb	Púa de Vidala
+Milabrega's Robe	Toga de Milabrega
+Milabrega's Diadem	Diadema de Milabrega
+Milabrega's Rod	Vara de Milabrega
+Milabrega's Orb	Orbe de Milabrega
+Cathan's Seal	Sello de Cathan
+Cathan's Sigil	Estigma de Cathan
+Cathan's Visage	Semblante de Cathan
+Cathan's Mesh	Redes de Cathan
+Cathan's Rule	Mando de Cathan
+Tancred's Crowbill	Pico de cuervo de Tancred
+Tancred's Spine	Espina de Tancred
+Tancred's Hobnails	Tachuelas de Tancred
+Tancred's Weird	Misterio de Tancred
+Tancred's Skull	Cráneo de Tancred
+Sigon's Visor	Visor de Sigon
+Sigon's Shelter	Refugio de Sigon
+Sigon's Gage	Reto de Sigon
+Sigon's Sabot	Zueco de Sigon
+Sigon's Wrap	Manto de Sigon
+Sigon's Guard	Guardia de Sigon
+Infernal Cranium	Cráneo infernal
+Infernal Torch	Antorcha infernal
+Infernal Sign	Símbolo infernal
+Berserker's Headgear	Casco del loco
+Berserker's Hauberk	Cota de mallas del loco
+Berserker's Hatchet	Hachuela del loco
+Death's Hand	Mano de la muerte
+Death's Guard	Guardián de la muerte
+Death's Touch	Toque de la muerte
+Angelic Sickle	Hoz angelical
+Angelic Mantle	Manto angelical
+Angelic Halo	Halo angelical
+Angelic Wings	Alas angelicales
+Arctic Horn	Cuerno ártico
+Arctic Furs	Pieles árticas
+Arctic Binding	Ribete ártico
+Arctic Mitts	Guantes árticos
+Arcanna's Sign	Símbolo de Arcanna
+Arcanna's Deathwand	Vara de la muerte de Arcanna
+Arcanna's Head	Cabeza de Arcanna
+Arcanna's Flesh	Carne de Arcanna
+skillxname0	 
+skillxsd0	 
+skillxld0	 
+skillxan0	 
+skillxname1	 
+skillxsd1	 
+skillxld1	 
+skillxan1	 
+skillxname2	 
+skillxsd2	 
+skillxld2	 
+skillxan2	 
+skillxname3	 
+skillxsd3	 
+skillxld3	 
+skillxan3	 
+skillxname4	 
+skillxsd4	 
+skillxld4	 
+skillxan4	 
+skillxname5	 
+skillxsd5	 
+skillxld5	 
+skillxan5	 
+skillxname6	 
+skillxsd6	 
+skillxld6	 
+skillxan6	 
+skillxname7	 
+skillxsd7	 
+skillxld7	or bolts with fire\nmagically enhances your arrows
+skillxan7	 
+skillxname8	 
+skillxsd8	 
+skillxld8	cold arrows only do half of their regular damage\nby adding Daño frío and a slowing effect\nmagically enhances your arrows or bolts
+skillxan8	 
+skillxname9	 
+skillxsd9	 
+skillxld9	 
+skillxan9	 
+skillxname10	 
+skillxsd10	 
+skillxld10	 
+skillxan10	 
+skillxname11	 
+skillxsd11	 
+skillxld11	cold arrows only do half of their regular damage\nby adding Daño frío and a slowing effect\nmagically enhances your arrows or bolts
+skillxan11	 
+skillxname12	 
+skillxsd12	 
+skillxld12	 
+skillxan12	 
+skillxname13	 
+skillxsd13	 
+skillxld13	 
+skillxan13	 
+skillxname14	 
+skillxsd14	 
+skillxld14	 
+skillxan14	 
+skillxname15	 
+skillxsd15	 
+skillxld15	 
+skillxan15	 
+skillxname16	 
+skillxsd16	 
+skillxld16	contact, damaging all nearby enemies\nenchants an arrow or bolt that explodes on
+skillxan16	 
+skillxname17	 
+skillxsd17	 
+skillxld17	 
+skillxan17	 
+skillxname18	 
+skillxsd18	 
+skillxld18	 
+skillxan18	 
+skillxname19	 
+skillxsd19	 
+skillxld19	 
+skillxan19	 
+skillxname20	 
+skillxsd20	 
+skillxld20	 
+skillxan20	 
+skillxname21	 
+skillxsd21	 
+skillxld21	to freeze your enemies\nmagically enhances your arrow or bolt
+skillxan21	 
+skillxname22	 
+skillxsd22	 
+skillxld22	 
+skillxan22	 
+skillxname23	 
+skillxsd23	 
+skillxld23	 
+skillxan23	 
+skillxname24	 
+skillxsd24	 
+skillxld24	 
+skillxan24	 
+skillxname25	 
+skillxsd25	 
+skillxld25	 
+skillxan25	 
+skillxname26	 
+skillxsd26	 
+skillxld26	 
+skillxan26	 
+skillxname27	 
+skillxsd27	 
+skillxld27	crea una pira al impactar\nprovocar graves daños por incendio y\\mejora flechas o pernos para
+skillxan27	 
+skillxname28	 
+skillxsd28	 
+skillxld28	 
+skillxan28	 
+skillxname29	 
+skillxsd29	 
+skillxld29	 
+skillxan29	 
+skillxname30	 
+skillxsd30	 
+skillxld30	 
+skillxan30	 
+skillxname31	 
+skillxsd31	 
+skillxld31	to freeze entire groups of monsters\nmagically enhances an arrow or bolt
+skillxan31	 
+skillxname32	 
+skillxsd32	 
+skillxld32	 
+skillxan32	 
+skillxname33	 
+skillxsd33	 
+skillxld33	 
+skillxan33	 
+skillxname34	 
+skillxsd34	 
+skillxld34	 
+skillxan34	 
+skillxname35	 
+skillxsd35	 
+skillxld35	 
+skillxan35	 
+skillxname36	 
+skillxsd36	 
+skillxld36	 
+skillxan36	 
+skillxname37	 
+skillxsd37	 
+skillxld37	 
+skillxan37	 
+skillxname38	 
+skillxsd38	 
+skillxld38	 
+skillxan38	 
+skillxname39	 
+skillxsd39	 
+skillxld39	 
+skillxan39	 
+skillxname40	 
+skillxsd40	 
+skillxld40	 
+skillxan40	 
+skillxname41	 
+skillxsd41	 
+skillxld41	 
+skillxan41	 
+skillxname42	 
+skillxsd42	 
+skillxld42	de todos los enemigos que se encuentren cerca\ncrea un campo eléctrico que reduce la vida
+skillxan42	 
+skillxname43	 
+skillxsd43	 
+skillxld43	 
+skillxan43	 
+skillxname44	 
+skillxsd44	 
+skillxld44	 
+skillxan44	 
+skillxname45	 
+skillxsd45	 
+skillxld45	 
+skillxan45	 
+skillxname46	 
+skillxsd46	 
+skillxld46	 
+skillxan46	 
+skillxname47	 
+skillxsd47	 
+skillxld47	 
+skillxan47	 
+skillxname48	 
+skillxsd48	 
+skillxld48	 
+skillxan48	 
+skillxname49	 
+skillxsd49	 
+skillxld49	 
+skillxan49	 
+skillxname50	 
+skillxsd50	 
+skillxld50	 
+skillxan50	 
+skillxname51	 
+skillxsd51	 
+skillxld51	 
+skillxan51	 
+skillxname52	 
+skillxsd52	 
+skillxld52	 
+skillxan52	 
+skillxname53	 
+skillxsd53	 
+skillxld53	 
+skillxan53	 
+skillxname54	 
+skillxsd54	 
+skillxld54	 
+skillxan54	 
+skillxname55	 
+skillxsd55	 
+skillxld55	 
+skillxan55	 
+skillxname56	 
+skillxsd56	 
+skillxld56	 
+skillxan56	 
+skillxname57	 
+skillxsd57	 
+skillxld57	 
+skillxan57	 
+skillxname58	 
+skillxsd58	 
+skillxld58	 
+skillxan58	 
+skillxname59	 
+skillxsd59	 
+skillxld59	 
+skillxan59	 
+skillxname60	 
+skillxsd60	 
+skillxld60	 
+skillxan60	 
+skillxsname61	 
+skillxsd61	 
+skillxld61	 
+skillxan61	 
+skillxname62	 
+skillxsd62	 
+skillxld62	 
+skillxan62	 
+skillxname63	 
+skillxsd63	pasivo: aumenta el daño de rayos
+skillxld63	pasivo: aumenta todo el daño causado por tus conjuros de rayos
+skillxan63	 
+skillxname64	 
+skillxsd64	 
+skillxld64	 
+skillxan64	 
+skillxname65	 
+skillxsd65	 
+skillxld65	 
+skillxan65	 
+skillxname66	 
+skillxsd66	 
+skillxld66	 
+skillxan66	 
+skillxname67	 
+skillxsd67	 
+skillxld67	 
+skillxan67	 
+skillxname68	 
+skillxsd68	 
+skillxld68	 
+skillxan68	 
+skillxname69	 
+skillxsd69	 
+skillxld69	 
+skillxan69	 
+skillxname70	 
+skillxsd70	 
+skillxld70	 
+skillxan70	 
+skillxname71	 
+skillxsd71	 
+skillxld71	 
+skillxan71	 
+skillxname72	 
+skillxsd72	 
+skillxld72	 
+skillxan72	 
+skillxname73	 
+skillxsd73	 
+skillxld73	 
+skillxan73	 
+skillxname74	 
+skillxsd74	 
+skillxld74	 
+skillxan74	 
+skillxname75	 
+skillxsd75	 
+skillxld75	 
+skillxan75	 
+skillxname76	 
+skillxsd76	 
+skillxld76	 
+skillxan76	 
+skillxname77	 
+skillxsd77	 
+skillxld77	 
+skillxan77	 
+skillxname78	 
+skillxsd78	 
+skillxld78	 
+skillxan78	 
+skillxname79	 
+skillxsd79	 
+skillxld79	 
+skillxan79	 
+skillxname80	 
+skillxsd80	 
+skillxld80	 
+skillxan80	 
+skillxname81	 
+skillxsd81	 
+skillxld81	 
+skillxan81	 
+skillxname82	 
+skillxsd82	 
+skillxld82	 
+skillxan82	 
+skillxname83	 
+skillxsd83	 
+skillxld83	 
+skillxan83	 
+skillxname84	 
+skillxsd84	 
+skillxld84	 
+skillxan84	 
+skillxname85	 
+skillxsd85	 
+skillxld85	 
+skillxan85	 
+skillxname86	 
+skillxsd86	 
+skillxld86	esta maldición no se puede anular con otra maldición\nobjetivo de todos los monstruos cercanos\nmaldice a un monstruo para que se convierta en el
+skillxan86	 
+skillxname87	 
+skillxsd87	 
+skillxld87	 
+skillxan87	 
+skillxname88	 
+skillxsd88	 
+skillxld88	 
+skillxan88	 
+skillxname89	 
+skillxsd89	 
+skillxld89	 
+skillxan89	 
+skillxname90	 
+skillxsd90	 
+skillxld90	 
+skillxan90	 
+skillxname91	 
+skillxsd91	 
+skillxld91	 
+skillxan91	 
+skillxname92	 
+skillxsd92	 
+skillxld92	 
+skillxan92	 
+skillxname93	 
+skillxsd93	 
+skillxld93	 
+skillxan93	 
+skillxname94	 
+skillxsd94	 
+skillxld94	 
+skillxan94	 
+skillxname95	 
+skillxsd95	 
+skillxld95	 
+skillxan95	 
+skillxname96	 
+skillxsd96	 
+skillxld96	 
+skillxan96	 
+skillxname97	 
+skillxsd97	 
+skillxld97	 
+skillxan97	 
+skillxname98	 
+skillxsd98	 
+skillxld98	 
+skillxan98	 
+skillxname99	 
+skillxsd99	 
+skillxld99	 
+skillxan99	 
+skillxname100	 
+skillxsd100	 
+skillxld100	 
+skillxan100	 
+skillxname101	 
+skillxsd101	 
+skillxld101	 
+skillxan101	 
+skillxname102	 
+skillxsd102	 
+skillxld102	 
+skillxan102	 
+skillxname103	 
+skillxsd103	 
+skillxld103	 
+skillxan103	 
+skillxname104	 
+skillxsd104	 
+skillxld104	 
+skillxan104	 
+skillxname105	 
+skillxsd105	 
+skillxld105	 
+skillxan105	 
+skillxname106	 
+skillxsd106	 
+skillxld106	 
+skillxan106	 
+skillxname107	 
+skillxsd107	 
+skillxld107	 
+skillxan107	 
+skillxname108	 
+skillxsd108	 
+skillxld108	 
+skillxan108	 
+skillxname109	 
+skillxsd109	 
+skillxld109	 
+skillxan109	 
+skillxname110	 
+skillxsd110	 
+skillxld110	 
+skillxan110	 
+skillxname111	 
+skillxsd111	 
+skillxld111	 
+skillxan111	 
+skillxname112	 
+skillxsd112	 
+skillxld112	 
+skillxan112	 
+skillxname113	 
+skillxsd113	 
+skillxld113	 
+skillxan113	 
+skillxname114	 
+skillxsd114	 
+skillxld114	 
+skillxan114	 
+skillxname115	 
+skillxsd115	 
+skillxld115	 
+skillxan115	 
+skillxname116	 
+skillxsd116	 
+skillxld116	 
+skillxan116	 
+skillxname117	 
+skillxsd117	 
+skillxld117	 
+skillxan117	 
+skillxname118	 
+skillxsd118	 
+skillxld118	añade daño de rayos a tu ataque\npara dañar a tus enemigos cercanos\ncuando está activa, el aura causa pulsaciones de electricidad
+skillxan118	 
+skillxname119	 
+skillxsd119	 
+skillxld119	 
+skillxan119	 
+skillxname120	 
+skillxsd120	 
+skillxld120	 
+skillxan120	 
+skillxname121	 
+skillxsd121	 
+skillxld121	 
+skillxan121	 
+skillxname122	 
+skillxsd122	halo: aumenta la velocidad de ataque y el daño
+skillxld122	y la puntuación de ataque a ti y a tus aliados\nsi está activado, el halo te aumenta el daño, la velocidad de ataque 
+skillxan122	 
+skillxname123	 
+skillxsd123	aura: debilita a los enemigos
+skillxld123	 
+skillxan123	 
+skillxname124	 
+skillxsd124	 
+skillxld124	la vida y el maná a ti\nlas almas de los enemigos muertos para entregar\ncuando está activa, el aura intenta redimir
+skillxan124	 
+skillxname125	 
+skillxsd125	 
+skillxld125	 
+skillxan125	 
+skillxname126	 
+skillxsd126	 
+skillxld126	 
+skillxan126	 
+skillxname127	 
+skillxsd127	 
+skillxld127	 
+skillxan127	 
+skillxname128	 
+skillxsd128	 
+skillxld128	 
+skillxan128	 
+skillxname129	 
+skillxsd129	 
+skillxld129	 
+skillxan129	 
+skillxname130	 
+skillxsd130	 
+skillxld130	 
+skillxan130	 
+skillxname131	 
+skillxsd131	 
+skillxld131	 
+skillxan131	 
+skillxname132	 
+skillxsd132	 
+skillxld132	 
+skillxan132	 
+skillxname133	 
+skillxsd133	 
+skillxld133	 
+skillxan133	 
+skillxname134	 
+skillxsd134	 
+skillxld134	 
+skillxan134	 
+skillxname135	 
+skillxsd135	 
+skillxld135	 
+skillxan135	 
+skillxname136	 
+skillxsd136	 
+skillxld136	 
+skillxan136	 
+skillxname137	 
+skillxsd137	 
+skillxld137	 
+skillxan137	 
+skillxname138	 
+skillxsd138	 
+skillxld138	 
+skillxan138	 
+skillxname139	 
+skillxsd139	 
+skillxld139	 
+skillxan139	 
+skillxname140	 
+skillxsd140	 
+skillxld140	 
+skillxan140	 
+skillxname141	 
+skillxsd141	 
+skillxld141	 
+skillxan141	 
+skillxname142	 
+skillxsd142	 
+skillxld142	 
+skillxan142	 
+skillxname143	 
+skillxsd143	 
+skillxld143	 
+skillxan143	 
+skillxname144	 
+skillxsd144	 
+skillxld144	 
+skillxan144	 
+skillxname145	 
+skillxsd145	 
+skillxld145	 
+skillxan145	 
+skillxname146	 
+skillxsd146	 
+skillxld146	 
+skillxan146	 
+skillxname147	 
+skillxsd147	 
+skillxld147	 
+skillxan147	 
+skillxname148	 
+skillxsd148	 
+skillxld148	 
+skillxan148	 
+skillxname149	 
+skillxsd149	 
+skillxld149	 
+skillxan149	 
+skillxname150	 
+skillxsd150	 
+skillxld150	 
+skillxan150	 
+skillxname151	 
+skillxsd151	 
+skillxld151	 
+skillxan151	 
+skillxname152	 
+skillxsd152	 
+skillxld152	 
+skillxan152	 
+skillxname153	 
+skillxsd153	 
+skillxld153	 
+skillxan153	 
+skillxname154	 
+skillxsd154	 
+skillxld154	 
+skillxan154	 
+skillxname155	 
+skillxsd155	 
+skillxld155	 
+skillxan155	 
+strHostileTimeout	Debes esperar unos segundos para declarar tu enemistad a ese jugador.
+ShrId0	templo nulo
+ShrId1	templo de recarga
+ShrId2	templo de la salud
+ShrId3	templo del maná
+ShrId4	templo de intercambio de salud
+ShrId5	templo de intercambio de maná
+ShrId6	templo de la armadura
+ShrId7	templo del combate
+ShrId8	templo de resistencia al fuego
+ShrId9	templo de resistencia al frío
+ShrId10	templo de resistencia a los rayos
+ShrId11	templo de resistencia al veneno
+ShrId12	templo de la habilidad
+ShrId13	templo de recarga de maná
+ShrId14	templo de la resistencia
+ShrId15	templo de la experiencia
+ShrId16	templo de Enirhs
+ShrId17	templo del portal
+ShrId18	templo de la gema
+ShrId19	templo del fuego
+ShrId20	templo del monstruo
+ShrId21	templo de la explosión
+ShrId22	templo del veneno
+x	CREAR NUEVO
+CfgSkillPick	Barra Velocidad de Habilidad
+x	Verificar contraseña
+MercX101	Varaya
+MercX102	Khan
+MercX103	Klisk
+MercX104	Bors
+MercX105	Brom
+MercX106	Wiglaf
+MercX107	Hrothgar
+MercX108	Scyld
+MercX109	Healfdane
+MercX110	Heorogar
+MercX111	Halgaunt
+MercX112	Hygelac
+MercX113	Egtheow
+MercX114	Bohdan
+MercX115	Wulfgar
+MercX116	Hild
+MercX117	Heatholaf
+MercX118	Weder
+MercX119	Vikhyat
+MercX120	Unferth
+MercX121	Sigemund
+MercX122	Heremod
+MercX123	Hengest
+MercX124	Folcwald
+MercX125	Frisian
+MercX126	Bashir
+MercX127	Guthlaf
+MercX128	Oslaf
+MercX129	Yrmenlaf
+MercX130	Garmund
+MercX131	Lanth
+MercX132	Eadgils
+MercX133	Onela
+MercX134	Damien
+MercX135	Erfor
+MercX136	Weohstan
+MercX137	Wulf
+MercX138	Bulwye
+MercX139	Lief
+MercX140	Magnus
+MercX141	Klatu
+MercX142	Drus
+MercX143	Hoku
+MercX144	Kord
+MercX145	Uther
+MercX146	Ip
+MercX147	Ulf
+MercX148	Tharr
+MercX149	Kaelim
+MercX150	Ulric
+MercX151	Alaric
+MercX152	Ethelred
+MercX153	Caden
+MercX154	Elgifu
+MercX155	Tostig
+MercX156	Alcuin
+MercX157	Emund
+MercX158	Sigurd
+MercX159	Gorm
+MercX160	Hollis
+MercX161	Ragnar
+MercX162	Torkel
+MercX163	Wulfstan
+MercX164	Alban
+MercX165	Barloc
+MercX166	Bill
+MercX167	Theodoric
+r16	ÿc;Runa Io
+r16L	Io
+r13	ÿc;Runa Shael
+r13L	Shael
+r31	ÿc;Runa Jah
+r31L	Jah
+DarkStalker	acechador de la oscuridad
+VileArcher	arquero vil
+Runeword22	Delirio
+Whichwild String	cuerda salvaje
+x	Esta aplicación se instaló utilizando una clave de CD de Lord of Destruction no autorizada para el uso en Battle.net.
+x	La clave de CD de Lord of Destruction que estás utilizando ya no es válida para Battle.net. Ponte en contacto con el Servicio Técnico para más información.
+x	Tu clave de CD de Lord of Destruction está siendo utilizada en este momento por:
+x	La clave de CD de Lord of Destruction utilizada para instalar esta aplicación pertenece a otro producto. Vuelve a instalar esta aplicación utilizando la clave de CD correcta.
+Playersubtitles29	Retirada!
+AmaOnly	(Sólo Amazona)
+SorOnly	(Sólo Hechicera)
+NecOnly	(Sólo Nigromante)
+PalOnly	(Sólo Paladín)
+BarOnly	(Sólo Bárbaro)
+DruOnly	(Sólo Druida)
+AssOnly	(Sólo Asesina)
+Chatcaps	CHAT
+Newscaps	NOTICIAS
+Laddercaps	CLASIFICACIÓN
+LaddeCharacter	PERSONAJE DE CLASIFICACIÓN
+x	Sólo se puede jugar con un personaje de clasificación con otros personajes de clasificación durante la temporada de clasificación en la que se creó. Cuando se termine la temporada de clasificación, el personaje de clasificación se convertirá en un personaje de no-clasificación. ¿Quieres continuar?
+x	Imposible entrar en la partida. Un personaje de no-clasificación no podrá unirse a la partida creada por un personaje de clasificación.
+x	Imposible entrar en la partida. Un personaje de clasificación no podrá unirse a una partida creada por un personaje de no-clasificación.
+Sksyn	Sinergias
+Damplev	% De Daño Físico por nivel
+ElemDampLev	Daño elemental por nivel
+Firedplev	Daño de fuego por nivel
+Colddplev	Daño de frío por nivel
+Ltngdplev	Daño de rayo por nivel
+Poisdplev	% De Daño de veneno por nivel
+Magdplev	Daño Mágico por nivel
+Rangplev	Alcance por nivel
+RateFireplev	Frecuencia de disparo por nivel
+AttRateplev	Puntuación de Ataque por nivel
+AttSpeedplev	Velocidad de ataque por nivel
+Defplev	Defensa por nivel
+Manacoredplev	Coste de maná por nivel
+Missplev1	Misiles por nivel
+Missplev2	+1 Misil por nivel
+Missplev3	+1 Misil cada %d niveles
+Boltplev1	Rayos por nivel
+Boltplev2	+1 rayo por nivel
+Boltplev3	+1 rayo por %d niveles
+Shotplev1	Disparos por nivel
+Shotplev2	+1 Disparo por nivel
+Shotplev3	+1 Disparo por %d niveles
+Hpplev	Vida por nivel
+WRSpeedplev	Velocidad al andar / correr por nivel
+Durateplev	Duración por nivel
+CoLenplev	Duración del frío por nivel
+FrezLenplev	Duración del congelamiento por nivel
+PoisLenplev	Duración del veneno por nivel
+Convphy2magplev	Convierte %d%% de Daño físico en Daño Mágico por nivel
+Convphy2elemplev	Convierte %d%% de Daño físico en Daño Elemental por nivel
+Convphy2magalt	Convierte %d%% de Daño físico en Daño Elemental
+Convphy2elemalt	Convierte %d%% de Daño físico en Daño Mágico
+Secplev1	Segundo por nivel
+Secplev2	Segundos por nivel
+Damabsplev	Daño Absorbido por nivel
+WeapDamsk	Daño de Arma
+Hbdplev	Daño de rayo sagrado por nivel
+Healplev	Vida recuperada por nivel cada 2 segundos
+Healplev2	Vida recuperada cada 2 segundos
+FanYDam	Tu daño:
+PartDam	Daño conjunto:
+AFDImm	Daño de disparo medio por segundo
+Cgslow	Hace a los enemigos más lentos:
+Corexpdam	Daño de Explosión de Cadáver:
+ModitemAura	Nivel %d del aura %s cuando estás equipado
+Moditem2allattrib	a Todos los Atributos
+Moditem2ExpG	a la Experiencia Obtenida
+ModitemHPaK	Vida por cada muerte
+ModitemRedVendP	Reduce todos los precios de los vendedores
+ModitemSMRIP	Matar monstruos
+ModitemAttratvsM	a la Puntuación de Ataque contra
+Moditemdamvsm	al Daño contra
+Moditemslayat	Matando:
+Moditemreanimas	Reanimarse como:
+Moditemenrescoldsk	a la Resistencia al Frío del Enemigo
+Moditemenresfiresk	a la Resistencia al Fuego del Enemigo
+Moditemenresltngsk	a la Resistencia al Rayo del Enemigo
+Moditemenrespoissk	a la Resistencia al Veneno del Enemigo
+ModitemdamFiresk	al Daño de Hechizo de Fuego
+ModitemdamColdsk	al Daño de Hechizo de Frío
+ModitemdamLtngsk	al Daño de Hechizo de Relámpago
+ModitemdamPoissk	al Daño de Hechizo de Veneno
+Moditemskondeath	%d%% de Probabilidad de Lanzar %d %s cuando mueres
+ModitemskonLevel	%d%% de Probabilidad  de Lanzar %d %s cuando subes de nivel
+ModitemskonKill	%d%% de Probabilidad  de Lanzar %d %s al Matar
+Skillname224	Hombre lobo
+Skillsd224	Transfórmate en un hombre lobo
+Skillld224	Transfórmate en un hombre lobo
+Skillan224	Hombre lobo
+StrSkill43a	esqueleto mago
+StrSkill44a	esqueletos magos
+StrSklTabItem9	+%d para habilidades de invocación
+SOJSold	%d Piedras de Jordan vendidas a los mercaderes
+DiabloWalksEarth	Diablo camina sobre la Tierra
+neg	[ms]el cráneo infernal
+TrappDoor	trampilla
+uhf	[ms]el mazo legendario
+skillxld124P	la vida y el maná a ti\nlas almas de los enemigos muertos para entregar\ncuando está activa, el aura intenta redimir
+7wa	[fs]el hacha de berserker
+skillld42	de todos los enemigos que se encuentran cerca \n crea un campo eléctrico que reduce la vida
+xhg	Guanteletes de guerra
+Fiendra	Maligno
+Wraithra	Espectro
+Fiend	Maligno
+Wraith	Espectro
+D2bnetHelp10	ÿc3El texto azulÿc4 representa las acciones que ha realizado la gente en el canal de chat.
+ItemStats1r	Opción de bloqueo:
+x	El servidor está lleno
+x	No se pueden crear nuevas partidas. Únete a otra partida o inténtalo más tarde.
+merca239	Jarulf
+StrSkill63Patch	dura
+x	Estás en la cola para crear una partida. Intenta unirte a una partida para evitar esperar.
+X	Cola de creación de partidas
+x	Se han creado demasiadas partidas. Únete a alguna o espera tu turno en la cola de creación de partidas.
+x	Tu lugar en la cola es:
+x	Estás en la cola de creación de partidas.
+9bl	[ms]Stilleto
+eats and spits corpses	Come y escupe cadáveres
+qstsa2q63f	Explora la cámara de Tal Rasha.
+Shocking Hit	Golpe de conmoción
+11032	Lluvia de rocas: enfriamiento reducido en 1.5 segundos
+ModStrCuck1	unused
+ModStr3u	El impacto hace que el monstruo huya
+ModStr4c	Bonus a la Frecuencia Ataque
+11036	Eviscerate: +2 Projectiles
+ModStr6f	Posibilidad de reanimar al objetivo
+ModStr6d	El impacto ciega al objetivo
+x	Introducir dirección IP del anfitrión para unirse a partida
+StrSkill61	Golpes múltiples
+D2bnetHelp13c	/reply (responder)
+D2bnethelp13d	Te permite responder a un murmullo (whisper) sin teclear el nombre de la cuenta
+D2bnetHelp52	/whisper, /msg, /reply
+D2bnetHelp10a	ÿc9  Amarillo Textÿc4 representa los mensajes especiales enviados directamente desde battle.net
+BnetnewGameTime	Tiempo jugado:
+D2bnetHelp12c	Cuando uses comandos avanzados, también puedes utilizar los nombres de los personajes para miembros del mismo Reino y los nombres de los personajes @Reino para los miembros de otro Reino.
+D2bnetHelp12d	Debes usar los *nombres de las cuentas para todo aquel que esté en battle.net, incluyendo a aquellos que participen en otros juegos, como Starcraft.
+D2bnetHelp12b	Cuando una de las órdenes siguientes requiera que se utilice un <accountname> (<nombredecuenta>), utiliza un <charactername> (<nombredepersonaje>), un <charactername@Realm> (<nombredepersonaje@Reino>) o bien un <*accountname> (<*nombredecuenta>).
+x	PORTAL: %s
+x	CAMBIAR CONTRASEÑA
+x	Cambiar contraseña
+x	Contraseña actual
+x	Nueva contraseña
+x	Comprobar nueva contraseña
+x	SELECCIONAR PORTAL
+x	Si el portal actual no es el más adecuado para el lugar desde el que te conectas, selecciona otro portal de Battle.net.
+x	CAMBIAR REINO
+x	Reino actual
+x	En este Reino ya existe un personaje llamado '%s'.
+D2bnetHelp6a	ÿc5Gray Textÿc4 también representa acciones realizadas por usuarios del canal de chat.
+D2bnetHelp10aPatch	ÿc3Blue Textÿc4 representa los mensajes especiales enviados directamente desde battle.net o los de algún representante de Blizzard.
+x	ENVIAR
+x	ADVERTENCIA DE CONTRASEÑA
+x	No puedes enviar tu contraseña a otro jugador de Battle.net. En ningún caso Blizzard preguntará por tu contraseña.
+x	CONECTANDO...
+x	Diablo II no ha podido conectar con el servidor del reino. Puede que el reino seleccionado no esté disponible, o que tengas problemas de conexión. Asegúrate de que tu conexión a Internet funciona correctamente y de que tu cortafuegos tiene abierto el puerto 6112.
+x	MÁS
+x	En este reino de Diablo II tienes más de ocho personajes disponibles. Sólo se pueden mostrar ocho personajes al mismo tiempo.
+x	Si quieres ver otros personajes, tendrás que borrar uno de los existentes. El personaje se borrará de forma permanente, por lo que no podrás recuperarlo. Visita la siguiente página para obtener más información: www.blizzard.com/support/diablo2.
+X	CONDICIONES DEL SERVICIO
+X	Al conectarse a Battle.net, usted certifica que ha leído las actuales Condiciones del servicio y que está de acuerdo con las mismas.
+x	a0n1:%1 %0
+GemXp1	Guantes, Cinturones, Botas:
+GemXp2	Escudos:
+GemXp3	Armas:
+GemXp4	Armadura:
+strCharSelectHardcoreCharacter	Hardcore Character
+x	Cadena faltante
+EskillLowersResistX	Reduce la resistencia
+ExInsertSocketsX	Puede insertarse en los objetos con huecos
+EskillToMeleeX	a las refriegas
+eskillincasemasteryX	%d Probabilidad de azote crítico
+CfgSay7X	Decir: ¡Retirada!
+champghostlyX	Fantasmal
+champfanaticX	Fanático
+champpossessedX	Poseso
+champberserkX	Frenético
+PalMercExST1X	Shapeshifter
+PalMercEXST3X	Fighter Mage
+PalMercEXST4X	Exemplar
+increaseswithplaylevelX	(Basado en el Nivel de Personaje)
+RankX	Rango
+x	Introduce una dirección de email válida.
+x	Si introduces tu dirección de correo electrónico activarás más opciones como la posibilidad de recuperar tu cuenta si olvidases tu contraseña. Visita ww.battle.net/email-address para obtener más información.
+x	Dirección de email:
+x	Verificar dirección de email:
+x	REGISTRO
+x	NO REGISTRARSE
+x	Asegúrate de que las dos direcciones de email coinciden.
+x	Dirección de email no válida
+x	La dirección de email introducida no es válida. Introduce una dirección de email válida.
+x	Si no introduces tu dirección de correo electrónico no podrás recuperar tu cuenta en el caso de que olvides tu contraseña. No podrás registrar una dirección de correo electrónico en esta cuenta más adelante.
+x	Si has olvidado tu contraseña y has registrado tu dirección de email con nosotros para esta cuenta, puedes solicitar una nueva contraseña haciendo clic en Enviar.
+x	Tu solicitud de contraseña ha sido recibida. Si has registrado una dirección de email para esta cuenta, recibirás un email con instrucciones sobre cómo realizar el cambio de contraseña.
+x	CONTINUAR
+x	¿Has olvidado la contraseña? Haz clic en Configuración de cuenta.
+x	La contraseña que has introducido no es correcta. Puedes conseguir una nueva contraseña haciendo clic en Configuración de cuenta.
+x	CONFIGURACIÓN DE CUENTA
+x	Configuración de cuenta
+x	Si sabes tu contraseña y quieres cambiarla, haz clic aquí.
+x	Si has olvidado tu contraseña o tienes problemas con ella, haz clic aquí.
+DAntlers (Grade 6)	Si necesitas cambiar la dirección de email que has registrado, haz clic aquí.
+DAntlers (Sacred)	NUEVA CONTRASEÑA
+DAspis (Grade 1)	Nueva contraseña
+DAspis (Grade 2)	CAMBIAR EMAIL
+DAspis (Grade 3)	Cambiar email
+DAspis (Grade 4)	Antigua dirección de email:
+DAspis (Grade 5)	Nueva dirección de email:
+DAspis (Grade 6)	Comprobar nueva dirección de email:
+DAspis (Sacred)	Si has registrado una dirección de email para esta cuenta, puedes cambiarla aquí. Ten en cuenta que las dos direcciones de email tienen que estar activadas para poder hacer este cambio.
+DAssault Helmet (Grade 1)	La antigua dirección de email y la nueva son iguales. Introduce una dirección de email diferente.
+DAssault Helmet (Grade 2)	Asegúrate de que las dos nuevas direcciones de email coinciden.
+DAssault Helmet (Grade 3)	Actualización de noticias en Battle.net
+DAssault Helmet (Grade 4)	Última Dificultad Completada:
+DAssault Helmet (Grade 5)	Ninguna
+DAssault Helmet (Grade 6)	ENTRAR EN CHAT
+DAssault Helmet (Sacred)	\nwww.median-xl.com\n
+DAthulua's Hand (Grade 1)	Contraseña no segura
+DAthulua's Hand (Grade 2)	La contraseña que has elegido no es segura. Elige una nueva.
+DAthulua's Hand (Grade 3)	ADVERTENCIA DE CLAVE DEL CD
+DAthulua's Hand (Grade 4)	No puedes enviar tu clave del CD a otro jugador de Battle.net. En ningún caso Blizzard preguntará por tu clave del CD.
+DAthulua's Hand (Grade 5)	Caduca hoy
+DAthulua's Hand (Grade 6)	Caduca en %d días
+DAthulua's Hand (Sacred)	DEP (Personaje caducado)
+DAvenger Guard (Grade 1)	
+DAvenger Guard (Grade 2)	
+DAvenger Guard (Grade 3)	
+DAvenger Guard (Grade 4)	
+DAvenger Guard (Grade 5)	
+DAvenger Guard (Grade 6)	
+DAvenger Guard (Sacred)	
+DBanded Plate (Grade 1)	
+DBanded Plate (Grade 2)	Un personaje de Diablo II debe entrar en una partida de vez en cuando porque caduca tras seis meses de inactividad.
+DBanded Plate (Grade 3)	Un personaje caducado es eliminado del reino.
+DBanded Plate (Grade 4)	No has usado al personaje %s lo suficiente y ha caducado.
+DBanded Plate (Grade 5)	ÿc1Devouring Banded Plate
+DBanded Plate (Grade 6)	ÿc1Devouring Banded Plate
+DBanded Plate (Sacred)	ÿc1Devouring Banded Plate
+DBelt (Grade 1)	ÿc1Devouring Belt
+DBelt (Grade 2)	ÿc1Devouring Belt
+DBelt (Grade 3)	ÿc1Devouring Belt
+DBelt (Grade 4)	ÿc1Devouring Belt
+DBelt (Grade 5)	ÿc1Devouring Belt
+DBelt (Grade 6)	ÿc1Devouring Belt
+DBelt (Sacred)	ÿc1Devouring Belt
+DBlackguard Helm (Grade 1)	ÿc1Devouring Blackguard Helm
+DBlackguard Helm (Grade 2)	ÿc1Devouring Blackguard Helm
+DBlackguard Helm (Grade 3)	a las Habilidades de la Asesina
+DBlackguard Helm (Grade 4)	ÿc1Devouring Blackguard Helm
+DBlackguard Helm (Grade 5)	ÿc1Devouring Blackguard Helm
+DBlackguard Helm (Grade 6)	La CD-Key que estás usando está deshabilitada para jugar en reinos.\nDeberás continuar jugando en Un Jugador y Battle.net abierto.
+DBlackguard Helm (Sacred)	Tu conexión ha sido restringida temporalmene de este reino. Prueba a iniciar sesión en otro momento.
+toa	ÿc8Belladonna Extract
+DBladed Shield (Grade 2)	Twisted Essence of Suffering
+DBladed Shield (Grade 3)	Charged Essence of Hatred
+DBladed Shield (Grade 4)	Burning Essence of Terror
+DBladed Shield (Grade 5)	Nivel de Objeto
+DBladed Shield (Grade 6)	Reiniciar Stat/Punto de Habilidad
+DBladed Shield (Sacred)	ÿc1Devouring Bladed Shield
+x	-- BEGIN SIGMA CORE --
+x	Las siguientes líneas están codificadas -- Marco
+x	Preferencias
+x	Guardar y Salir
+x	Reanudar juego
+x	
+x	
+x	
+x	
+x	
+x	
+x	
+x	
+x	
+x	
+x	
+x	-- END 1.1 --
+x	%ls para bloquear el nivel\nUna nueva búsqueda ha comenzado
+Rusted	oxidado
+x	(Nivel requerido: %d)
+Used	Utilizado
+x	Cerrando en: %s
+x	Únete a otro juego para volver a entrar\nEsta área está bloqueada
+x	UNA VEZ QUE SALGAS NO PUEDES VOLVER
+LegionX	Legión
+EternalVigil	Vigilia eterna
+TerrQ	Terror
+Leviath	Leviatán
+Peace	Paz
+Mana	maná
+ZakQ	Zakarum
+DrQ	Continuar
+boxX	Caja
+barrelX	Barril
+spines	espinas dorsales
+slammer	Prisión
+prophetX	Profeta
+charmX	Encanto
+strBodyLocItemHead	Casco
+strBodyLocItemNeck	Collar
+strBodyLocItemTorso	Armadura
+strBodyLocItemRArm	Objeto de mano derecha
+strBodyLocItemLArm	Objeto de la mano izquierda
+strBodyLocItemRRin	Anillo de mano derecha
+strBodyLocItemLRin	Anillo de mano izquierda
+strBodyLocItemBelt	Cinturón
+strBodyLocItemBoots	Botas
+strBodyLocItemGloves	Guantes
+strBodyLocItemRArmSwitch	Objeto secundario de la mano derecha
+strBodylocItemLArmSwitch	Objeto secundario de la mano izquierda
+strDurabilityWarningDamaged	están dañados\ntus artículos equipados\nuno o más de
+strDurabilityWarningCritical	están muy dañados\ntus artículos equipados\nuno o más de
+strDurabilityWarningBroken	estan rotos\ntus artículos equipados\nuno o más de
+strRaidNotif	esta búsqueda\nllamado ÿc8%Sÿc4 para unirse\nactivado, únete al juego\nUna nueva misión de incursión ha sido
+strRaidNotifOwnGame	activado en este juego.\nUna nueva misión de incursión ha sido
+StrAmmoWarningLow	tener municiones bajas\ntus artículos equipados\nuno o más de
+StrAmmoWarningCritical	tener municiones muy bajas\ntus artículos equipados\nuno o más de
+StrAmmoWarningEmpty	se quedaron sin municiones\ntus artículos equipados\nuno o más de
+StrLevelUpNotif	Elevar a mismo nivel
+StrStatPointsNotif	Nuevos puntos de estadísticas
+StrSkillPointsNotif	Nuevos puntos de habilidad
+StrQuestUpdateNotif	Has hecho nuevos progresos en una misión.
+StrCfgTabHotkey	Ajustes\ntecla de acceso rápido
+StrCfgTitleHud	Interface and display settings
+StrCfgTabDisplay	Ajustes\nInterfaz
+StrCfgTitleNotifications	Notifications
+StrDisplayAlvl	Nivel de área:
+x	Warp Blade
+CfgNoPickup	Alternar recogida de artículos
+CfpMapReveal	Revelar mapa
+StrCfgSmallAutomap	Small automap
+StrCfgTitleAutomap	Automap settings
+StrCfgTheme	Interface Theme
+CfgNotifGold	Ganancias y pérdidas de oro
+CfgNotifLevelUp	Has subido de nivel
+CfgNotifNewStats	Nuevos puntos de estadísticas
+CfgNotifNewSkills	Nuevos puntos de habilidad
+CfgNotifActiveBuffs	Buffs y Debuffs Activos
+CfgNotifRealmWhispers	Susurros de la actividad de tus amigos
+CfgDisplayHp	Siempre mostrar puntos de vida
+CfgDisplayMp	Siempre mostrar puntos de maná
+CfgDisplayGameTime	Tiempo transcurrido en el juego mientras usas automap
+CfgDisplayIlvl	Mostrar el nivel de los objetos
+CfgDisplayGameName	El nombre de la partida usando automap
+CfgDisplayGamePwd	La contraseña de la partida usando automap
+CfgDisplayAlvl	El nivel de cada área usando automap
+CfgVolume	Volumen del Juego
+CfgMusicVolume	Volumen de la Música
+CfgContrast	Contraste
+CfgGamma	Gama
+x	Escudo de maná: +20% de reducción de daños
+x	Daño de autoinmolación por lanzamiento sin cambios\n+3 segundos a la duración de la mejora de Balefire
+x	Los ritos paganos también restauran maná
+1263	Superbeast agrega Deadly Strike en lugar de Spell Damage al 50% de eficiencia
+x	+30% de probabilidad de perforar a Mind Flay
+x	+8 proyectiles de Storm Crows después de ser golpeado
+x	+60 índice de ataque por nivel de personaje por encima de 105\nLa postura del león no reduce tu resistencia física
+x	+40% de probabilidad de perforación para el tótem Stormeye
+x	+200% de daño de fuego en el Coliseo
+x	Cementerio: +2 Proyectiles Adicionales
+x	Ragh nar Rook
+x	La bonificación del atributo Dragon's Blessing se reduce a la mitad
+x	Escudo de maná: 33% menos de maná drenado al ser golpeado
+x	Escudo de maná: 95% menos de maná drenado al ser golpeado
+x	Rayo de luna: duración de mejora duplicada
+x	50% del daño de hechizos de fuego y veneno agregado como bonificación de defensa
+11276	Hunting Banshee: +2 Projectiles
+StrCfgAssignHotkey	O presione cualquier tecla para asignar\nPresione DEL para cancelar la asignación de la tecla\nPresione ESC para cancelar
+x	No puedes infligir daño de fuego, rayos o veneno\n80% de vitalidad agregada como daño por frío al arma
+x	Invierno sin remordimientos
+x	Derriba a los enemigos si tienes al menos 1000 de fuerza
+x	''El conocimiento es poder''
+x	+3% de daño con hechizos por cada 1% de experiencia adicional ganada
+11283	ÿc5Shower of Rocks: cooldown reduced by 1 second\nThunder Slam: cooldown reduced by 4 seconds\nÿc8If You Have no Points in combat stances:
+x	ÿc1Morph del Señor de la Muerte\nÿc8Parásito: +6 Objetivos
+x	Frente de llamas: +5 Proyectiles máximos
+x	+1% Golpe letal por nivel base de Firedance
+x	Ídolo de Scosglen no tiene tiempo de reutilización
+11288	Espíritu de ascuas: +15% de daño total
+11289	Espíritu de ascuas: +10% de daño total
+x	Barrido de maná: +15% de daño total, sanguijuelas sin maná
+x	Fortaleza: +40% de probabilidad de perforación
+x	+60% de probabilidad de atravesar la fortaleza
+x	Celeri Caelesti Iustitia
+11294	20% de la resistencia a los rayos añadida como daño de hechizos de rayos
+x	+15% de resistencia física después del nivel 120\n+25% a la experiencia ganada hasta el nivel 120
+x	Metamorfosis del guardián del árbol
+x	Thundercrack: +100% de daño de rayo adicional
+11298	ÿc5+8% al daño de hechizos físicos/mágicos\n+25% Defensa total del personaje\n+10 de vida después de cada muerte\n+1 a todas las habilidades\nÿc0(Bonificación por runas elementales/grandes engarzadas)\nÿc8Gematría
+11299	+180% de daño al Zakarum
+x	ÿc5+20% a las resistencias elementales\n+0.75% de probabilidad de bloqueo base\n+1 a todas las habilidades\nÿc0(Bonificación por runas elementales/grandes engarzadas)\nÿc8Gematría
+x	¡Adora a los monos crack!
+x	No se puede desconectar
+x	Drena 2% de vida por segundo
+x	+1 Banshee Cazador/Proyectil Ember Spirit\nDrena 2% de vida por segundo
+x	+1 Banshee Cazador/Proyectil Ember Spirit
+x	+2 Proyectiles Caza Banshee\nÿc8Ember Spirit anulado
+x	+3 Proyectiles Ember Spirit\nÿc8Hunting Banshee anulado
+x	Bonificación de resistencia elemental aleatoria
+x	Bonificación de velocidad de movimiento aleatorio
+x	Tempestad: +3 Proyectiles
+x	+150% de daño familiar total
+x	+20 al nivel máximo de habilidad familiar
+11313	Aura de espíritu nephalem de nivel 10
+x	Danza en espiral: +300% de daño mágico adicional
+x	+1% de resistencia física por cada 18% de regeneración de maná
+x	+1% de daño de hechizos físicos/mágicos por cada 20 de vitalidad
+11317	Haz clic derecho para Abrir Grieta Temporal\n
+x	-5% Golpe letal por cada 1% de Velocidad de ataque\n+400% Golpe letal
+x	Doncella escudera: +15% de daño de arma mejorado por nivel de personaje superior a 120
+11320	No se puede actualizar
+11321	+50% de probabilidad de perforar a Mind Flay
+11322	Maelstrom MkI: +25% de daño mágico adicional
+11323	-1% Daño de Hechizos de Frío por 1 Radio de Luz\n+3% de daño de hechizos de fuego por 1 radio de luz\n+2 enfoque de hechizo por 1 radio de luz
+11324	Postura de águila de nivel 20\nMind Flay: +2 Proyectiles
+11325	Postura de lobo de nivel 10
+11326	Agrega 120% de tu daño de hechizos físicos/mágicos como daño físico de arma adicional\nAgrega 120% del daño de tu hechizo de fuego como daño físico de arma adicional
+11327	-1% a la resistencia al veneno del enemigo por cada 25 de fuerza
+11328	ÿc5Agrega 75-150 Daño de Fuego\n+30% de velocidad de ataque\nÿc0(Bonificación por runas elementales/grandes engarzadas)\nÿc8Gematría
+11329	Pulso de maná: +50% de duración
+11330	Agrega 200% de Golpe aplastante como daño de hechizos de fuego y frío
+11331	+100% de daño mágico adicional a Danza en espiral
+11332	Escudo de relámpagos: +(18 a 30) Daño de relámpagos al arma por nivel de habilidad\nThundergod Nova inflige 5000 daños por rayos\nStormblast: +1 Proyectil
+11333	Vasija del juicio: +3 objetivos
+11334	+1% Golpe letal por cada 6% de daño de hechizos de fuego\nDefensa total reducida en un 25%
+11335	Fragmentos de muerte: +50% de sanguijuela de vida
+11336	+3 Proyectiles Misiles Mágicos
+11337	Aura de sangre de demonio de nivel 1
+11338	Las habilidades cuestan vida en lugar de maná
+11339	ÿc5-10% a la resistencia al veneno enemigo\n+30 de vida después de cada muerte\n+2.5% de resistencia física\n+1 a todas las habilidades\nÿc0(Bonificación por runas elementales/grandes engarzadas)\nÿc8Gematría
+11340	Recipiente de retribución: 0.7% de daño absorbido como vida
+11341	Queen of Blades: +2500 daño de rayos a los proyectiles principales
+11342	-6% de daño de arma mejorado por cada 1% de golpe aplastante
+11343	Postura Kraken: +3% Daño por Nivel Base en el Árbol Templario\nPostura de Kraken de nivel 30
+11344	No infligir daño elemental o mágico
+11345	No temas ningún mal
+11346	50% de la bonificación total de defensa de tu personaje agregada como vitalidad
+11347	ÿc5+600 enfoque de hechizo\n+25% de resistencia física\n+33% Golpe letal\n+100% hallazgo mágico\n+50% de velocidad de lanzamiento\nÿc8Asterismo, Bacanales y Dragonlore:\nSi no tienes puntos en Lioness, Shieldmaiden,
+11348	Stormcall no inflige daños por rayos\nStormcall inflige el doble de daño
+11349	Crucificar: +14% de daño mágico por nivel base
+11350	Refugio de las Sombras: -1% a la resistencia al fuego y a los rayos del enemigo por nivel base
+11351	+100% de duración de la llamarada solar
+11352	El tiempo de reutilización de Stampede no se puede reducir por debajo de 0.8 segundos
+11353	Solo puedes usar habilidades cuerpo a cuerpo, de invocación y de apoyo.
+11354	Fire Pierce reduce la perforación en frío\nEl daño de hechizos de fuego reduce el daño de hechizos de frío\nNova glacial: +150% de daño total
+11355	ÿc5 Reutilización de 20 segundos para todos los hechizos de Lightning Tree\nÿc8Si tienes algún punto en Vengeful Power, Living Flame o Snow Queen
+11356	60% del daño de armas agregado al campo magnético como daño físico adicional\nBonificación de daño por rayo de campo magnético convertido a físico
+11357	+20% Golpe mortal si lo maneja un jugador\n+100% de hallazgo mágico si lo maneja un mercenario
+11358	Invoca un esbirro nigromante adicional con cada lanzamiento
+11359	De lo contrario, -10% de daño total de Mind Flay\nSi no te han golpeado recientemente, +30% de daño total de Mind Flay
+11360	-3% de resistencia al veneno enemigo por nivel base de actitud de serpiente
+11361	ÿc5-1% a la resistencia al fuego y a los rayos enemigos por cada 60 atributos\n+200% al daño de hechizos de fuego y relámpagos\nAgrega 3 - 5 Daño de Rayo por 20 Atributos\nAgrega 3 - 5 Daño de Fuego por 20 Atributos\nÿc8Mientras usa Windform:
+11362	El daño de los súbditos también aumenta el daño de tus hechizos con un 50% de eficiencia\n-1 al máximo de tótems
+11363	+1% de velocidad de ataque por cada 20 de fuerza
+11364	ÿc5+0.5% a las resistencias elementales máximas\n+250 a la Vida\nÿc0(Bonificación por runas elementales/grandes engarzadas)\nÿc8Gematría
+11365	No infligir daño de rayo
+x	
+x	
+11368	¡Felicidades!
+11369	Cube después de matar a Dark Star Dragon en menos de 1 minuto y 30 segundos
+11370	+8 al máximo de proyectiles de rayos bifurcados
+11371	No repartir golpes aplastantes\nTus ataques ignoran la resistencia física de los no muertos\n40% de los aumentos de vida de los súbditos agregados como defensa total del personaje\n12% de los aumentos de daño de los súbditos agregados como Golpe letal
+11372	(Máx.: 1 minuto de diferencia)\nCubo después de matar a Imperius y Maltael
+11373	Cubo con esencia/piedra rúnica para rodar estadística
+11374	Se puede actualizar con Ghost Trance
+11375	La probabilidad de evitar daño se convierte en 0%
+11376	Los elementales de fuego obtienen el 100% de su daño físico como fuego
+11377	Agrega 1 - 3 daños de fuego, frío y rayos al arma por 1 enfoque de hechizo
+11378	+120% de daño físico con armas si empuñas un cetro
+11379	ÿc5+1 proyectil a Iceburst\nÿc8Mientras empuñe esta arma a dos manos:
+11380	ÿc5 +100% Proyectiles Noctules\nÿc8Mientras empuñe esta arma a dos manos:
+11381	No puedes invocar elementales de hielo directamente
+11382	No puedes invocar a Blade Spirits directamente
+11383	No puedes invocar genios directamente
+11384	Onda de muerte: +1 Proyectil\nPerdición: +100% de duración
+11385	+33% de velocidad de salto aumentada
+11386	Enjambre de flechas: 50% más de proyectiles
+11387	Sanguine Covenant regenera un 3.5% de la vida máxima por segundo
+11388	El frenesí extático no reduce tu defensa
+11389	Hoja de escorpión: +2 proyectiles
+11390	Los espíritus guardianes heredan el 100% de tu golpe mortal
+11391	Rey Velo: +100% Vida y Daño
+11392	Deathlord te hace significativamente más vulnerable a todos los daños
+11393	ÿc5+3% de daño de arma mejorado por nivel de habilidad de Berrinche\n+0.5% Golpe aplastante por nivel de habilidad de Berrinche\n+0.5% Golpe letal por nivel de habilidad de Berrinche\nÿc8Mientras Tantrum está activo:
+11394	Cementerio: +40% Daño Total y +2 Proyectiles\nNo infligir daño de fuego, relámpagos o frío
+11395	+1.5% de daño por hechizo frío por cada nivel de habilidad de tus modos pasivos\nLáser de lapa: +1 proyectil
+11396	Este daño de fuego aumenta en un 10% por cada nivel base en el árbol de ballesta\nDisparo de cola de llama: +500 daño de fuego
+11397	Sun Strike: +18% de daño de fuego adicional por nivel base en el árbol del arco\nSun Strike dispara 1 proyectil
+11398	Parásito: +200% de daño mágico adicional
+11399	-2% a las resistencias elementales enemigas por nivel base de carnicería
+11400	Este daño de fuego aumenta en un 15% por nivel base de incendios forestales\nAgrega 750 de daño de fuego al ídolo de Scosglen
+11401	Fantasma que ríe: +8% de daño mágico adicional por nivel base de habilidad de invocación
+11402	ÿc5Agrega 100 - 200 de daño por frío\n-10% a la resistencia al frío del enemigo\nÿc0(Bonificación por runas elementales/grandes engarzadas)\nÿc8Gematría
+11403	Agrega (40 a 60)% de destreza como daño mágico al arma
+11404	Tres es una empresa''\n''Cruzaré los mares anchos y sombríos, navegaré
+11405	""Cruzaré los anchos y sombríos mares que navegaré""
+11406	ÿc5+25% Defensa total del personaje\n-5% de resistencias elementales\n+5% de resistencia física\nÿc0(Bonificación por runas elementales/grandes engarzadas)\nÿc8Gematría
+11407	Banshee de caza: +1 Proyectil
+11408	Cazando Banshee: +2 Proyectiles
+11409	-2% a las resistencias elementales enemigas por nivel base de espíritu nephalem
+11410	Duración de la descarga aumentada en 3 segundos
+11411	Exorcismo: +50% Daño Total
+11412	El baño de sangre está activo
+11413	(Máx.: 1 minuto de diferencia)\nCubo después de matar a Rathma y Mendeln
+StrCfgAutomapMode	Automapa pequeño
+StrCfgTextOnlyNotif	Notificaciones de solo texto
+StrCfgDebugUi	Habilitar interfaz de depuración
+StrCfgColorblind	Habilitar adaptaciones para daltónicos
+StrMinute	minuto
+StrMinutes	minutos
+11420	+500% de daño con armas mejoradas
+11421	-70% a las resistencias elementales enemigas
+11422	Aura de campo warp de nivel 20
+11423	Anula la provisión alquímica
+StrCfgShowAutomapParty	Mostrar convocatorias y mercenarios en el mapa
+11425	+1 Rey Velo Extra
+11426	Halcones Nocturnos: +10% Daño Total y +2 Halcones Extra\nRey del velo: +25% de daño total
+11427	+1 tótem corazón de fuego adicional
+11428	Visión sombría: nivel de aura aumentado en 5
+11429	ÿc5+160% al daño del Golem de Hierro\n+20% Golpe aplastante\n+20% Golpe letal\nÿc8Cuando Iron Golem consume este artículo:
+11430	+1 tótems adicionales
+11431	
+11432	Los monstruos asesinados descansen en paz
+11433	ÿc5Transmuta tu vial mejorado antes de que sea demasiado tarde\nMátalo en la media hora entre las once y las doce\nCubo horádrico para ser corrompido por la Nada\nSobrevive a los ataques del Heraldo el tiempo suficiente para que el\nÿc3Para los verdaderamente valientes o locos:\n\n
+11434	ÿc5+50 a la Vida\n+25 de maná\n+5% hallazgo mágico\n+1% de resistencia física\n+10 de vida después de cada muerte\nÿc0(Basado en trofeos)\nÿc8Medallas de Honor
+11435	ÿc4Invocar dos esbirros de Edyrem por lanzamiento\nPuede invocar a Edyrems en cualquier lugar\nÿc5+50% de probabilidad de golpe aplastante\n+20% de Vida Agregada como Daño\n20% Reanimar como: ÿc9Edyremÿc5\nÿc8Invocar a Edyrem:
+11436	Invocar Edyrem: +5000 Defensa
+11437	ÿc5+10 Energía\n+10 Destreza\nÿc8 Cubo con un Trofeo para Agregar Bonificación:
+11438	ÿc5+10 Vitalidad\n+10 Fuerza\nÿc8 Cubo con un Trofeo para Agregar Bonus:
+11439	Moon Queen: +1% de probabilidad de perforación a Furia relámpago por nivel base
+11440	ATMG Sentry: +20 daño mágico por nivel
+11441	+250% a la vida y el daño del Rey del Velo
+11442	Para desbloquear su verdadero poder\n\nÿc5Runa Yham\nRuna Iah\ntres grandes sellos de aprendizaje\nÿc3Transmutar este objeto con:
+11443	Para desbloquear su verdadero poder\n\nÿc5Runa Qor\nRuna Ghal\ntres grandes sellos de aprendizaje\nÿc3Transmutar este objeto con:
+11444	Rabieta: 20% de vitalidad agregado como daño por frío
+11445	Campo gamma: aumento del daño y reducción de la duración
+11446	Soulshatter: +200 daño de fuego por nivel
+11447	ÿc8Ignis Fatuus: bonificaciones aumentadas en un 50%
+11448	ÿc5+3% de recuperación de golpes (por nivel base)\n+3% al daño de hechizos de frío (por nivel base)\nÿc8Después de usar Barrido de maná:
+11449	ÿc4Reutilización de Wyrd aumentada en 0.3 segundos\nÿc8Wyrd: Aturde al objetivo durante 0.2 segundos
+11450	¡Felicidades!
+11451	Añade 2500 - 2500 de Daño Mágico
+11452	Los enemigos cercanos pierden un 10% de resistencia mágica y elemental.
+11453	ÿc5- Falsificación Demoníaca -
+11454	ÿc5- Maldición del Señor de la Guerra -
+11455	ÿc5- Mandato Divino -
+11456	ÿc5- Guía Arcana -
+11457	ÿc5- Reino Eterno -
+11458	ÿc5- Resplandor Infernal -
+11459	ÿc5- Delirio Demoníaco -
+11460	ÿc5- Gracia arruinada -
+11461	ÿc5- Askari Valor-
+11462	ÿc5- Virtuosismo de los Elementos -
+11463	ÿc5- Red de Engaño -
+11464	ÿc5- Disolución vil -
+11465	ÿc5- Síntesis de energía -
+11466	ÿc5- Resplandor de Génesis -
+11467	ÿc5- Revelaciones del Culto -
+11468	ÿc5- Legado de los Antiguos -
+11469	ÿc5- Abrazo de la Sombra -
+11470	ÿc5- Resplandor de la Estrella Oscura -
+11471	ÿc5- Axiomas de Equilibrio -
+11472	ÿc5- Estigma de Excidio -
+11473	(La Armadura será Desencantada por la Receta)\nCuando Cubicado con El Sueño, Permite un Despertar Adicional
+11474	ÿc5- Determinación de Athulua -
+11475	ÿc5restos de una poderosa armadura...
+11476	Dificultad: 60%\n¡Felicidades!
+11477	Dificultad: 65%\n¡Felicidades!
+11478	Dificultad: 70%\n¡Felicidades!
+11479	Dificultad: 75%\n¡Felicidades!
+11480	Dificultad: 80%\n¡Felicidades!
+11481	Dificultad: 90%\n¡Felicidades!
+11482	Dificultad: 100%\n¡Felicidades!
+11483	ÿc3Cubo con Fragmento de Trofeo: Restaurar +20%\nÿc5Resistencia elemental máxima +3%\nDefensa total del personaje +50%\n+2 a todas las habilidades\nÿc0(Basado en el porcentaje de restauración)\nÿc8Restitución
+11484	ÿc3Cubo con Fragmento de Trofeo: Restaurar +4%\nÿc5Vida Máxima +7%\nResistencia Física +15%\n+50% de velocidad de combate\nÿc0(Basado en el porcentaje de restauración)\nÿc8Restitución
+11485	ÿc3Cubo con Fragmento de Trofeo: Restaurar +5%\nÿc5+50% hallazgo mágico\n+10 a todas las habilidades\n+150 Vida después de cada Muerte\n-50% a la resistencia al frío del enemigo\nEstá disponible para todas las clases\nÿc0(Basado en el porcentaje de restauración)\nÿc8Restitución
+11486	ÿc5Resistencia elemental máxima +3%\nDefensa total del personaje +50%\n+2 a todas las habilidades\nÿc8Bendición de trofeos
+11487	ÿc5Vida Máxima +7%\nResistencia Física +15%\n+50% de velocidad de combate\nÿc8Bendición de trofeos
+11488	ÿc5+50% hallazgo mágico\n+10 a todas las habilidades\n+150 Vida después de cada Muerte\n-50% a la resistencia al frío del enemigo\nÿc8Bendición de trofeos
+11489	50% de la fuerza agregada como daño de fuego al arma
+11490	33% de Destreza Añadida como Daño de Hielo al Arma
+11491	36% de Destreza Agregada como Daño de Rayo al Arma
+11492	37% de Destreza Añadida como Daño Tri-Elemental al Arma
+11493	Enfriamiento de trampa de catalizador reducido en 10 segundos\nRadio de trampa de incineración reducido en un 50%
+11494	+1% de daño de trampa por cada 5 de fuerza base
+11495	ÿc850% de Fuerza Añadida como Daño Mágico al modificador de ataque de Área de Efecto
+11496	+3% de resistencia física por nivel base de resurgimiento\n+1% de resistencias elementales máximas por tótem de ese elemento
+11497	-25% a las resistencias elementales enemigas para tus trampas
+11498	ÿc3Daño de arma mejorado -150%\nÿc8Agrega 5 - 7 Daño de Fuego al Arma por cada 2% de Velocidad de Ataque
+11499	Duración del baño de sangre aumentada en 5 segundos
+11500	Puñalada: probabilidad de esquivar disminuida en un 100%\nPuñalada: duración aumentada en 8 segundos
+11501	ÿc8El pulso de maná daña y congela un área grande\nAgrega 50% del maná actual como daño por frío\nMientras está en forma de hombre lobo:
+11502	-75% de drenaje de maná en forma de hombre lobo
+11503	Metal Solace: también mejora los tótems
+11504	+1 Proyectil a Castigadores
+11505	Los elementales de fuego heredan el daño de tus hechizos de fuego
+11506	Los elementales de fuego heredan tu energía y enfoque de hechizos
+11507	+1% de daño con hechizos de relámpagos por cada 2% de hallazgo de oro
+11508	+3 Dragon Wyrms adicionales
+11509	Dragon Breath: reduce el daño físico del arma en un 25%
+11510	Hoplitas: +5% Poison Pierce por nivel base de plaga
+11511	Recuento de Wyrm reducido en 5\nDragon Wyrms disparan dos rayos
+11512	ÿc2\nÿc0(Activo durante la Bendición B)\nÿc8Gloria Nephalem\n
+11513	ÿc2\nÿc0(Activo durante V- Bendición)\nÿc8Ojo de diente afilado\n
+11514	Los efectos de orbe aplicados a este objeto se cuadriplican
+11515	Regenera un 20% de vida durante 5 segundos al recibir daño con un arma
+11516	+20% de daño total a Curare
+11517	ÿc5-150% al daño de los súbditos invocados\n+250 Vida Regenerada por Segundo\n+20% de daño de habilidad Malicia\nÿc8Si no tienes habilidad definitiva:
+11518	Orbes únicos Agregan +7 nivel adicional requerido
+11519	ÿc5La vida de las sanguijuelas de inmersión\nÿc8Con el catalizador y el juicio equipados:
+11520	ÿc5+24% de daño con hechizos Twilight Havoc por nivel base de Chronofield\n+12% de daño con hechizos Twilight Havoc por nivel base de habilidad arcana ofensiva\nÿc8Con el catalizador y el juicio equipados:
+11521	ÿc5Hive agrega 0.75% de Vitalidad a la Energía por Nivel Base en el Árbol Arcano (Max 40%)\nÿc8Con el catalizador y el juicio equipados:
+11522	Duración de la colmena reducida a 30 segundos
+11523	+15% de daño de habilidad Malicia
+11524	28% de la fuerza agregada como daño de rayo al arma
+11525	Barrido de maná: -25% de daño total, sanguijuelas sin maná
+11526	Furia: +4 segundos de duración base
+11527	15% de Destreza agregado como Daño de Arma Mejorado\n-1% a la resistencia al veneno enemigo por cada 1% de probabilidad de bloqueo
+11528	+15 Hachas para Overkill
+11529	+50% de daño mágico adicional al rebote
+11530	Efecto curativo de Apple mientras está equipado
+11531	ÿc5+1 a todas las habilidades\n+20% al daño de hechizos elementales\n+25 enfoque de hechizo\nÿc0(Bonificación por oficios ocultos)\nÿc8Relicario Escondido
+11532	33% de Destreza Agregada como Daño de Rayo al Arma
+11533	+1 resurrección adicional
+11534	Flecha dividida: +8 proyectiles
+11535	+2 Proyectiles Tormenta de Arena
+11536	Tamaño del cono de frío aumentado en un 50%
+11537	+1 proyectiles de ganado enfermo
+11538	+4% a Euphoria Pierce
+11539	+1 tótem corazón de fuego extra
+11540	+1 Tótem Garra de Escarcha adicional
+11541	+1 Tótem Ojo de Tormenta Extra
+11542	Frente de llamas: +1 Proyectil Máximo
+11543	+1 espíritu guardián adicional
+11544	
+11545	+1 Hoplita adicional
+11546	+1 elemental de hielo extra
+11547	+1 proyectiles de lanza de hielo
+11548	+5 Proyectiles Lluvia de Piedras
+11549	+1 oso trueno extra
+11550	
+11551	+1 proyectiles de espinas de afeitar
+11552	Duración del rayo de luna aumentada en 3 segundos
+11553	Nightmare reduce la resistencia física en un 6%
+11554	Enfriamiento de onda explosiva reducido a la mitad
+11555	+8 Hachas para Overkill
+11556	+1 proyectiles de espíritu de dolor
+11557	Parasite gana 5 objetivos adicionales
+11558	+150 de energía base a psicorona
+11559	Triturar: Doble duración
+11560	La duración de Spark of Hope aumentó en 15 segundos.
+11561	+10 proyectiles de rebote
+11562	Eviscerar: +2 Proyectiles
+11563	+2 proyectiles de choque de roca
+11564	+1 sirviente adicional
+11565	La duración de Screaming Eagle aumentó en 3 segundos
+11566	+1 proyectiles de dardos de plata
+11567	20% Lightning Pierce para Slayers
+11568	Llamarada Solar: +30% Duración
+11569	Daño mágico de Disparo de esporas aumentado en un 100%
+11570	+1 proyectiles de ráfaga de borrasca
+11571	+2 proyectiles de cuervos tormentosos
+11572	+2 cosechadoras adicionales
+11573	+25% Perforación de fuego a elementales de fuego
+11574	Esqueleto de sangre: +5 a Grim Vision Aura
+11575	+3 halcones nocturnos adicionales
+11576	Jinn: +4 a Hellfire Aura
+11577	+1 lamia adicional
+11578	+1 Rampagor adicional
+11579	+15% de daño de hechizo elemental al aura de sangre demoníaca
+11580	Rey del velo: +8% Golpe letal
+11581	Enfriamiento de teletransporte reducido en 0.5 segundos (min: 2s)
+11582	+3 proyectiles de tempestad máximos
+11583	+1 tótem nube de veneno extra
+11584	+30% de daño de arma mejorado en forma de hombre búho
+11585	+25% de hallazgo mágico al estar cerca de un resucitado
+11586	Marca del cazador: mayor daño por golpe
+11587	+3 objetivos Wyrmshot
+11588	Campeón del Santuario
+11589	Incisión letal: +1 cuchilla adicional
+11590	+2 Proyectiles Misiles Mágicos
+11591	+10% de daño de Furia relámpago
+11592	Blink restaura la resistencia si tienes un punto en Summon Familiars
+11593	+2 Proyectiles Bloodstar
+11594	+30% de daño adicional a Doom
+11595	+75% de velocidad después de lanzar Jitan's Gate
+11596	Derribo: +1 cargas máximas de furia
+11597	+8% de daño total de tormenta psiónica
+11598	+1 Proyectil a Punisher
+11599	
+ModitemEleInnateSeq	ÿc0Daño de fuego innato: ÿc1%dÿc0 (%.1f%% de %s)
+x	ÿc0Daño de rayo innato: ÿc9%d ÿc0(%.1f%% de %s)
+x	ÿc0Daño de frío innato: ÿc3%d ÿc0(%.1f%% de %s)
+x	ÿc0Daño de veneno innato: ÿc2%d ÿc0(%.1f%% de %s)
+x	ÿc0Daño mágico innato: ÿc8%d ÿc0(%.1f%% de %s)
+x	ÿc0Daño trielemental innato: ÿc8%d ÿc0(%.1f%% de %s)
+x	%d %.1f %s
+x	%d %.1f %s
+x	%d %.1f %s
+x	%d %.1f %s
+11610	
+11611	Posición de la grulla de nivel 14
+11612	Posición de la grulla de nivel 1
+11613	Posición de la grulla de nivel 3
+11614	Postura de grúa de nivel 7
+11615	Postura de lobo de nivel 1
+11616	Postura de león de nivel 6
+11617	Postura de león de nivel 12
+11618	Postura de oso de nivel 1
+11619	Postura de águila de nivel 6
+11620	Postura de águila de nivel 1
+11621	+1% de velocidad de ataque por cada 25 de destreza
+11622	+5% de daño elemental innato por nivel de personaje por encima de 137
+11623	+10% de daño elemental innato por nivel de personaje superior a 137
+11624	Transmutar en el cubo horádrico para mejorar\nSobrevive a la batalla de Edge of Nothingness durante 11 minutos\nDebe tener al menos 3000 Destreza\nMejora solo para cazadores:\n
+11625	Y el abismo mira hacia atrás
+11626	Postura de lobo de nivel 12
+11627	Piedra perfecta del arcoíris
+11628	Runas Sol, Tal, Ort
+11629	2 cristales arcanos
+11630	Joya rara
+11631	Pierna de Wirt
+11632	Emblema de destrucción (secreto)
+11633	Emblema del Sufrimiento (Secreto)
+11634	Emblema del Terror (Secreto)
+11635	Emblema del Odio (Secreto)
+11636	Emblema del dolor (secreto)
+11637	Emblema de mentiras (secreto)
+11638	ÿc0Cubo con Ingredientes separados para Diseñar\n
+11639	ÿc0Cubo con Aceite de Artesanía para Crear\n
+StrStashPageLocal	Página de almacenamiento: 
+StrStashPageShared	Página de almacenamiento compartido: 
+StrStashToggleShared	Cambiar a almacenamiento compartido
+StrStashToggleLocal	Cambiar al almacenamiento local
+StrStashNextPage	Siguiente página
+StrStashPrevPage	Pagina anterior
+11646	10% de hallazgo mágico por piedra arcoíris engarzada\n+1 a todas las habilidades por cada 2 piedras arcoíris engarzadas
+11647	El daño de Lightning Arena aumentó en un 1000%
+11648	La duración de Churel Buff aumentó en un 66%
+11649	Aura de fuego infernal de nivel 5
+11650	Dark Power agrega 1% de daño elemental innato por nivel de habilidad
+11651	Firedance no agrega daño de hechizo
+11652	Hive agrega 1% de daño de hechizo de veneno por nivel de habilidad
+11653	20% de hallazgo mágico por piedra arcoíris engarzada\n+1 a todas las habilidades por cada 2 piedras arcoíris engarzadas
+11654	40% menos de curación de pociones
+11655	(Solo arma)
+11656	(Solo armadura)
+11657	(Solo anillo, amuleto o carcaj)
+11658	(Cualquier artículo equipable)
+11659	200% de bonificación a la duración de Miasma Haunt
+11660	La duración de Miasma Haunt aumentó en 2 segundos
+11661	+50% de bonificación a la duración de Miasma Haunt
+11662	+150% de bonificación a la duración de Miasma Haunt
+11663	+200% de daño mejorado a Moonstrike
+11664	Transformación de druida
+11665	30% de daño mejorado contra necrobots
+11666	Aumento de la tasa de curación de las manzanas en un 50%
+11667	Aumento de la tasa de curación de las manzanas en un 100%
+11668	+1 a Todas las Habilidades al usar un Apple
+11669	+2 a Todas las Habilidades al usar un Apple
+11670	+3 a Todas las Habilidades al usar un Apple
+11671	+15% de daño a la sed de sangre del espíritu protector\n
+11672	+30% de daño a la sed de sangre del espíritu protector\n
+11673	+50% de daño a la sed de sangre del espíritu protector\n
+11674	Resplandor abrasador: Dazzle reduce la tasa de ataque del enemigo en un 5%
+11675	10% de la energía total ganada como vida
+StrSkillTabsAma	Divino
+x	Arco
+x	Jabalina
+x	Lanza
+x	Tormenta
+x	Sangre
+x	Maestría
+x	Premio
+x	
+x	
+StrSkillTabsAss	ninja
+x	Lanzamiento
+x	Garra
+x	Naginata
+x	trampas
+x	psiónico
+x	Maestría
+x	Premio
+x	
+x	
+StrSkillTabsBar	Nómada
+x	sacudidor de la tierra
+x	tallador de viento
+x	elementalista
+x	Belicista
+x	Chamán
+x	Maestría
+x	Premio
+x	
+x	
+StrSkillTabsDru	Naturaleza
+x	hombre oso
+x	Hombre-lobo
+x	hombre búho
+x	Cazador
+x	Vidente
+x	Maestría
+x	Premio
+x	
+x	
+StrSkillTabsNec	Portavoz de la muerte
+x	Convocar
+x	Pelea confusa
+x	Ballesta
+x	Malicia
+x	Tótem
+x	Maestría
+x	Premio
+x	
+x	
+StrSkillTabsPal	aspectos
+x	templario
+x	Encarnación
+x	Nephalem
+x	Ritualista
+x	Brujo
+x	Maestría
+x	Premio
+x	
+x	
+StrSkillTabsSor	Arcano
+x	Fuego
+x	Relámpago
+x	Frío
+x	Veneno
+x	Pelea confusa
+x	Maestría
+x	Asamblea de brujas
+x	Premio
+x	
+11746	Tu daño por frío se anula
+11747	Cuando está equipado con Acokanthera: +1 segundo de duración a Nube devoradora
+11748	-1% a las resistencias elementales enemigas por cada 150 de destreza
+11749	Carnage ahora convierte el 100% del daño físico en fuego
+11750	La conversión de carnicería se reduce en un 1% por nivel base\nSu daño de fuego es anulado
+RightClickToUnsummon	Haga clic con el botón derecho para cancelar la invocación
+11752	NO USADO
+11753	+5-10 de daño por nivel de personaje por encima de 138
+11754	Holy Shock tiene 1200 de daño base, aumenta en un 1% por cada 7 de energía\nChoque sagrado de nivel 1
+11755	Con 15 niveles básicos en Runemaster: 10% de golpe mortal\nAl menos 1 nivel base en Runemaster: resistencias elementales máximas +2%
+11756	(El que sea más alto)\n+1% de daño de arma mejorado por cada 50 de fuerza o destreza
+11757	Aullido de los espíritus: +4 segundos de duración
+11758	+100% de daño de fuego adicional para tomar represalias
+strConfigDungeonTimer	Mostrar cuenta regresiva en mazmorras cronometradas
+11760	Nivel 1 Chispa de esperanza
+11761	-3% de daño de arma mejorado por cada 1% de maná perdido\n+200% de daño con armas mejoradas
+11762	+1 caza misiles Banshee
+11763	Psicrown ahora explota al impactar
+11764	El rango de explosión de los lémures aumentó en un 75%
+11765	Por debajo del 50% de vida: +100 de vida después de cada muerte\nPor encima del 70% de vida: -200 de vida después de cada muerte
+11766	(elegir uno)\nHabilidad máxima
+11767	Ring Of Flames gana +1% de daño total por nivel de personaje
+11768	Llama viviente otorga +1% de daño con hechizos de fuego por cada 8 niveles de personaje
+11769	Death Ripple agrega +10 de vida por nivel de habilidad\n+1 proyectil a onda mortal
+11770	(bloquea otras devociones)\nÿc8Santa Devoción
+11771	(bloquea otras devociones)\nÿc;Devoción profana
+11772	(bloquea otras devociones)\nÿc0Devoción neutral
+11773	+1% de daño elemental innato por cada 250 de fuerza y ​​destreza
+11774	+1% de resistencia máxima al frío por cada 80% de resistencia al frío
+11775	+25 daño de fuego por cada 100 de destreza
+11776	La resistencia al fuego del enemigo se reduce con Lightning Pierce al 25% de eficiencia
+11777	+10% de maná máximo si Llamarada solar está activa\n+40 Concentración de Hechizos si Sanguine Covenant está Activo
+11778	En forma de hombre lobo: -10% de resistencia al frío del enemigo\nMientras está en forma de hombre búho: agrega 10-15 de daño
+11779	Los caballeros del abismo obtienen un 1% de golpe aplastante por cada 75% de daño de los súbditos
+11780	+1% de resistencia elemental máxima por cada 200% de daño de hechizos de relámpagos
+11781	12% de probabilidad de lanzar Flamefront de nivel 42 en Death Blow cuando está por debajo del 80% de vida
+11782	Sinergia de aceite Dragonfire aumentada en un 100%
+11783	Si tienes 90% de resistencia al fuego: +50% de daño de hechizos de fuego
+11784	La conversión del campo magnético disminuyó en un 2% por nivel básico
+11785	Cura 0.05% de vida por segundo por 1% de maná perdido
+11786	Por encima del nivel 100: +6-12 Daño de rayo por nivel de personaje\nHasta el nivel 100: +2-4 daños por rayo por nivel de personaje
+11787	Si el Coliseo tiene 20 niveles base: +5% a evitar
+11788	7% de probabilidad de lanzar Lifespark de nivel 5 en Death Blow cuando está por debajo del 50% de vida
+11789	Los Abyss Knights tienen un 8% de probabilidad de lanzar Widowmaker de nivel 13 al matar
+11790	ÿc0(no puedes usar dos armas)\nÿc8Base elemental cuerpo a cuerpo requerida
+11791	ÿc5Dirge Probabilidades de lanzar aumentadas en un 10%\nÿc8Cuando Soulchain está activo:
+11792	ÿc5Tótem Ojo de Tormenta tiene 6% de Probabilidad de lanzar Choque de Tormenta Nivel 44 en Golpe Mortal\nÿc5Fireheart Totem tiene 6% de probabilidad de lanzar Cataclysm de nivel 44 en Death Blow\nÿc5Tótem Garra Helada tiene un 6% de probabilidad de lanzar Ventisca de nivel 44 con Golpe letal\nÿc8Cuando Soulchain está activo:
+11793	Las habilidades de Earthshaker tienen sus tiempos de reutilización reducidos en un 20%
+11794	+3 a todos los Atributos\nÿc4Armas, Armadura:\n
+11795	+3 al daño máximo\nÿc4Armadura:\n\nÿc0+5 al Daño Máximo\nÿc4Armas:\n
+11796	+3% al daño de hechizos de fuego\nÿc4Armas, Armadura:\n
+11797	+3% al daño de hechizos de relámpagos\nÿc4Armas, Armadura:\n
+11798	+3% al daño de hechizos de frío\nÿc4Armas, Armadura:\n
+11799	+3% al daño de hechizos de veneno\nÿc4Armas, Armadura:\n
+11800	+3% al daño de hechizos físicos/mágicos\nÿc4Armas, Armadura:\n
+11801	Resistencia al fuego +25%\nÿc4Armadura:\n\nÿc0Resistencia al fuego +30%\nÿc4Armas:\n
+11802	Resistencia a rayos +25%\nÿc4Armadura:\n\nÿc0Resistencia al rayo +30%\nÿc4Armas:\n
+11803	Resistencia al frío +25%\nÿc4Armadura:\n\nÿc0Resistencia al frío +30%\nÿc4Armas:\n
+11804	Resistencia al veneno +25%\nÿc4Armadura:\n\nÿc0Resistencia al Veneno +30%\nÿc4Armas:\n
+11805	+40 de maná\nÿc4Armadura:\n\nÿc0+60 de maná\nÿc4Armas:\n
+11806	+10% de bonificación a la duración de la habilidad Veneno\nÿc4Armadura:\n\nÿc0+15% de bonificación a la duración de la habilidad Veneno\nÿc4Armas:\n
+11807	+10% a la vida de los súbditos invocados\nÿc4Armas, Armadura:\n
+11808	+5% al daño de los súbditos invocados\nÿc4Armas, Armadura:\n
+11809	+50% al índice de ataque de los súbditos invocados\nÿc4Armas, Armadura:\n
+11810	+5% a las resistencias de los súbditos invocados\nÿc4Armas, Armadura:\n
+11811	5% a la fuerza\nÿc4Armas, Armadura:\n
+11812	5% a Destreza\nÿc4Armas, Armadura:\n
+11813	4% a la Vitalidad\nÿc4Armas, Armadura:\n
+11814	5% a Energía\nÿc4Armas, Armadura:\n
+11815	Resistencias elementales +10%\nÿc4Armas, Armadura:\n
+11816	+3% a todos los atributos\nÿc4Armas, Armadura:\n
+11817	+7% hallazgo mágico\nÿc4Armadura:\n\nÿc0+10% hallazgo mágico\nÿc4Armas:\n
+11818	+15% de velocidad de ataque\nÿc4Armas, Armadura:\n
+11819	+15% de velocidad de lanzamiento\nÿc4Armas, Armadura:\n
+11820	+15% de recuperación de golpes\nÿc4Armas, Armadura:\n
+11821	+15% de velocidad de bloqueo\nÿc4Armas, Armadura:\n
+11822	Maná regenerado +5%\nÿc4Armadura:\n\nÿc0Regeneración de maná +15%\nÿc4Armas:\n
+11823	Ralentiza al atacante en +2%\nÿc4Armadura:\n\nÿc0Objetivo lento +3%\nÿc4Armas:\n
+11824	+15% Defensa Mejorada\nÿc4Armadura:\n\nÿc0+15% de daño mejorado\nÿc4Armas:\n
+11825	Maná máximo +2%\nÿc4Armadura:\n\nÿc0Maná máximo +3%\nÿc4Armas:\n
+11826	Indestructible\nÿc4Armas, Armadura:\n
+11827	+x a la Fuerza\nx% a Fuerza\nx% de probabilidad de golpe aplastante\n
+11828	+x a Destreza\nx% a Destreza\nx% de bonificación al índice de ataque\n
+11829	+x a la vitalidad\nx% a la vitalidad\n+x vida regenerada por segundo\n
+11830	+x a Energía\nx% a Energía\n+x Concentración de hechizos\n
+11831	Agrega daño x-y\n+x% de daño mejorado\n
+11832	ÿc5(Armadura)\nÿc0Resistencia Física +x%\n+x% Defensa Mejorada\n\nÿc5(Armas)\nÿc0x% golpe mortal\nRequisitos +x%\n+x% de daño mejorado\n
+11833	+x% al daño de los súbditos invocados\n+x% al índice de ataque de los súbditos invocados\n
+11834	+x% al daño de hechizos de fuego\n-x% a la resistencia al fuego enemigo\n
+11835	+x% al daño de hechizos de relámpagos\n-x% a la resistencia al rayo enemigo\n
+11836	+x% al daño de la ola de frío\n-x% a la resistencia al frío del enemigo\n
+11837	+x% al daño de hechizos de veneno\n-x% a la resistencia al veneno enemigo\n
+11838	+x% de velocidad de lanzamiento\nManá máximo +x%\nManá regenerado +x%\n
+11839	+x% a la vida del súbdito invocado\n+x% a las resistencias de los súbditos invocados\n
+11840	Resistencia mágica +x%\n+x% al daño de hechizos físicos/mágicos\n
+11841	1% Reanimar como: Monstruo aleatorio\n1% Reanimar como: Monstruo aleatorio\n
+11842	+x a todos los atributos\n+x% al daño elemental innato\n
+strMercLabelStrength	Fuerza
+strMercLabelDexterity	Destreza
+strMercLabelEnergy	Energía
+strMercLabelLife	La vida
+strMercLabelDefense	Defensa
+strMercLabelAttack	Puntuación de ataque
+strMercLabelResistFire	Resistencia\nFuego
+strMercLabelResistCold	Resistencia\nFrío
+strMercLabelResistLtng	Resistencia\nRelámpago
+strMercLabelResistPois	Resistencia\nVeneno
+strMercLabelMf	Descubrimiento mágico
+strMercLabelGf	hallazgo de oro
+strMercLabelFireSpd	Deletrea peligro\nFuego
+strMercLabelColdSpd	Deletrea peligro\nFrío
+strMercLabelLtngSpd	Deletrea peligro\nRelámpago
+strMercLabelPoisSpd	Deletrea peligro\nVeneno
+11859	Puedes elegir hasta dos pasivos
+11860	Puedes elegir hasta tres maestrías
+11861	Desbloquea la habilidad de maestría: Tenacidad
+11862	Desbloquea la habilidad de dominio: Química
+11863	Desbloquea la habilidad de maestría: especialización
+11864	Desbloquea la habilidad de maestría: Resistencia
+11865	Desbloquea la habilidad de maestría: Continuidad
+11866	Desbloquea la habilidad de dominio: MARCADOR DE POSICIÓN
+11867	Desbloquea la habilidad de dominio: MARCADOR DE POSICIÓN
+11868	Desbloquea la habilidad de dominio: MARCADOR DE POSICIÓN
+11869	Desbloquea la habilidad de dominio: MARCADOR DE POSICIÓN
+11870	Desbloquea la habilidad de dominio: MARCADOR DE POSICIÓN
+11871	Desbloquea la habilidad de dominio: MARCADOR DE POSICIÓN
+11872	Desbloquea la habilidad de dominio: MARCADOR DE POSICIÓN
+11873	Todas las habilidades requieren forma de hombre oso
+11874	Todas las habilidades requieren forma de hombre lobo
+11875	Todas las habilidades requieren forma de hombre búho
+11876	El alineamiento espiritual ya no agrega daño de hechizos de fuego/frío\nEl alineamiento espiritual agrega un 5% de daño de hechizos de relámpagos por nivel base
+strPartyScreenKillCount	Monstruos asesinados
+strPartyScreenTimePlayed	Horas jugadas
+11879	Derribo: +1 cargas máximas de furia
+strPartyScreenFriends	Amigos
+strPartyScreenAddFriend	Añadir amigo
+11882	Vindicar: +200% Duración
+11883	Fuerza de vendaval: +1.3 yardas al área de efecto
+11884	Gana el 50% de tu maná máximo como defensa
+11885	- sin recibir daño de la Tormenta de Grieta\n- con al menos un Frozen Shambler vivo\nÿc2Derrota al Caminante del Rift Ascendente\nÿc0(encanto de cubo solo al finalizar)\nÿc7Misión de bonificación II\n
+11886	- sin recibir daño de la Tormenta de Grieta\nÿc2Derrota al Caminante de fallas superior\nÿc0(encanto de cubo solo al finalizar)\nÿc7Misión de bonificación I\n
+11887	Obtenga un 20% de su resistencia al veneno como reducción de la duración del veneno
+11888	Martillo de Zerae: Sinergia Stormcall aumentada en un 100%
+11889	NO USADO
+11890	(bloquea otras devociones)\nÿc0Arco Devoción
+11891	(bloquea otras devociones)\nÿc0Devoción a la jabalina
+11892	(bloquea otras devociones)\nÿc0Lanza Devoción
+11893	(bloquea otras devociones)\nÿc0Tormenta Devoción
+11894	(bloquea otras devociones)\nÿc0Devoción de sangre
+11895	6 runas de fuego
+11896	6 runas de piedra
+11897	6 runas arcanas
+11898	6 Runas de Luz
+11899	6 runas de hielo
+11900	6 runas de veneno
+11901	Costo de oro: 250,000\nCubo con 6 Runas para Crear
+11902	+100 de daño por relámpagos por nivel de personaje por encima de 130
+11903	+6 Vida por Cognición
+11904	+3-5 de daño por nivel base de Thundercrack
+11905	Obtienes los efectos secundarios de todas las habilidades exclusivas mientras estás sobrecargado
+11906	Escudos: Resistencia al fuego +30%\nArmadura: 4% a la Vitalidad\nArmas: +10 Vida después de cada Muerte\n
+11907	Escudos: Resistencia al Veneno +30%\nArmadura: +2 Vida Regenerada por Segundo\nArmas: +5 al daño máximo\n
+11908	Escudos: Resistencia al frío +30%\nArmadura: Resistencia al frío +20%\nArmas: +8 maná después de cada asesinato\n
+11909	Escudos: Resistencia a los rayos +30%\nArmadura: 5% a la Energía\nArmas: +10 enfoque de hechizos\n
+11910	Escudos: resistencias elementales +5%\nArmadura: 5% a la Fuerza\nArmas: +3% al daño de hechizos\n
+11911	Escudos: +5 de maná cuando es golpeado por un enemigo\nArmadura: 5% a Destreza\nArmas: 50% de bonificación al índice de ataque\n
+11912	Escudos: longitud del veneno reducida en un 5%\nArmadura: +10% Defensa Mejorada\nArmas: +10% de daño mejorado\n
+11913	Escudos: 10% de reducción de la duración de la maldición\nArmadura: 8% Hallazgo de oro\nArmas: 3% de daño elemental innato\n
+11914	Escudos: +5% a las resistencias de los súbditos invocados\nArmadura: Resistencia al fuego +20%, Resistencia máxima al fuego +1%\nArmas: +10% a la vida de los súbditos invocados\n
+11915	Escudos: Objetivo lento 2%\nArmadura: Resistencia al frío +20%, Resistencia máxima al frío +1%\nArmas: +5% al daño de los súbditos invocados\n
+11916	Escudos: ralentiza al atacante en un 2%\nArmadura: Resistencia a rayos +20%, Resistencia máxima a rayos +1%\nArmas: 2% Reanimar como: Caminante\n
+11917	Escudos: 8% hallazgo mágico\nArmadura: resistencia al veneno +20%, resistencia máxima al veneno +1%\nArmas: maná regenerado +10%\n
+11918	+1% de probabilidad de bloqueo por cada 300 de maná\n+1 índice de ataque por cada 3 de maná
+11919	
+11920	
+11921	
+11922	
+11923	
+11924	
+11925	
+11926	Principio de la armonía
+11927	Principio de moderación
+11928	Principio de vigor
+11929	Principio de la Sabiduría
+11930	Principio de juicio
+11931	Principio del conflicto
+11932	3 cristales arcanos
+11933	2 cristales corruptos
+11934	Gran sello de aprendizaje
+11935	3 anillos únicos
+11936	3 amuletos únicos
+11937	3 armaduras corporales únicas sagradas
+11938	3 cinturones únicos sagrados
+11939	3 guantes únicos sagrados
+11940	3 botas únicas sagradas
+11941	4 ciclos grandes
+11942	4 fragmentos de trofeo
+11943	5 runas encantadas
+11944	Reliquia
+11945	25 santuarios
+11946	3 orbes místicos únicos
+11947	Control del clima
+11948	El sueño
+11949	Libros de Kalan
+11950	trance fantasma
+11951	La ilusión de Xazax
+11952	Pacto de Neutralidad
+11953	(Mejores artículos y más oro cuestan cuanto mayor sea la runa)\nRestaurar oro Costo: 20,000 - 500,000\nCubo con Cristal Arcano y Runa Encantada para Restaurar
+11954	Transmutar en el Cubo para Abrir
+11955	Cubo con runa encantada para desbloquear
+11956	ÿc0Coste del oro: 666,666\nCubo con Aceite de Artesanía para Crear\n
+11957	ÿc0Costo de oro: 1,000,000\nCubo con Aceite de Artesanía para Crear\n
+11958	ÿc0Costo de oro: 1,000,000\nCubo con Aceite de Artesanía para Crear\n
+11959	ÿc0Costo de oro: 2,500,000\nCubo con Aceite de Artesanía para Crear\n
+11960	
+11961	
+11962	
+11963	
+11964	
+11965	
+11966	
+11967	
+11968	
+11969	
+11970	
+11971	
+11972	
+11973	
+11974	
+11975	
+11976	
+11977	
+11978	
+11979	
+11980	
+11981	
+11982	
+11983	
+11984	
+11985	
+11986	
+11987	
+11988	Costo de oro: 5000\nÿc8+(1 a 3)% Hallazgo Mágico\n
+11989	Costo de oro: 5000\nÿc8Requisitos -(2 a 4)%\n
+11990	Costo de oro: 5000\nÿc8+(4 to 6)% a la vida del súbdito invocado\n
+11991	Costo de oro: 10000\nÿc8Resistencia elemental +(3 a 5)%\n
+11992	Costo de oro: 10000\nÿc8+(1 a 2) de maná después de cada muerte\n+(2 a 4) de vida después de cada asesinato\n
+11993	Costo de oro: 10000\nÿc8+(2 a 4)% a las resistencias de los súbditos invocados\n
+11994	Costo de oro: 15000\nÿc8+(3 a 5) a Todos los Atributos\n
+11995	Costo de oro: 15000\nÿc8+(1 a 4) de maná en ataque cuerpo a cuerpo\n+(2 a 8) de vida en ataque cuerpo a cuerpo\n
+11996	Costo de oro: 15000\nÿc8+(1 a 3)% al daño de los súbditos invocados\n
+11997	Costo de oro: 25000\nÿc8+(1 a 2)% al daño de hechizos\n
+11998	Costo de oro: 25000\nÿc8+(1 a 2)% de maná robado por golpe\n+(1 a 2)% de vida robada por golpe\n
+11999	Costo de oro: 25000\nÿc8+(2 a 4) al Daño Máximo\n
+12000	Costo de oro: 50000\nÿc8+(4 a 8) Concentración de hechizos\n
+12001	Costo de oro: 50000\nÿc8+1% a la experiencia ganada\n
+12002	Costo de oro: 50000\nÿc8 Indestructible\n
+12003	marcador de posición de joyería
+12004	marcador de posición de joyería
+12005	marcador de posición de joyería
+12006	marcador de posición de joyería
+12007	marcador de posición de joyería
+12008	5% de probabilidad de lanzar Slayer de nivel 50 en Death Blow
+12009	Permite un compañero de oso adicional
+12010	+4 proyectiles de cuervos tormentosos
+12011	+25 Defensa por cada 1% de Daño de Hechizos de Fuego
+12012	30% agregado como Daño Físico de Armas (Max +150%)
+12013	36% agregado como Daño Físico de Armas (Max +150%)
+12014	6% añadido como daño elemental innato (máx. +25%)
+12015	8% añadido como daño elemental innato (máx. +25%)
+12016	15% añadido como daño de hechizos de fuego y relámpagos (máx. +40%)
+12017	18% añadido como daño de hechizos de fuego y relámpagos (máx. +40%)
+12018	15% agregado como daño de hechizos de frío y veneno (máx. +40%)
+12019	18% agregado como daño de hechizos de frío y veneno (máx. +40%)
+12020	15% agregado como daño de hechizos físicos y mágicos (máx. +40%)
+12021	18% agregado como daño de hechizos físicos y mágicos (máx. +40%)
+12022	5% añadido como hallazgo mágico (máx. +100%)
+12023	6% añadido como hallazgo mágico (máx. +100%)
+12024	ÿc3Otorga estadísticas basadas en la suma de tu daño adicional a No-muertos y Demonios\nÿc0Equipar varias campanas elimina todas las bonificaciones
+12025	Árbol de lanzador de conjuros cuerpo a cuerpo
+12026	Los Servants of Valor tienen un 4% de probabilidad de lanzar poder oscuro de nivel 51 al matar
+12027	Permite un Slayer adicional
+12028	Añade un 1% de golpe aplastante por cada 4% de daño de hechizos de fuego.
+12029	Abyss Knights mueren después de ser convocados
+12030	Marcado para la duración de la muerte aumentó en 0.2 segundos
+strMercLabelResistPhys	Resistencia\nFísico
+CfgDisplayGamePing	El ping del juego cuando se usa el mapa automático
+StrAutomapPing	Silbido:
+12034	+1 objetivo a Birdstorm
+12035	-100% a la resistencia a los rayos enemigos (requiere un 100% de golpe aplastante)
+12036	Antimass recupera la resistencia
+12037	Torrente arcano: +20% de proyectiles extra
+12038	Enjambre de flechas: +2 proyectiles
+12039	Balefire: 30% de velocidad de movimiento mientras se autoinmola
+12040	Perdición: +100% de duración
+12041	Onda de muerte: +1 Proyectil
+12042	Perdigones: +7 Proyectiles
+12043	Poder oscuro: Daño mágico duplicado
+12044	ÿc5(Espíritu defensor - Espíritu guardián - Espíritu protector)\nSpirit Walk no tiene tiempo de reutilización mientras llevas todas las reliquias de chamán
+12045	+1 Espíritu Defensor Extra
+12046	+1 espíritu protector adicional
+12047	Ignite: 50% de daño total por fuego
+12048	ÿc5(Espíritu de las ascuas - Banshee de caza)\n+1 Caza Banshee/Ember Spirit Proyectil mientras lleva reliquias de Seer Spirit
+12049	ÿc5(Tótem Corazón de Fuego - Tótem Garra de Escarcha - Tótem Ojo de Tormenta)\n5% de absorción de fuego/frío/rayos al llevar reliquias de tótems
+12050	+2 al máximo de proyectiles de rayos bifurcados
+12051	+2% a la bonificación de defensa del maestro de runas mientras la fortaleza está activa
+12052	Huracán: Regenera el 100% de Vida en 20 segundos
+12053	Nova gélida: duración de congelación doble
+12054	Gorefest: 66 daños mágicos por nivel
+12055	Gran Cacería: +1 Espíritu
+12056	Martillo de Zerae: daño físico adicional aumentado en un 25%
+12057	Inmersión: 7% de probabilidad de activar un proyectil adicional
+12058	Pozo de lava: radio de explosión aumentado en 1.3 yardas
+12059	Vasija del juicio: +1 objetivo
+12060	Vasija de retribución: +1 objetivo
+12061	Maelstrom MkI: +10% de daño mágico adicional\n
+12062	Barrido de maná: +10% de daño total
+12063	Symphony of Destruction: +1 Rayo en el área de efecto de Slayer
+12064	A sangre fría: también atraviesa la resistencia al rayo
+12065	Mythal: reduce la resistencia física/mágica del enemigo en un 5%
+12066	ÿc5(Colmena - Carga Nova - Camino de Llamas)\n+10 a Corazón helado mientras llevas reliquias periódicas
+12067	Láser de lapa: +1 proyectil
+12068	Refugio de las Sombras: 50 de vida regenerada por segundo por nivel base en Shadowrush
+12069	Pestilencia: +10 segundos de duración
+12070	Pira: resistencia física duplicada
+12071	Eye of the Storm: ya no reduce el daño
+12072	+1 Caballero del Abismo extra
+12073	Stormblast: 5% de probabilidad de activar proyectiles adicionales
+12074	Maelstrom MkI: 20% de probabilidad de activar un proyectil adicional durante la vulnerabilidad Wychwind
+12075	+1% de daño de hechizos físicos/mágicos por cada 5 de cognición
+12076	ÿc4+666 a la Vida\n+100% al índice de ataque de los súbditos invocados\n+100% al daño de los súbditos invocados\nInvoca un Minion adicional con cada lanzamiento\nÿc8Exodia\n\nÿc5(Invocar Frostwalker - Invocar hongo resplandeciente - Invocar pecador)\nGanancia ÿc8Exodiaÿc5 mientras lleva todas las reliquias del trío de invocación
+12077	Lluvia de rocas: -4% de resistencia física enemiga
+12078	Maelstrom MkI: +10% de daño mágico adicional
+12079	ÿc3Enfriamiento de Carnage reducido en 1.72 segundos\nÿc8Carnicería: +1250 daño de fuego
+12080	
+12081	Familiars Cast Crucify when Killed/Unsummoned
+12082	ÿc5Transmute the charm with a Celestial Wind effigy\nComplete all of the above Labyrinth Quests\nÿc4Trial of the Nephalem
+12083	\nÿc5Transmute charm after boss death\nDefeat Deimoss the Fleshweaver in the Labyrinth depths\nÿc4End the Invasion
+12084	\nÿc5(these items are rare drops from Labyrinth mini bosses)\nTransmute charm once with each Star Chart piece and Dream Fragment\nDefeat the monster Heroes, Champions and Sovereigns roaming the Labyrinth\nÿc4Trial of Purity
+12085	\nÿc5(must be done in ascending order)\nTransmute charm once with each Riftstone\nExplore every level of the Labyrinth\nÿc4Trial of Discovery
+12086	\nÿc5Transmute charm with an Elemental Dominion effigy\nDefeat Deimoss with exactly 5 optional difficulty modifiers\nÿc4Dimensional Alchemy
+12087	ÿc5Returns charm and a random Relic\nTransmute charm with a Depleted Riftstone (6)\nÿc4Dimensional Alchemy Unlocked
+12088	\nÿc5Transmute charm with an Elemental Ire effigy\nDefeat Deimoss with exactly 3 optional difficulty modifiers\nÿc4Occult Smithing
+12089	\nÿc5Returns charm and an Occult Effigy of a higher tier\nTransmute charm with two identical Occult Effigies\nÿc4Occult Smithing Unlocked
+12090	\nÿc5Charges: 0
+12091	\nÿc5Charges: 1
+12092	\nÿc5Charges: 2
+12093	\nÿc5Charges: 3
+12094	\nÿc5Charges: 4
+12095	\nÿc5Charges: 5
+12096	Conductivity: Chance to Cast Doubled
+12097	Conductivity: +1% Chance to Trigger Stormcall on Hit
+12098	Discharge: Thunder Frequency Improved by 0.4 seconds
+12099	Scorpion Blade: Always Explodes, Max Range -25%
+12100	+1 Extra Target to Storm Crows
+12101	Summon Two Ancient Spirits per Cast
+12102	ÿc4Blessing of Karcheus\n\nÿc5Deals 50% Weapon Damage\nEnemies can trigger the mine prematurely upon contact\nbefore exploding into a rapid barrage of homing ice arrows\nFire an ice mine that slows to a halt a short distance in front of you \nWhile holding a Bow:\n\nDeals up to 2800% Weapon damage at the center\nStrike the ground in front of you, releasing an pulsing nova of cold\nWhile holding a Spear:
+12103	ÿc4Sacrificial Fervor\nÿc5After taking damage, Servants lose 10% of their life per second until they die\nInherits Fire Pierce from Elemental Wisdom twice\nDoubled Damage, Attack Speed, and Movement Speed\nÿc8Servants of Valor:
+12104	ÿc4A Blank Slate of Infinite Potential\n
+12105	
+12106	
+12107	
+12108	
+12109	ÿc1You can only carry one Relic
+12110	\nÿc5Transmute charm with a Sigil of Absolution\nDefeat Deimoss with exactly 6 optional difficulty modifiers\nÿc4Void Armor
+12111	ÿc8Abandoned Shrine\n
+12112	ÿc8Creepy Shrine\n
+12113	ÿc8Eerie Shrine\n
+12114	ÿc8Enchanted Shrine\n
+12115	ÿc8Fascinating Shrine\n
+12116	ÿc8Hidden Shrine\n
+12117	ÿc8Intimidating Shrine\n
+12118	ÿc8Magical Shrine\n
+12119	ÿc8Ornate Shrine\n
+12120	ÿc8Quiet Shrine\n
+12121	ÿc8Sacred Shrine\n
+12122	ÿc8Shimmering Shrine\n
+12123	ÿc8Spiritual Shrine\n
+12124	ÿc8Tainted Shrine\n
+12125	ÿc8Trinity Shrine\n
+12126	ÿc8Weird Shrine\n
+12127	the abyss gazes also into you\nAnd if you gaze for long into an abyss\n\nthereby become a monster\nmight take care lest he\nHe who fights with monsters\n\n\n
+12128	ÿc520 Yard Radius\n5% Fire, Cold, and Lightning Absorb\nÿc8Salvation Aura
+12129	+80 Magic Damage per 1% Deadly Strike
+12130	Dragon Jaws reduces enemy physical resist by 30% for 1 second\nDragon Jaws area increased by 30%
+12131	ÿc52% Chance to Cast level 60 Eldritch Storm on Death Blow\nÿc8With 25 Points in Eldritch Storm
+12132	+1000 Life Regenerated per Second While Under 7000 Life
+12133	ÿc5Harvest Duration Now 15 Seconds\nÿc5Harvest Grants Bloom Bonuses\nÿc5Can No Longer Summon Harvesters\nÿc8If you have No Points in Werebear, Werewolf, Wereowl, Hunter and Seer Trees:
+12134	ÿc5a portal to the Heart of Darkness\nand a Greater Signet of Learning to open\nwith unlocked Dimensional Alchemy\nTransmute with a Nephalem Dimensional Key
+12135	Flameburst shot: +10 projectiles
+strHotkeydescEsc	Toggles game menu
+strHotkeydescCharScreen	Toggles character screen to visualize your stats and assign attribute points
+strHotkeydescInventory	Toggles inventory screen to manage your items
+strHotkeydescPartyScreen	Toggles party screen to see the players in the game. only in multiplayer games
+strHotkeydescMercScreen	Toggles mercenary's inventory screen to manage their items, if you have a mercenary and they're alive
+strHotkeydescMsgLog	Toggles chat messages log
+strHotkeydescQuestScreen	Toggles quest screen to visualize current objectives
+strHotkeydescSkillTree	Toggles skill tree screen to assign skill points
+strHotkeydescSkillSelect	Toggles right-click skill selection
+strHotkeydescSprint	Hold down to sprint
+strHotkeydescSprintToggle	Toggles permanent sprinting without having to hold down the sprint control
+strHotkeydescStandstill	Hold down to cast skills in place, allowing you to cast spells that usually require you to run up to a target
+strHotkeydescSwapWeap	Toggles between primary and secondary in-hand inventory slots
+strHotkeydescClear	Clears all opened panels on your screen
+strHotkeydescShowItems	Hold down to show all items on the ground near you
+strHotkeydescTogglePickup	Toggles item pickup on ground without holding down the control to show items
+strHotkeydescTransmute	When using the horadric cube, use this control to transmute without clicking the transmute button
+strHotkeydescSkill	Quickly assigns the skill assigned to this key. Skill select keys can be assigned in the skill speed bar
+strHotkeydescQuickCast	Casts skill assigned to this key. Quick cast keys can be assigned in the skill speed bar
+strHotkeydescNextPrevSkill	Iterates through your assigned skill select keys
+strHotkeydescUseBelt	Consumes item in your belt for that column (1 to 4)
+strHotkeydescShowBelt	Toggles full view of items in your belt
+strHotkeydescChat	Toggles in-game chat prompt
+strHotkeydescClearMsg	Clears all chat messages on your screen
+strHotkeydescShowPortraits	Toggles visibility of allies portraits in the top left of the screen
+strHotkeydescScreencap	Takes a screen capture and stores it in your screenshots folder
+strHotkeydescAutomap	Toggles your map
+strHotkeydescRevealMap	Reveals the whole map for the current act
+strHotkeydescMapSize	Toggles smaller map view when using the map
+strHotkeydescMapFade	Iterates through different map fade settings when using the map
+strHotkeydescMinimapPos	Toggles position of the map when using the smaller map view
+strHotkeydescEmote	Audio emote from your character that other players around you will hear
+12168	ÿc3+60% Physical Resist\nÿc5If you have more Dexterity than Strength plus Vitality:\nÿc3+600 Spell Focus\nÿc5If you have more Energy than Strength plus Vitality:\nÿc3+60% Innate Elemental Damage\n+70% Deadly Strike\nÿc5If you have more Strength than twice your Dexterity plus Vitality:
+12169	ÿc3+30% Totem damage synergy\nÿc5If you have Jinn:\nÿc3+15% Weapon Physical Damage per Summon Tree Minion Base Level\nÿc3+12% Minion Life per Summon Tree Minion Base Level\nÿc5If you have Rathma's Chosen:\nÿc3Blood Skeletons get Double Benefit from Minion Life Stats\nÿc3Blood Skeletons inherit Catapult Shot's Fire Damage\nÿc5If you have Veil King:
+12170	ÿc8+1% Weapon Physical Damage per 2% Attack Speed\nÿc1Cannot be Renewed
+12171	ÿc8+1 Lightning Damage per 1% Total Physical Weapon Damage Bonus\n+1 Lightning Damage per 1% Bonus to Defense\nÿc1Cannot be Renewed
+12172	ÿc8Fire, Cold, and Lightning Pierce Reduced by 100\nEcstatic Frenzy: +300% Total Damage
+12173	ÿc5Transmute in the cube after reaching Level 120\nDifficulty Level: 120\nÿc4Horror Under Tristram (Heroic)\n
+12174	ÿc5Transmute with a Mark of Victory to double the stats of this charm\nTransmute with an Urt rune to receive two quest entrance scrolls\nÿc4Horror Under Tristram (Heroic)\n
+12175	ÿc8 (Max +100% at full mana)\nAdds your current mana percentage as Weapon Physical Damage\nÿc5(helm only)
+12176	ÿc51% Chance to Cast Level 60 Crucify on Striking\n10% Chance to Cast Level 60 Crucify on Kill\nLaserblade works with all weapons\nÿc8While attacking with Crucify:
+12177	ÿc4 The hunter persists. The prey falters\nÿc5Gain 3-5 Physical Damage with melee weapons per 1 Stamina\nGain 1 Maximum Stamina per 100 Vitality\nÿc8 While in human form: 
+12178	ÿc5Transmute in the cube after reaching Level 121\nDifficulty Level: 121\nÿc4Death Projector (Heroic)\n
+12179	ÿc5Transmute with a Mark of Victory to double the stats of this charm\nTransmute with a Thal rune to receive two quest entrance scrolls\nÿc4Death Projector (Heroic)\n
+12180	Sacrifices: -2 Seconds to Cooldown\nDeathly Effigy: +4 to Maximum Effigies\n50 Life Regeneration per Widowmaker Base Level\nWidowmaker and Life Steal Nullified
+12181	Flametail Shot Inherits Catapult Shot's Fire Damage\nAlchemic Preparation: Flametail Shot gains +1 Projectile per 4 Base Levels
+12182	Reckoning of Zerae: Grants +1% Lightning Pierce per 1% Deadly Strike
+12183	Arcane Fury: 5% Additional Mana and Energy During Buff Effect
+12184	Gain 65% of your Wolf Companion Base Damage as Flat Physical Damage\n+2% Fire, Cold and Lightning resistances per Wolf Companion Skill Level
+12185	ÿc5Transmute with a Mark of Victory to double the stats of this charm\nTransmute with a Xith rune to receive two quest entrance scrolls\nÿc4Infernal Machine (Heroic)\n
+12186	ÿc5Transmute in the cube after reaching Level 122\nDifficulty Level: 122\nÿc4Infernal Machine (Heroic)\n
+12187	\nÿc5Main spike deals 200% weapon damage, each split halves damage\nLaunches a massive frozen spike that splits into smaller bursts, which split again into small spikes\nWhile holding a Javelin:\n\nÿc3+1 to Crystalline Arsenal
+12188	UNUSED
+12189	\nÿc5Pandemonium Season trophy\n+\n(Sacred unique with ilvl 130+)\nRandom SSSU\nÿc8Level 150
+12190	\nÿc5+20% Deadly Strike\n+50% Spell Damage\n+30% Innate Elemental Damage\nÿc8Level 149
+12191	\nÿc5Two Random Relics\nÿc8Level 148
+12192	\nÿc5Breath of Thaumaturgy\nEmpyrean Touch\nÿc8Level 147
+12193	\nÿc5Two Random Relics\nÿc8Level 146
+12194	\nÿc5Maximum Life and Mana +10%\nÿc8Level 145
+12195	\nÿc5Two Random Relics\nÿc8Level 144
+12196	\nÿc57 Corrupted Crystals\nÿc8Level 143
+12197	\nÿc5Two Random Relics\nÿc8Level 142
+12198	\nÿc5Cherry\nÿc8Level 141
+12199	\nÿc5Random Relic\nÿc8Level 140
+12200	\nÿc5Maximum Elemental Resists +1%\nÿc8Level 138
+12201	\nÿc5Random Relic\nÿc8Level 136
+12202	\nÿc5Physical Resist +10%\nÿc8Level 134
+12203	\nÿc5Random Relic\nÿc8Level 132
+12204	\nÿc5Dark Disciple (Sacred)\nÿc8Level 130
+12205	\nÿc5Boots of Blinding Bluster (Sacred)\nÿc8Level 128
+12206	\nÿc5Random Relic\nÿc8Level 125
+12207	\nÿc5(777% magic find for 7 seconds)\nGoblin Glee\nÿc8Level 122
+12208	\nÿc5Random Cincture (Mastercrafted)\nÿc8Level 119
+12209	\nÿc5Gothic Staff (Mastercrafted)\nÿc8Level 116
+12210	\nÿc5Staff of Herding Design\nÿc8Level 115
+12211	ÿc4(unclaimed rewards are lost)\nÿc52 Arcane Crystals\nÿc4Transmute at 126+ to upgrade, requires: \n
+12212	ÿc4(unclaimed rewards are lost)\nÿc54x 25 Signets of Learning\n2 Belladonna Extracts\nÿc4Transmute at 137+ to upgrade, requires: \n
+12213	ÿc4(unclaimed rewards are lost)\nÿc56x 25 Signets of Learning\n3 Belladonna Extracts\nÿc4Transmute at 144+ to upgrade, requires: \n
+12214	ÿc4(unclaimed rewards are lost)\nÿc510x 25 Signets of Learning\n5 Belladonna Extracts\nÿc4Transmute at 149+ to upgrade, requires: \n
+12215	ÿc8 Pandemonium season item, nonfunctional\nÿc1Cannot be Renewed
+12216	ÿc8 Pandemonium season item, nonfunctional\nÿc1Cannot be Renewed
+12217	ÿc8 Pandemonium season item, nonfunctional\nÿc1Cannot be Renewed
+12218	ÿc8 Pandemonium season item, nonfunctional\nÿc1Cannot be Renewed
+12219	ÿc8 Pandemonium season item, nonfunctional\nÿc1Cannot be Renewed
+12220	Pandemonium season item, nonfunctional
+12221	Congratulations on reaching level 150!
+12222	Pandemonium season item, nonfunctional
+12223	\nCreates exclusive uniques\nModifies rare Sacred or Angelic, weapons or armors only\nCollect Souls in Heroic Khalimgrad to craft
+12224	ÿc/<Transmute for recipe list: Diamond>\n\nÿc1Socket / Mystic Orb / Bless / Corrupt your items after Soulforging\nWARNING: Item modification can interfere with Soulforge functionality
+12225	ÿc3\n[4] + [3] = (5-8)% Deadly Strike\n[3] + [2] = (90-120) Spell Focus (2H)\n[3] + [2] = (60-80) Spell Focus (1H)\n[2] + [2] = (85-120) Minimum Damage (2H)\n[2] + [2] = (51-75) Minimum Damage (1H)\n[1] + [1] = 120% Enhanced Damage\nWeapon Prefixes\nÿc;[Oils of Craft] + [Souls] = [Effect]\n\nÿc5Only 1 affix per group can exist\nItem cannot have more than 3 prefixes and 3 suffixes\nCube: Soulforge + Rare Item + Perfect Diamond + Oils + Souls\nÿc8Modify Rare item: Diamond
+12226	ÿc/<Transmute for recipe list: Ruby>\n---\nÿc3[6] + [2] = (6-10)% Physical Resist (Shield)\n[5] + [1] = (21-25) Damage Reduced\n[4] + [1] = (2-3)% Physical Resist\nArmor Suffixes\n\n[3] + [2] = (251-300) Maximum Damage (2H)\n[3] + [2] = (111-135) Maximum Damage (1H)\n[2] + [1] = 10% Slow Target\n[1] + [1] = (39-50)% Minion Damage\nWeapon Suffixes\nÿc;[Oils of Enhancement] + [Souls] = [Effect]\n\nÿc3[5] + [1] = 150% Enhanced Defense\nArmor Prefixes
+12227	ÿc3[4] + [2] = (21-30)% Fire Spell Damage (Body)\n[4] + [2] = 10% Fire Spell Damage\nArmor Prefixes\n\n[3] + [1] = 10% Life Leech\n[2] + [1] = (301-400) Life\n[1] + [2] = (55-65)% Fire Spell Damage (2H)\n[1] + [2] = (25-35)% Fire Spell Damage (1H)\nWeapon Prefixes\nÿc;[Oils of Craft] + [Souls] = [Effect]\n\nÿc5Only 1 affix per group can exist\nItem cannot have more than 3 prefixes and 3 suffixes\nCube: Soulforge + Rare Item + Perfect Ruby + Oils + Souls\nÿc8Modify Rare item: Ruby
+12228	ÿc/<Transmute for recipe list: Sapphire>\n---\nÿc3[6] + [2] = 15% Fire Pierce (Body)\n[6] + [2] = 5% Fire Pierce\n[5] + [1] = 1% Max Fire Resist\nArmor Suffixes\n\n[4] + [1] = 60% Minion Life (2H)\n[4] + [1] = 30% Minion Life (1H)\n[3] + [1] = (81-100) Life on Kill\n[2] + [2] = 25% Fire Pierce (2H)\n[2] + [2] = 15% Fire Pierce (1H)\n[1] +[1] = (250-400) Fire Damage\nWeapon Suffixes\nÿc;[Oils of Enhancement] + [Souls] = [Effect]ÿc3\n\n[6] + [1] = 50 Life Regen per second\n[5] + [1] = (136-170) Life
+12229	ÿc3[4] + [2] = 10% Cold Spell Damage\nArmor Prefixes\n\n[3] + [1] = 10% Mana Leech\n[2] + [1] = (201-250) Mana\n[1] + [2] = (55-65)% Cold Spell Damage (2H)\n[1] + [2] = (25-35)% Cold Spell Damage (1H)\nWeapon Prefixes\nÿc;[Oils of Craft] + [Souls] = [Effect]\n\nÿc5Only 1 affix per group can exist\nItem cannot have more than 3 prefixes and 3 suffixes\nCube: Soulforge + Rare Item + Perfect Sapphire + Oils + Souls\nÿc8Modify Rare item: Sapphire
+12230	ÿc/<Transmute for recipe list: Topaz>\n---\nÿc3[6] + [2] = 15% Energy (Body)\n[5] + [2] = 15% Cold Pierce (Body)\n[5] + [2] = 5% Cold Pierce\n[4] + [1] = 1% Max Cold Resist\nArmor Suffixes\n\n[3] + [1] = (41-50) Mana on Kill\n[2] + [2] = 25% Cold Pierce (2H)\n[2] + [2] = 15% Cold Pierce (1H)\n[1] + [1] = (300-350) Cold Damage\nWeapon Suffixes\nÿc;[Oils of Enhancement] + [Souls] = [Effect]ÿc3\n\n[5] + [1] = (51-90) Mana\n[4] + [2] = (21-30)% Cold Spell Damage (Body)
+12231	ÿc3[4] + [2] = 10% Lightning Spell Damage\nArmor Prefixes\n\n[3] + [1] = 70% Attack Speed (2H)\n[3] + [1] = 40% Attack Speed (1H)\n[2] + [1] = 40% Cast Speed\n[1] + [2] = (55-65)% Lightning Spell Damage (2H)\n[1] + [2] = (25-35)% Lightning Spell Damage (1H)\nWeapon Prefixes\nÿc;[Oils of Craft] + [Souls] = [Effect]\n\nÿc5Only 1 affix per group can exist\nItem cannot have more than 3 prefixes and 3 suffixes\nCube: Soulforge + Rare Item + Perfect Topaz + Oils + Souls\nÿc8Modify Rare item: Topaz
+12232	ÿc/<Transmute for recipe list: Emerald>\n---\nÿc3[5] + [2] = 15% Dexterity (Body)\n[4] + [2] = 15% Lightning Pierce (Body)\n[4] + [2] = 5% Lightning Pierce\n[3] + [1] = 1% Max Lightning Resist\nArmor Suffixes\n\n[2] + [2] = 25% Lightning Pierce (2H)\n[2]  + [2] = 15% Lightning Pierce (1H)\n[1] + [1] = (1-750) Lightning Damage [1]\nWeapon Suffixes\nÿc;[Oils of Enhancement] + [Souls] = [Effect]ÿc3\n\n[5] + [1] = (41-50)% Magic Find (Body)\n[4] + [2] = (21-30)% Lightning Spell Damage (Body)
+12233	[3] + [2] = +10% Poison Spell Damage\n[2] + [1] = (41-50)% Poison Length Reduced (Body)\n[2] + [1] = 25% Poison Length Reduced\nArmor Prefixes\n\n[1] + [2] = (55-65)% Poison Spell Damage (2H)\n[1] + [2] = (25-35)% Poison Spell Damage (1H)\nWeapon Prefixes\nÿc;[Oils of Craft] + [Souls] = [Effect]\n\nÿc5Only 1 affix per group can exist\nItem cannot have more than 3 prefixes and 3 suffixes\nCube: Soulforge + Rare Item + Perfect Emerald + Oils + Souls\nÿc8Modify Rare item: Emerald
+12234	ÿc/<Transmute for recipe list: Skull>\n---\nÿc3[7] + [2] = 20% Strength (Body)\n[6] + [2] = 15% Poison Pierce (Body)\n[6] + [2] = 5% Poison Pierce\n[5] + [1] = 1% Max Poison Resist\n[4] + [1] = 1% Block Chance (non-class Shield)\nArmor Suffixes\n\n[3] + [1] = 200% Attack Rating\n[2] + [2] = 25% Poison Pierce (2H)\n[2] + [2] = 15% Poison Pierce (1H)\n[1] + [1] = 538 Poison Damage per second\nWeapon Suffixes\nÿc;[Oils of Enhancement] + [Souls] = [Effect]ÿc3\n\n[3] + [2] = (21-30)% Poison Spell Damage (Body}
+12235	\n[2] + [2] = (25-35)% Phys/Mag Spell Damage (Body)\n[2] + [2] = 12% Phys/Mag Spell Damage\nArmor Prefixes\n\n[1] + [2] = (70-80)% Phys/Mag Spell Damage (2H)\n[1] + [2] = (30-40)% Phys/Mag Spell Damage (1H)\nWeapon Prefixes\nÿc; [Oils of Craft] + [Souls] = [Effect]\n\nÿc5Only 1 affix per group can exist\nItem cannot have more than 3 prefixes and 3 suffixes\nCube: Soulforge + Rare Item + Perfect Skull + Oils + Souls\nÿc8Modify Rare item: Skull
+12236	ÿc/<Transmute for recipe list: Rainbow Stone>\n---\nÿc3[3] + [2] = 15% Vitality (Body)\n[2] + [1] = 25% Gold Find (Body)\nArmor Suffixes\n\n[1] + [1] = (350-400) Magic Damage\nWeapon Suffixes\nÿc;[Oils of Enhancement] + [Souls] = [Effect]ÿc3
+12237	\n[2] + [4] = 20 to Rising Dawn [Assassin Shield, Paladin 1H Weapon, Amazon Helm]\n\n[1] + [4] = (8-16) to Death Star [Claw, Assassin Shield, Amazon/Barbarian Helm]\noSkills - Suffixes\nÿc;[Oils of Enhancement] + [Souls] = [Effect]\n\nÿc5Item cannot have the same affix more than once\nItem cannot have more than 3 prefixes and 3 suffixes\nCube: Soulforge + Rare Item + Perfect Rainbow Stone + Oils + Souls\nÿc8Modify Rare item: Rainbow Stone
+12238	ÿc/<Transmute for recipe list: Craft Uniques>\n---\nÿc3[6] + [4] = 18 to Tantrum [Bow/Crossbow]\n\n[5] + [4] = (4-14) to Searing Glow [Amazon/Paladin Shield, Druid Helm, Necromancer Staff]\n\n[4] + [4] = (8-16) to Phoenix Wave [Claw, Staff, Amazon Shield]\n\n[3] + [4] = 14 to Chaotic Spark [Paladin Helm, Sorceress Body]
+12239	100% of Physical/Magic spell damage regenerated as life per second
+12240	50% chance to splash weapon damage in a 6.67 yard radius
+12241	[2] + [20] = ÿc4Faithlessÿc3 (Physical Damage Claw)\n[1] + [20] = ÿc4Raven Mantleÿc3 (Phys/Mag Caster Body Armor)\n\nÿc;[Oils of Craft] + [Souls] = [Effect]\n\nÿc5Cube: Soulforge + Souls + Oils\nÿc8Craft Uniques
+12242	Divine Judgement: Buff Grants 1.5% Fire Pierce per Base Level Instead of Physical Weapon Damage
+12243	ÿc1Cannot be Crafted (Shrines will be lost)\nCannot be Renewed
+12244	ÿc5Tramsmute with 2 Angelic items to open with Area Level 130\nTramsmute with a Perfect Gem to open with Area Level 125\nÿc;Rewards: Angelic Items, Crafting Rares, Crafting Exclusive Uniques\nÿc8Heroic Library of Fate\n\n
+12245	1% Chance to Gain Heart of the Pack for 3 seconds on Striking
+12246	ÿc5+25% Deadly Strike\n+10% Lightning Absorb\n+10% Cold Absorb\n+10% Fire Absorb\nÿc8If you have at least 450% Damage to Demons
+StrCfgTabLootFilterSettings	Settings\nLoot Filter
+StrLootFilterCfgConditions	Conditions:
+StrLootFilterCfgItemQuality	Item's quality is: 
+StrLootFilterCfgClvl	Character's level is
+StrLootFilterCfgIlvl	Item's level is
+StrLootFilterCfgItemClass	Item is of type: 
+StrLootFilterCfgItemCode	Item is: 
+StrLootFilterCfgLowQual	Low Quality
+StrLootFilterCfgNormal	Normal
+StrLootFilterCfgSuperior	High Quality
+StrLootFilterCfgMagic	Magic
+StrLootFilterCfgSet	Part of a Set
+StrLootFilterCfgRare	Rare
+StrLootFilterCfgUnique	Unique
+StrLootFilterCfgCraft	Crafted
+StrLootFilterCfgTempered	Honorific
+StrLootFilterCfgUnknown	Unknown
+StrCfgTitleLootFilter	Loot filter settings
+StrCfgDisplayToggleShowLoot	Toggle show loot hotkey
+StrCfgDisplayNoLootFilterTown	No loot filter in town
+StrCfgLootFilterBtnNewConfig	New Configuration
+StrCfgLootFilterBtnImportConfig	Import Configuration From Clipboard
+StrCfgLootFilterBtnRevert	Discard Last Unsaved Change (ctrl+z)
+StrCfgLootFilterBtnSave	Save Changes (ctrl+s)
+StrCfgLootFilterBtnDelete	Delete Configuration
+StrCfgLootFilterBtnExport	Export to Clipboard
+StrCfgLootFilterBtnAddRule	Add Rule
+StrCfgLootFilterBtnUndoAll	Discard All Unsaved Changes
+StrCfgNone	None
+StrCfgAny	Any
+StrCfgTo	to
+StrCfgLootFilterOutcomeShow	SHOW
+StrCfgLootFilterOutcomeHide	HIDE
+StrCfgLootFilterLabelName	Name:
+StrCfgLootFilterLabelShowItemDefault	Show Item by Default:
+StrCfgLootFilterLabelConfiguration	Configuration:
+StrCfgLootFilterLabelRuleSettings	- Rule Settings -
+StrCfgLootFilterLabelRuleShowItem	Show Item:
+StrCfgLootFilterLabelRuleActive	Rule is Active:
+StrCfgLootFilterLabelRuleConditions	- Conditions -
+StrCfgLootFilterLabelItemQuality	Item's Quality is:
+StrCfgLootFilterLabelItemEthereal	Item is Ethereal:
+StrCfgLootFilterLabelIlvl	Item's Level is:
+StrCfgLootFilterLabelClvl	Character's Level is:
+StrCfgLootFilterLabelSpecificCondition	- Specific Condition -
+StrCfgLootFilterMatchItemByCategory	Match Item by Category
+StrCfgLootFilterMatchItemByCode	Match Specific Item
+StrCfgLootFilterLabelYes	Yes
+StrCfgLootFilterLabelNo	No
+StrCfgLootFilterLabelEither	Either
+StrCfgLootFilterItemIsEthereal	Item is Ethereal
+StrCfgLootFilterItemIsNotEthereal	Item is not Ethereal
+StrCfgLootFilterLabelAnd	and
+StrCfgLootFilterUnsavedChanges	Do you want to discard all changes\nCurrent configuration has unsaved changes
+StrCfgLootFilterLabelDiscard	Discard
+StrCfgLootFilterLabelCancel	Cancel
+StrCfgLootFilterWarnDeleteConfig	Are you sure you want to delete it\nThe configuration will be deleted permanently
+StrCfgLootFilterLabelDelete	Delete
+StrCfgLootFilterFavoriteOn	Select as Favorite
+StrCfgLootFilterFavoriteOff	Unselect as Favorite
+StrCfgHotkeyFavoriteLf	Favorite loot filter
+StrCfgHotkeyDefaultLf	Default loot filter
+StrCfgHotkeyDescFavoriteLf	Switch to favorite loot filter configuration
+StrCfgHotkeyDescDefaultLf	Switch to default loot filter configuration
+StrCfgLootFilterLabelMoveRule	like to move this rule\nChoose where you'd
+StrCfgLootFilterLabelMoveRuleHere	Click to move rule to this position
+12313	ÿc8Can spawn any oSkill from Rare Affixes\nÿc1Cannot be Renewed
+12314	ÿc8Adds +160-250 Cold Damage to Weapon\n+1 Life on Striking per 100 Base Vitality\nÿc1Cannot be Renewed
+12315	ÿc8Orb of Annihilation: +10% Total Damage per Corrupted Item worn\nSuccessful corruptions increase Required Level by 10\nFailed corruptions do not increase Required Level\nEmpowered corruption outcomes\nCan be corrupted 10 times\nÿc1Corrupted
+StrCfgLootFilterLabelNotify	Notify:
+StrCfgLootFilterLabeShowOnMap	Show on Map:
+StrCfgLootFilterNotifyDesc	item matching these criteria drop\nYou will be notified when an
+StrCfgLootFilterShowOnMapDesc	will show up on your automap\nItems matching these criteria
+StrPushNotifGoblinAppear	 appears!
+StrPushNotifHighThreat	High threat nearby!
+DescBaalTrophy	80\nEve of Destruction Trophy Challenge\nRequirements:\nKill Baal without being struck by his Black \nCarpet Bomb\nDo not die\n\nCube the Spirit of Creation within 10 \nseconds \nGrants: \nElemental Resists +10%\nLocked to current character class\n
+DescAzmoTrophy	80\nHeart of Sin Trophy Challenge\nRequirements: \nKill Azmodan without being struck by \na Flameblood\nDo not die\n\nCube Azmodan's Heart within 10 seconds\nGrants: \n+150 to Life\n+75 to mana\nLocked to current character class\n
+DescBremmTrophy	80\nBremmtown Trophy Challenge\nRequirements:\nKill the Dark Star Dragon within 30 \nseconds of entering\nDo not die\n\nCube the Dragon Claw within the time limit\nGrants: \n+10% to Experience Gained\n
+RevealTrophyChallenge	ÿc8Right click to reveal trophy challenge
+12326	ÿc8Amatoxin: 2000% of Innate Elemental Damage bonus added as Damage Multiplier\nÿc3+28 to Amatoxin\nÿc1Disables Ranged Skills
+StrPushNotifFavoriteFilter	Switched to favorite filter configuration
+StrPushNotifDefaultFilter	Switched to default filter configuration
+strObjectNameDeusExMachina	ÿc1You will not be able to come back\nÿc1Can only be activated once\nÿc0to end this nightmare\nÿc0the effect radius for 15 seconds\nÿc0Click to activate and stay within\nÿc4Deus Ex Machina
+12330	ÿc5Physical Damage Reduced by 150\n+20% Chance of Crushing Blow\n+100 Life after each Kill\n+20% Slow Target\nÿc4ATMG, Charged Strike, Cherubim, Guard Tower, Lex Talionis, Rock Shock, Time Wave\nÿc8If you have at least 30 Levels in any of the following Skills:\nCherubim: +(50-75) Magic Damage per Skill Level\nGuard Tower: +1 Arrow
+StrCfgSearch	Search...
+12332	Strength/Dexterity
+12333	ÿc1Deal no Magic Damage

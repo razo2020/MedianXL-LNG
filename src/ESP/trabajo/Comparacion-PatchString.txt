@@ -1,0 +1,520 @@
+------------INICIO COMPARACION-------------
+linea 1289
+----------------------
++15%
++25%
+-----------------
+11288	Espíritu de ascuas: +15% de daño total
+11288	Ember Spirit: +25% Total Damage
+linea 1314
+----------------------
+10
+10-15%20-30%5%10
+-----------------
+11313	Aura de espíritu nephalem de nivel 10
+11313	ÿc510-15% of base Vitality\n20-30% of base Strength and Dexterity\nAdds Fire and Lightning Damage:\n5% Innate Elemental Damage\nÿc8Level 10 Nephalem Weapons
+linea 1325
+----------------------
+20+2
++40%2.8%20+2
+-----------------
+11324	Postura de águila de nivel 20\nMind Flay: +2 Proyectiles
+11324	ÿc5Regenerate Mana +40%\nRestores 2.8% Life Per Second\nÿc8Level 20 Eagle Stance\nÿc8Mind Flay: +2 Projectiles
+linea 1327
+----------------------
+120%120%
+140%140%
+-----------------
+11326	Agrega 120% de tu daño de hechizos físicos/mágicos como daño físico de arma adicional\nAgrega 120% del daño de tu hechizo de fuego como daño físico de arma adicional
+11326	Adds 140% of Your Physical/Magic Spell Damage as Bonus Weapon Physical Damage\nAdds 140% of Your Fire Spell Damage as Bonus Weapon Physical Damage
+linea 1331
+----------------------
+200%
+300%
+-----------------
+11330	Agrega 200% de Golpe aplastante como daño de hechizos de fuego y frío
+11330	Adds 300% of Crushing Blow as Fire and Cold Spell Damage
+linea 1332
+----------------------
++100%
++200%
+-----------------
+11331	+100% de daño mágico adicional a Danza en espiral
+11331	+200% Bonus Magic Damage to Spiral Dance
+linea 1336
+----------------------
++50%
++1
+-----------------
+11335	Fragmentos de muerte: +50% de sanguijuela de vida
+11335	Deathly Effigy: +1 Maximum Effigy Allowed
+linea 1337
+----------------------
++3
+3
+-----------------
+11336	+3 Proyectiles Misiles Mágicos
+11336	3 Magic Missiles Projectiles
+linea 1338
+----------------------
+1
+26.6+6%
+-----------------
+11337	Aura de sangre de demonio de nivel 1
+11337	ÿc526.6 Yard Radius\nYou and Undead Minions: Maximum Life +6%\nÿc8Demon Blood Aura
+linea 1344
+----------------------
++3%30
++3%150-37530
+-----------------
+11343	Postura Kraken: +3% Daño por Nivel Base en el Árbol Templario\nPostura de Kraken de nivel 30
+11343	ÿc8Kraken Stance: +3% Damage per Base Level in the Templar Tree\nÿc5Adds 150-375 Fire, Cold, and Lightning Damage\nÿc8Level 30 Kraken Stance
+linea 1350
+----------------------
++14%
++30%
+-----------------
+11349	Crucificar: +14% de daño mágico por nivel base
+11349	Crucify: +30% Magic Damage per Base Level
+linea 1353
+----------------------
+0.8
++1
+-----------------
+11352	El tiempo de reutilización de Stampede no se puede reducir por debajo de 0.8 segundos
+11352	Stampede: +1 Projectile
+linea 1378
+----------------------
+1-31
+1-41
+-----------------
+11377	Agrega 1 - 3 daños de fuego, frío y rayos al arma por 1 enfoque de hechizo
+11377	Adds 1 - 4 Fire, Cold and Lightning Damage to Weapon per 1 Spell Focus until capped
+linea 1385
+----------------------
++1+100%
++100%
+-----------------
+11384	Onda de muerte: +1 Proyectil\nPerdición: +100% de duración
+11384	Enhances Death Ripple\nBane: +100% Duration
+linea 1388
+----------------------
+3.5%
+2%
+-----------------
+11387	Sanguine Covenant regenera un 3.5% de la vida máxima por segundo
+11387	Sanguine Covenant Regenerates 2% of Maximum Life per Second
+linea 1396
+----------------------
++1.5%+1
++1%+1
+-----------------
+11395	+1.5% de daño por hechizo frío por cada nivel de habilidad de tus modos pasivos\nLáser de lapa: +1 proyectil
+11395	+1% Cold Spell Damage For Each Skill Level of Your Ways Passives\nLimpet Laser: +1 Projectile
+linea 1397
+----------------------
+10%+500
++1%
+-----------------
+11396	Este daño de fuego aumenta en un 10% por cada nivel base en el árbol de ballesta\nDisparo de cola de llama: +500 daño de fuego
+11396	Voodoo Practice: +1% Extra Chance to Spawn a Corpse on Striking
+linea 1398
+----------------------
++18%1
++25%
+-----------------
+11397	Sun Strike: +18% de daño de fuego adicional por nivel base en el árbol del arco\nSun Strike dispara 1 proyectil
+11397	Sun Strike: +25% Bonus Fire Damage per Base Level in the Bow Tree
+linea 1400
+----------------------
+-2%
+-3%
+-----------------
+11399	-2% a las resistencias elementales enemigas por nivel base de carnicería
+11399	-3% to Enemy Elemental Resistances per Carnage Base Level
+linea 1401
+----------------------
+15%750
+15%2000
+-----------------
+11400	Este daño de fuego aumenta en un 15% por nivel base de incendios forestales\nAgrega 750 de daño de fuego al ídolo de Scosglen
+11400	This Fire Damage is Increased by 15% per Wildfire Base Level\nAdds 2000 Fire Damage to Idol of Scosglen
+linea 1403
+----------------------
+100-200-10%
+100-200-10%10-15
+-----------------
+11402	ÿc5Agrega 100 - 200 de daño por frío\n-10% a la resistencia al frío del enemigo\nÿc0(Bonificación por runas elementales/grandes engarzadas)\nÿc8Gematría
+11402	ÿc5Adds 100-200 Cold Damage\n-10% to Enemy Cold Resist\nAdds 10-15 Damage\nÿc0(Bonus for each Socketed Great/Elemental Rune)\nÿc8Gematria
+linea 1404
+----------------------
+4060%
+80110%
+-----------------
+11403	Agrega (40 a 60)% de destreza como daño mágico al arma
+11403	Adds (80 to 110)% of Dexerity as Magic Damage to Weapon
+linea 1408
+----------------------
++1
++2
+-----------------
+11407	Banshee de caza: +1 Proyectil
+11407	Hunting Banshee: +2 Projectiles
+linea 1409
+----------------------
++2
++3
+-----------------
+11408	Cazando Banshee: +2 Proyectiles
+11408	Hunting Banshee: +3 Projectiles
+linea 1410
+----------------------
+-2%
+-4%
+-----------------
+11409	-2% a las resistencias elementales enemigas por nivel base de espíritu nephalem
+11409	-4% to Enemy Elemental Resistances per Nephalem Spirit Base Level
+linea 1411
+----------------------
+3
+1
+-----------------
+11410	Duración de la descarga aumentada en 3 segundos
+11410	Discharge: Thunder Frequency Improved by 1 Second
+linea 1423
+----------------------
+20
+16.6-25%-30%20
+-----------------
+11422	Aura de campo warp de nivel 20
+11422	ÿc516.6 Yard Radius\nand -25% Weapon Physical Damage\nNearby Enemies: -30% Attack Rating\nÿc8Level 20 Warp Field Aura
+linea 1452
+----------------------
+2500-2500
+4000-5000
+-----------------
+11451	Añade 2500 - 2500 de Daño Mágico
+11451	Adds 4000 - 5000 Magic Damage
+linea 1453
+----------------------
+10%
+20-10%
+-----------------
+11452	Los enemigos cercanos pierden un 10% de resistencia mágica y elemental.
+11452	ÿc520 Yard Radius\nNearby Enemies: -10% Elemental and Magic Resistances\nÿc8Despair
+linea 1496
+----------------------
+50%
+60%
+-----------------
+11495	ÿc850% de Fuerza Añadida como Daño Mágico al modificador de ataque de Área de Efecto
+11495	ÿc5If you have an item source with Area of Effect attack\nÿc860% of Strength Added as Magic Damage to Area of Effect attack bonus
+linea 1497
+----------------------
++3%+1%
++1.5%+1%
+-----------------
+11496	+3% de resistencia física por nivel base de resurgimiento\n+1% de resistencias elementales máximas por tótem de ese elemento
+11496	+1.5% Physical Resist per Resurgence Base Level\n+1% Maximum Elemental Resists per Totem of that Element
+linea 1516
+----------------------
+20%5
+15%5
+-----------------
+11515	Regenera un 20% de vida durante 5 segundos al recibir daño con un arma
+11515	Regens 15% Life Over 5 Seconds Upon Taking Weapon Damage
+linea 1518
+----------------------
+-150%+250+20%
+-150%+375+20%
+-----------------
+11517	ÿc5-150% al daño de los súbditos invocados\n+250 Vida Regenerada por Segundo\n+20% de daño de habilidad Malicia\nÿc8Si no tienes habilidad definitiva:
+11517	ÿc5-150% to Summoned Minion Damage\n+375 Life Regenerated per Second\n+20% Malice Skill Damage\nÿc8If you have No Ultimate Skill:
+linea 1529
+----------------------
++15
++5
+-----------------
+11528	+15 Hachas para Overkill
+11528	+5 Axes to Overkill
+linea 1530
+----------------------
++50%
++151%
+-----------------
+11529	+50% de daño mágico adicional al rebote
+11529	+15 Lightning Damage per 1% Lightning Pierce
+linea 1556
+----------------------
++8
++3
+-----------------
+11555	+8 Hachas para Overkill
+11555	+3 Axes to Overkill
+linea 1559
+----------------------
++150
++500
+-----------------
+11558	+150 de energía base a psicorona
+11558	+500 Total Energy to Psicrown
+linea 1563
+----------------------
++2
++1
+-----------------
+11562	Eviscerar: +2 Proyectiles
+11562	Eviscerate: +1 Projectile
+linea 1591
+----------------------
++2
+2
+-----------------
+11590	+2 Proyectiles Misiles Mágicos
+11590	Blast Radius: Explosion Radius increased by 2 Yards
+linea 1616
+----------------------
+1
+10%10%28%40%28%1
+-----------------
+11615	Postura de lobo de nivel 1
+11615	ÿc510% Weapon Physical Damage\n10% Crushing Blow\n28% Hit Recovery\n40% Movement Speed\n28% Attack Speed\nÿc8Level 1 Wolf Stance
+linea 1619
+----------------------
+1
+12%20%1
+-----------------
+11618	Postura de oso de nivel 1
+11618	ÿc512% Bonus to Defense\nPhysical Resist 20%\nÿc8Level 1 Bear Stance
+linea 1648
+----------------------
+1000%
+2000%
+-----------------
+11647	El daño de Lightning Arena aumentó en un 1000%
+11647	Lightning Arena Damage Increased by 2000%
+linea 1650
+----------------------
+5
+300%200%
+-----------------
+11649	Aura de fuego infernal de nivel 5
+11649	ÿc3300% of Deadly Strike added as Damage Multiplier\n200% of Deadly Strike added as Fire Pierce\nÿc8Path of Flames:
+linea 1661
+----------------------
+2
+4
+-----------------
+11660	La duración de Miasma Haunt aumentó en 2 segundos
+11660	Miasma: Haunt Duration Increased by 4 seconds
+linea 1755
+----------------------
+12001%71
+16.6+1%712001.2
+-----------------
+11754	Holy Shock tiene 1200 de daño base, aumenta en un 1% por cada 7 de energía\nChoque sagrado de nivel 1
+11754	ÿc516.6 Yard Radius\n+1% damage per 7 Energy\nNearby Enemies take 1200 Lightning Damage every 1.2 seconds\nÿc8Holy Shock
+linea 1756
+----------------------
+1510%1+2%
+1510%1+4%
+-----------------
+11755	Con 15 niveles básicos en Runemaster: 10% de golpe mortal\nAl menos 1 nivel base en Runemaster: resistencias elementales máximas +2%
+11755	With 15 Base Levels in Runemaster: 10% Deadly Strike\nAt least 1 Base Level in Runemaster: Maximum Poison Resist +4%
+linea 1759
+----------------------
++100%
++150%
+-----------------
+11758	+100% de daño de fuego adicional para tomar represalias
+11758	+150% Bonus Fire Damage to Retaliate
+linea 1765
+----------------------
+75%
+2
+-----------------
+11764	El rango de explosión de los lémures aumentó en un 75%
+11764	Lemures Explosion Radius Increased by 2 yards
+linea 1766
+----------------------
+50%+10070%-200
+50%+20070%-10
+-----------------
+11765	Por debajo del 50% de vida: +100 de vida después de cada muerte\nPor encima del 70% de vida: -200 de vida después de cada muerte
+11765	Below 50% Life: +200 Life After Each Kill\nAbove 70% Life: -10 Life After Each Kill
+linea 1770
+----------------------
++10+1
++10
+-----------------
+11769	Death Ripple agrega +10 de vida por nivel de habilidad\n+1 proyectil a onda mortal
+11769	Occult Path: +10 Life per Death Ripple Skill Level\nEnhances Death Ripple
+linea 1774
+----------------------
++1%250​​
++1%250
+-----------------
+11773	+1% de daño elemental innato por cada 250 de fuerza y ​​destreza
+11773	+1% Innate Elemental Damage per 250 Strength and Dexterity
+linea 1783
+----------------------
+100%
+1%
+-----------------
+11782	Sinergia de aceite Dragonfire aumentada en un 100%
+11782	Famine No Longer Grants Weapon Physical Damage\nFamine Grants 1% of Strength and Dexterity as Innate Elemental Damage
+linea 1785
+----------------------
+2%
+50%
+-----------------
+11784	La conversión del campo magnético disminuyó en un 2% por nivel básico
+11784	Hammer of Zerae: Lightning Spell Damage Applies To Added Lightning Damage At 50% Efficiency
+linea 1790
+----------------------
+8%13
+10%
+-----------------
+11789	Los Abyss Knights tienen un 8% de probabilidad de lanzar Widowmaker de nivel 13 al matar
+11789	Abyss Knights Reduce Enemy Magic Resistance by 10%
+linea 1889
+----------------------
+100%
++5%
+-----------------
+11888	Martillo de Zerae: Sinergia Stormcall aumentada en un 100%
+11888	Curare: +5% Damage Multiplier Per Reckoning Of Zerae Base Level
+linea 1896
+----------------------
+6
+5
+-----------------
+11895	6 runas de fuego
+11895	5 Fire Runes
+linea 1897
+----------------------
+6
+5
+-----------------
+11896	6 runas de piedra
+11896	5 Stone Runes
+linea 1898
+----------------------
+6
+5
+-----------------
+11897	6 runas arcanas
+11897	5 Arcane Runes
+linea 1899
+----------------------
+6
+5
+-----------------
+11898	6 Runas de Luz
+11898	5 Light Runes
+linea 1900
+----------------------
+6
+5
+-----------------
+11899	6 runas de hielo
+11899	5 Ice Runes
+linea 1901
+----------------------
+6
+5
+-----------------
+11900	6 runas de veneno
+11900	5 Poison Runes
+linea 1902
+----------------------
+250,0006
+250,0005
+-----------------
+11901	Costo de oro: 250,000\nCubo con 6 Runas para Crear
+11901	Gold Cost: 250,000\nCube with 5 Runestones to Create
+linea 1905
+----------------------
++3-5
++4-5
+-----------------
+11904	+3-5 de daño por nivel base de Thundercrack
+11904	+4-5 Damage per Hammer of Zerae Base Level
+linea 1908
+----------------------
++30%+2+5
++30%+10+5
+-----------------
+11907	Escudos: Resistencia al Veneno +30%\nArmadura: +2 Vida Regenerada por Segundo\nArmas: +5 al daño máximo\n
+11907	Shields: Poison Resist +30%\nArmor: +10 Life Regenerated per Second\nWeapons: +5 to Maximum Damage\n
+linea 1959
+----------------------
+1,000,000
+300,000
+-----------------
+11958	ÿc0Costo de oro: 1,000,000\nCubo con Aceite de Artesanía para Crear\n
+11958	ÿc0Gold Cost: 300,000\nCube with Oil of Craft to Create\n
+linea 1960
+----------------------
+2,500,000
+700,000
+-----------------
+11959	ÿc0Costo de oro: 2,500,000\nCubo con Aceite de Artesanía para Crear\n
+11959	ÿc0Gold Cost: 700,000\nCube with Oil of Craft to Create\n
+linea 2023
+----------------------
+5%+100%
+10%+100%
+-----------------
+12022	5% añadido como hallazgo mágico (máx. +100%)
+12022	10% added as Magic Find (Max +100%)
+linea 2024
+----------------------
+6%+100%
+12%+100%
+-----------------
+12023	6% añadido como hallazgo mágico (máx. +100%)
+12023	12% added as Magic Find (Max +100%)
+linea 2027
+----------------------
+4%51
+2%
+-----------------
+12026	Los Servants of Valor tienen un 4% de probabilidad de lanzar poder oscuro de nivel 51 al matar
+12026	Servants of Valor regenerate 2% of their life per second
+linea 2043
+----------------------
++7
++5
+-----------------
+12042	Perdigones: +7 Proyectiles
+12042	Flameburst shot: +5 Projectiles
+linea 2048
+----------------------
+50%
+100%
+-----------------
+12047	Ignite: 50% de daño total por fuego
+12047	Catapult Shot: 100% Increased Fire Damage
+linea 2059
+----------------------
+1.3
++2%
+-----------------
+12058	Pozo de lava: radio de explosión aumentado en 1.3 yardas
+12058	Hungering Flames: +2% of Max Life healed per cast
+linea 2078
+----------------------
+-4%
+-5%
+-----------------
+12077	Lluvia de rocas: -4% de resistencia física enemiga
+12077	Shower of Rocks: -5% Enemy Physical Resist
+linea 2080
+----------------------
+1.72+1250
+1.72
+-----------------
+12079	ÿc3Enfriamiento de Carnage reducido en 1.72 segundos\nÿc8Carnicería: +1250 daño de fuego
+12079	ÿc3Carnage Cooldown Reduced by 1.72 seconds\nÿc8Carnage: Added Fire Damage Doubled
+---------------------------Numero de lineas afectadas = 74---------------

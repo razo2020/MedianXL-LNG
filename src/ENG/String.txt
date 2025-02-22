@@ -3366,7 +3366,7 @@ ItemDesc1s	Your Gold: %d Hire which Mercenary?
 ItemDesc1t	There are no Mercenaries left to hire.
 HP	Life
 AC	Def
-Level	Lvl
+Level	Level
 Cost	Cost
 Damage	Damage
 strhirespecial1	Ranger
@@ -3384,7 +3384,7 @@ WarrivMenu1b	go east
 WarrivMenu1c	go west
 MeshifMenuEast	sail east
 MeshifMenuWest	sail west
-NPCMenuNews0	important news
+NPCMenuConfirm	confirm
 NPCMenuNews1	urgent news
 NPCMenuNews2	pressing matters
 NPCMenuNews3	important news
@@ -4063,7 +4063,7 @@ strchrskm	Damage
 strchrdex	Dexterity
 strchratr	Attack Rating
 strchrdef	Defense
-strchrrat	%s\nRating
+strchrrat	Attack Rating
 strchrvit	Vitality
 strchrstm	Stamina
 strchrlif	Life
@@ -4074,7 +4074,7 @@ strchrcol	Resistance\nCold
 strchrlit	Resistance\nLightning
 strchrpos	Resistance\nPoison
 strchrstat	Stat Points
-strchrrema	Remaining
+strchrskilldmg	Damage
 WeaponDescMace	Mace Class
 WeaponDescAxe	Axe Class
 WeaponDescSword	Sword Class
@@ -6620,25 +6620,25 @@ e16	Zombie Head (3)
 e36	Zombie Head (4)
 @63	Zombie Head (Sacred)
 x	-- MISC --
-2x5	ÿc:Alpha Brain
-2x6	ÿc:Beta Brain
+2x5	unused
+2x6	unused
 q@q	ÿc0Quest Item\nÿc4Bonehexer's Sigil
 ##^	ÿc:Custom Signet of Learning
-2x8	ÿc:Delta Brain
-!@A	ÿc:Dogma of Destruction
-!@8	ÿc:Dogma of Hatred
-!@7	ÿc:Dogma of Pain
-!@6	ÿc:Dogma of Suffering
-!@9	ÿc:Dogma of Terror
-2x9	ÿc:Epsilon Brain
-!@5	ÿc:Evil Eye of the Bane Hunter
-!@1	ÿc:Evil Eye of the Clawstorm
-!@4	ÿc:Evil Eye of the Fairy Witch
-!@3	ÿc:Evil Eye of the Glowing Blob
-!@2	ÿc:Evil Eye of the Landmass
+2x8	unused
+!@A	unused
+!@8	unused
+!@7	unused
+!@6	unused
+!@9	unused
+2x9	unused
+!@5	unused
+!@1	unused
+!@4	unused
+!@3	unused
+!@2	unused
 o@o	ÿc0Quest Item\nÿc4Eyegouger's Sigil
 p@p	ÿc0Quest Item\nÿc4Fleshcutter's Sigil
-2x7	ÿc:Gamma Brain
+2x7	unused
 zkr	ÿc:Large Signet of Experience
 zkx	ÿc:Greater Signet of Gold
 25^	ÿc:Greater Signet of Learning
@@ -6650,8 +6650,8 @@ zkw	ÿc:Signet of Gold
 l@l	ÿc0Quest Item\nÿc4Skinrender's Sigil
 m@m	ÿc0Quest Item\nÿc4Spinecracker's Sigil
 ripx	ÿc5Wings of the Departed
-||#	ÿc4Book of Ultimative
-#1^	ÿc4Diablo's Essence
+||#	unused
+#1^	unused
 twi	ÿc4Sunstone of the Twin Seas
 u@+	ÿc4I Am Rich
 |ms	ÿc4Ghost Trance
@@ -6665,8 +6665,8 @@ qul	ÿc0Cube Reagent\nÿc8Arcane Shards (1)
 qu2	ÿc0Cube Reagent\nÿc8Arcane Shards (2)
 qu3	ÿc0Cube Reagent\nÿc8Arcane Shards (3)
 qu4	ÿc0Cube Reagent\nÿc8Arcane Shards (4)
-||.	ÿc0Cube Reagent\nÿc8Blessed Crystal
-||_	ÿc0Cube Reagent\nÿc8Cursed Crystal
+||.	unused
+||_	unused
 @##	ÿc0Cube Reagent\nÿc8Deity's Bow
 r58	ÿc0Elemental Rune\nÿc;Stone Rune
 r57	ÿc0Elemental Rune\nÿc;Fire Rune
@@ -6695,7 +6695,7 @@ B0+S	ÿc8Abandoned Vessel
 #04	ÿc4Yshari Sanctum Trophy
 #11	ÿc4Astrogha Trophy
 #12	ÿc4Heart of Sin Trophy
-||`	ÿc8Broken Crystal
+||`	unused
 #14	ÿc4Archbishop Lazarus Trophy
 #08	ÿc4The Veiled Prophet Trophy
 vv98	ÿc4Cleanup Trophy
@@ -6910,7 +6910,7 @@ E2+	ÿc8Weird Shrine (8)
 E1+	ÿc8Weird Shrine (9)
 E0+S	ÿc8Weird Vessel
 5$c	ÿc;Amber
-r40	ÿc;Ath Rune
+r40	unused
 9$c	ÿc;Bloodstone
 5$a	ÿc;Chipped Amber
 9$a	ÿc;Chipped Bloodstone
@@ -6935,17 +6935,17 @@ yo4	ÿc;Flawless Rainbow Stone
 \\2	ÿc;Great Skull
 \\3	ÿc;Great Topaz
 Kx5	ÿc;Icy Essence
-r37	ÿc;Ix Rune
-r41	ÿc;Kra Rune
-r36	ÿc;Kur Rune
-r35	ÿc;Lah Rune
-r49	ÿc;Lai Rune
+r37	unused
+r41	unused
+r36	unused
+r35	unused
+r49	unused
 Kx4	ÿc;Lightning Essence
 Kx2	ÿc;Magic Essence
-r39	ÿc;Nas Rune
-r48	ÿc;Nih Rune
-r43	ÿc;No Rune
-r50	ÿc;On Rune
+r39	unused
+r48	unused
+r43	unused
+r50	unused
 g$c	ÿc;Onyx
 5$e	ÿc;Perfect Amber
 9$e	ÿc;Perfect Bloodstone
@@ -6953,32 +6953,32 @@ g$e	ÿc;Perfect Onyx
 yo5	ÿc;Perfect Rainbow Stone
 7$e	ÿc;Perfect Turquoise
 yo3	ÿc;Rainbow Stone
-r46	ÿc;Rha Rune
+r46	unused
 voi3	ÿc;Scroll of Envy
 voi5	ÿc;Scroll of Gluttony
 voi1	ÿc;Scroll of Greed
 voi6	ÿc;Scroll of Lust
 voi2	ÿc;Scroll of Sloth
 voi4	ÿc;Scroll of Wrath
-r34	ÿc;Sha Rune
-r45	ÿc;Thai Rune
-r38	ÿc;Thur Rune
+r34	unused
+r45	unused
+r38	unused
 7$c	ÿc;Turquoise
 Kx3	ÿc;Venomous Essence
-r42	ÿc;Vith Rune
-r47	ÿc;Xar Rune
-r44	ÿc;Yul Rune
+r42	unused
+r47	unused
+r44	unused
 r98	ÿc0Enchanted Rune\nÿc;Xis Rune
-ey9	ÿc1Elixir of Adrenaline (Disabled)
-et1	ÿc1Elixir of Concentration (Disabled)
-ey2	ÿc1Elixir of Experience (Disabled)
-0g0	ÿc1Elixir of Greater Experience (Disabled)
-0g1	ÿc1Elixir of Greater Greed (Disabled)
-0g2	ÿc1Elixir of Greater Wealth (Disabled)
-ey3	ÿc1Elixir of Greed (Disabled)
-0g8	ÿc1Elixir of Love (Disabled)
-0g7	ÿc1Elixir of Power (Disabled)
-ey4	ÿc1Elixir of Wealth (Disabled)
+ey9	unused
+et1	unused
+ey2	unused
+0g0	unused
+0g1	unused
+0g2	unused
+ey3	unused
+0g8	unused
+0g7	unused
+ey4	unused
 zoh	ÿc1Energy Pack
 b@b	ÿc1Goodberry
 #X8	ÿc1Instructions\nLevel Challenge 0
@@ -6994,26 +6994,26 @@ qqv	Arrow Quiver (Sacred)
 s@s	Assur's Bane
 ab!	Astrogha's Venom Stinger
 a56	Azmodan's Heart
-brc5	Black Road Challenge\nÿc8Scroll of Blood
-brc6	Black Road Challenge\nÿc8Scroll of Completion
-brc3	Black Road Challenge\nÿc8Scroll of Contrition
-brc1	Black Road Challenge\nÿc8Scroll of Fear
-brc2	Black Road Challenge\nÿc8Scroll of Greed
-brc4	Black Road Challenge\nÿc8Scroll of Knowledge
+brc5	unused
+brc6	unused
+brc3	unused
+brc1	unused
+brc2	unused
+brc4	unused
 qqc	Bolt Quiver (Sacred)
-s0m	Book of Summoning
-quz	Boom!
+s0m	unused
+quz	unused
 adi	Legacy of Blood
 yqe	Moon of the Spider
 x04	Caoi Dulra Fruit
 w@w	Cold Fusion Schematics
-a67	Congratulations. You got it!\nÿc4Spirit of Damnation
-#Y^	Creator's Hand\nCongratulations!
+a67	unused
+#Y^	unused
 lok	Crystalline Flame Medallion
-qus	Cube Reagent (1/4)\nÿc8Regular Arcane Crystal
-qut	Cube Reagent (2/4)\nÿc8Glowing Arcane Crystal
-qux	Cube Reagent (3/4)\nÿc8Brilliant Arcane Crystal
-quy	Cube Reagent (4/4)\nÿc8Dazzling Arcane Crystal
+qus	unused
+qut	unused
+qux	unused
+quy	unused
 #X5	Cube Reagent (Secret)\nÿc8Emblem of Destruction
 #X3	Cube Reagent (Secret)\nÿc8Emblem of Hatred
 #X6	Cube Reagent (Secret)\nÿc8Emblem of Lies
@@ -7028,7 +7028,7 @@ jcx	ÿc4Catalyst of Jewelcraft
 voDX	Cube Reagent\nÿc8Enchanting Crystal
 #X9	Cube Reagent\nÿc8Griswold's Treasure
 hnrx	Cube Reagent\nÿc8Mark of Infusion
-mec	Cube Reagent\nÿc8Meditation Candle
+mec	unused
 0++	ÿc8Mystic Orb
 DescOilGAlchemy	90\nThe Oil of Greater Alchemy\nallows you to craft amulets:\n\nOil + Set Amulet\n--> Crafted Amulet\nwith +1 to All Skills\n\nAdd one affix at random:\n------------------------------\n20% Movement Speed\n+200 Life regenerated per Second\n+15% Innate Elemental Damage\n+10% Vitality\n+10% Energy\n-10% Enemy Elemental Resistances\n+10% Physical Resist\n+50% Weapon Physical Damage\nPoison Length Reduced by 40%\nCurse Length Reduced by 40%\n
 7o@	Cube Reagent\nÿc8Oil of Craft
@@ -7037,18 +7037,18 @@ DescOilGAlchemy	90\nThe Oil of Greater Alchemy\nallows you to craft amulets:\n\n
 4o@	Cube Reagent\nÿc8Oil of Enhancement
 6o@	Cube Reagent\nÿc8Oil of Luck
 5o@	Cube Reagent\nÿc8Oil of Renewal
-vib	Cube Reagent\nÿc8Sacrifical Heart
+vib	unused
 sofd	Cube Reagent\nÿc8Seal of Darkness
 t@t	Demonsbane
-abu	Do Not Use Ethereal Items Idiot
-senn	Ennead Challenge\nÿc8Scroll of Kurast
+abu	unused
+senn	unused
 x0x	Eternal Bone Pile
 x06	Eye of Divinity
 az!	Fool's Gold
-u@v	for an upgrade!\nSee the documentation\nYou're not cool enough!\nÿc4Poser!
+u@v	unused
 #X0	Gem
 0u1	Hammer of the Taan Judges
-yq7	Hard Mode Charm
+yq7	unused
 a68	Horazon's Focus
 a66	Idol of Vanity
 a59	Laser Focus Crystal
@@ -7056,8 +7056,8 @@ a59	Laser Focus Crystal
 slc1	Level Challenge I\nÿc8Scroll of Athulua
 slc2	Level Challenge II\nÿc8Scroll of the Zakarum
 \\8	Corrupted Wormhole
-smi2	Minigame\nÿc8Scroll of Mirrors
-smi1	Minigame\nÿc8Scroll of Witches
+smi2	unused
+smi1	unused
 Ysh2	Necklace
 x07	Nexus Crystal
 a55	Optical Detector
@@ -7073,7 +7073,7 @@ vor2	Sigil of Deadly Sins
 aq!	Silver Seal of Ureh
 yq2	Six Angel Bag
 bxa	Soul of Kabraxis
-lawl	Soulkeeper\nCongratulations!
+lawl	unused
 x05	Soulstone Shard
 yqx	Spirit Trance Herb
 yq1	ÿc8Sunless Crystal Bird
@@ -7105,7 +7105,7 @@ newsunstonedesc	ÿc8Cube this Charm with Sunstones!
 foralltehnewbz	ÿc8Cube this item with two Town Portal Scrolls!\n---\nresult in devastating results. \nAny kind of twinking or help/innates will\nMake sure your character is fresh started!\nDifficulty: HARD\nRequired Level: 1
 DescBraxisScroll	ÿc8lord Kabraxis within the Chaos Sanctuary\nto break the shackles that bind the demon\nUse the enchantments of Vizjerei mage Vheran
 customize_charm_yeah	unused
-z@z	ÿc9- I can afford this because I am wealthy and powerful. -\nÿc1trophies and the Vial of Elder Blood to create, destroying them. \nThis item does nothing and required the Yshari Sanctum, Uldyssian, Void
+z@z	ÿc9- I can afford this because I am wealthy and powerful. -\nÿc1the Essence of Time and the Vial of Elder Blood to create, destroying them. \nThis item does nothing and required the Archbishop Lazarus Trophy
 DescModdingHeadache	(Right Click to Collect)
 DescArcaneShard3	qui
 DescArcaneShard2	ri
@@ -7158,7 +7158,7 @@ txt#16	ÿc3Adds 5-10 Damage\nÿc0Cube with the Soul of Kabraxis to Add Bonus\n
 txt#07	ÿc3Slow Target 4%\nÿc0Cube with Xazax's Illusion to Add Bonus\n
 txt#09	ÿc3Physical Resist 5%\nÿc0Cube with the Sunstone of the Gods to Add Bonus\n
 txt#04	ÿc3Maximum Mana: +5%\nMaximum Life: +5%\nÿc0Cube with the Ancient Repositories to Add Bonus\n
-DescTheSleep	ÿc8Disenchant to open a portal to the World Nexus\n\nCube with Trophy to Awakenÿc0
+DescTheSleep	ÿc8Disenchant to open a portal to the World Nexus\n\nCube After Completing a Trophy Challenge to Awakenÿc0
 txt#17	ÿc3Adds 100-150 cold damage\nAdds 100-150 lightning damage\nAdds 100-150 fire damage\nÿc0Cube with the Neutrality Pact to Add Bonus\n
 pffffffffttt	Cube with your Class Charm...\nYour Class Charm looks a bit messy!
 DescScrollBRC2	Cube your Class Charm to Complete Trial\nÿc9Reward\n\nÿc0Collect 666,666 or more Gold on your Character\nÿc9Trial of Greed\n\nÿc0Anywhere\nÿc9Location\n\nÿc0Any\nÿc9Difficulty\n
@@ -8249,7 +8249,7 @@ LargeShieldSU3	Wizard's Wall
 Wizardspike	Wizardspike
 FangedHelmSU3	Wolf Teeth
 TheEviscerator	The Eviscerator
-unused8331	unused
+ThunderstoneSyn	+1% Damage Multiplier for every 100 Energy above 1500
 Wolfpack	Wolfpack
 WolverineSkin	Wolverine Skin
 Worldstone Shard	Worldstone Shard
@@ -9394,11 +9394,11 @@ To The Dimensional Labyrinth 15	ÿc0Difficulty: ÿc5Extreme\n\nÿc0Nephalem Rift
 To The Dimensional Plane	ÿc0Difficulty: ÿc5Extreme\n\nÿc0Nephalem Rift\nÿc4Dimensional Plane
 drX00	energy source and allow you to investigate further...\nPerhaps transmuting it in the Horadric Cube could unleash the\n\nto resemble the Rift activators you have come to know well\nIt certainly did not originate on Sanctuary, and yet it appears\n\ndread as you sense the latent otherworldly energy seeping from it\nThe stone emits a faint glow. Holding it in your hand fills you with\n
 ir85	ÿc8Occult Effigy\nElemental Ire
-ir85x	ÿc3+10 Required Level\nAdds 40-60 Lightning Damage\nAdds 40-60 Fire Damage\nÿc0Cube with a Quiver to Add Bonus\n\nCube Reagent
+ir85x	ÿc3(Max 2 Uses per Item)\n+5 Required Level\n1% Chance to cast level 4 Life Spark on Striking\nÿc0Cube with a Elemental Ranged Weapon to Add Bonus\n\nCube Reagent
 ir86	ÿc8Occult Effigy\nBreath of Thaumaturgy
-ir86x	ÿc3+25 Required Level\nItem can be blessed Again\nÿc0Cube with a Blessed Crafted Weapon/Armor to Add Bonus\n\nCube Reagent
+ir86x	ÿc3+25 Required Level\nItem can be blessed Again\nÿc0Cube with a Blessed Crafted/Rare Weapon/Armor to Add Bonus\n\nCube Reagent
 ir87	ÿc8Occult Effigy\nElemental Dominion
-ir87x	ÿc3+10 Required Level\nAdds 75-125 Cold Damage\nAdds 75-125 Lightning Damage\nAdds 75-125 Fire Damage\nÿc0Cube with a Zero Socket Weapon to Add Bonus\n\nCube Reagent
+ir87x	ÿc3(Max 2 Uses per Item)\n+5 Required Level\n4% Chance to cast level 5 Life Spark on Melee Attack\nÿc0Cube with a Elemental Melee Weapon to Add Bonus\n\nCube Reagent
 ir88	ÿc8Occult Effigy\nArcane Hunger
 ir88x	ÿc3+10 Required Level\n(Max 1 Use per Item)\nItem Cannot be Unsocketed\nAll Life Leech transformed to +20% Spell Damage\nÿc0with at least 15% Life Leech to Add Bonus\nCube with a One Handed Weapon\n\nCube Reagent
 irX96	Until the chart is restored it cannot be read\n\nA piece of a scroll, illustrating the night sky\n
@@ -9607,7 +9607,7 @@ Book Of Cain	Cube Reagent\nÿc4Book of Cain
 SuperBow Design	ÿc0Item Design\nÿc4Valkyrie's Prime
 SkillnameRainbowStorm	Rainbow Storm
 SkillanRainbowStorm	Rainbows
-SkillsdRainbowStorm	ÿc0it is said to hold the key to the land of the goblins...\nspell - a mysterious ability discovered in Tristram
+SkillsdRainbowStorm	ÿc0spell - a mysterious ability discovered in Tristram
 DescRainbowStorm	but Decreases with Poison Spell Damage\nDamage Increases with Fire/Cold/Lightning Spell Damage\n\nGoblin Magic Resistance: -250%\nGoblin Velocity: -100%\nÿc8Goblin Arrest\n
 en01	ÿc8Scroll of Enchantment: Helmet
 en02	ÿc8Scroll of Enchantment: Body Armor
@@ -9623,11 +9623,11 @@ en5c	ÿc3Maximum Lightning Resist +1%\nLightning Resist +20%\nÿc0Cube with a Be
 en5d	ÿc3Maximum Poison Resist +2%\nPoison Resist +30%\nÿc0Cube with a Belt to Add Bonus\n\nCube Reagent
 en5e	ÿc3Physical Resist +5%\nÿc0Cube with a Belt to Add Bonus\n\nCube Reagent
 en5f	ÿc3Magic Resist +5%\nÿc0Cube with a Belt to Add Bonus\n\nCube Reagent
-en2a	ÿc3+10% to Fire Spell Damage\n+40 to Spell Focus\nÿc0Cube with a Body Armor to Add Bonus\n\nCube Reagent
-en2b	ÿc3+10% to Cold Spell Damage\n+40 to Spell Focus\nÿc0Cube with a Body Armor to Add Bonus\n\nCube Reagent
-en2c	ÿc3+10% to Lightning Spell Damage\n+40 to Spell Focus\nÿc0Cube with a Body Armor to Add Bonus\n\nCube Reagent
-en2d	ÿc3+10% to Poison Spell Damage\n+40 to Spell Focus\nÿc0Cube with a Body Armor to Add Bonus\n\nCube Reagent
-en2e	ÿc3+10% to Physical/Magic Spell Damage\n+40 to Spell Focus\nÿc0Cube with a Body Armor to Add Bonus\n\nCube Reagent
+en2a	ÿc3+20% to Fire Spell Damage\n+60 to Spell Focus\nÿc0Cube with a Body Armor to Add Bonus\n\nCube Reagent
+en2b	ÿc3+20% to Cold Spell Damage\n+60 to Spell Focus\nÿc0Cube with a Body Armor to Add Bonus\n\nCube Reagent
+en2c	ÿc3+20% to Lightning Spell Damage\n+60 to Spell Focus\nÿc0Cube with a Body Armor to Add Bonus\n\nCube Reagent
+en2d	ÿc3+20% to Poison Spell Damage\n+60 to Spell Focus\nÿc0Cube with a Body Armor to Add Bonus\n\nCube Reagent
+en2e	ÿc3+20% to Physical/Magic Spell Damage\n+60 to Spell Focus\nÿc0Cube with a Body Armor to Add Bonus\n\nCube Reagent
 en2f	ÿc3+10% Innate Elemental Damage\n+5% to All Attributes\nÿc0Cube with a Body Armor to Add Bonus\n\nCube Reagent
 en2g	ÿc3Weapon Physical Damage +75%\nÿc0Cube with a Body Armor to Add Bonus\n\nCube Reagent
 en2h	ÿc3Regenerate Mana +15%\n+2 to All Skills\nÿc0Cube with a Body Armor to Add Bonus\n\nCube Reagent
@@ -9636,10 +9636,10 @@ en3b	ÿc3+100 Life Regenerated per Second\nÿc0Cube with Gloves to Add Bonus\n\n
 en3c	ÿc31% Chance to Cast Level 5 Life Spark on Striking\nÿc0Cube with Gloves to Add Bonus\n\nCube Reagent
 en3d	ÿc3+20 to Maximum Stamina\nÿc0Cube with Gloves to Add Bonus\n\nCube Reagent
 en3e	ÿc3+60 Life After Each Kill\nÿc0Cube with Gloves to Add Bonus\n\nCube Reagent
-en4a	ÿc3Total Character Defense +35%\nÿc0Cube with Boots to Add Bonus\n\nCube Reagent
-en4b	ÿc31% Chance to Avoid Damage\nÿc0Cube with Boots to Add Bonus\n\nCube Reagent
-en4c	ÿc3Physical Damage Reduced by 35\nÿc0Cube with Boots to Add Bonus\n\nCube Reagent
-en4d	ÿc3Elemental/Magic Damage Reduced by 35\nÿc0Cube with Boots to Add Bonus\n\nCube Reagent
+en4a	ÿc3Total Character Defense +50%\nÿc0Cube with Boots to Add Bonus\n\nCube Reagent
+en4b	ÿc32% Chance to Avoid Damage\nÿc0Cube with Boots to Add Bonus\n\nCube Reagent
+en4c	ÿc3Physical Damage Reduced by 70\nÿc0Cube with Boots to Add Bonus\n\nCube Reagent
+en4d	ÿc3Elemental/Magic Damage Reduced by 70\nÿc0Cube with Boots to Add Bonus\n\nCube Reagent
 en4e	ÿc3Lightning Absorb 1%\nCold Absorb 1%\nFire Absorb 1%\nÿc0Cube with Boots to Add Bonus\n\nCube Reagent
 en6a	ÿc3+30% Attack Speed\nÿc0Cube with Amulet to Add Bonus\n\nCube Reagent
 en6b	ÿc3+30% Cast Speed\nÿc0Cube with Amulet to Add Bonus\n\nCube Reagent
@@ -9662,16 +9662,16 @@ en8e	ÿc3ÿc3Cooldown  Reduced by 20%\nÿc4Enhances Your Innate Skill\nÿc0Cube 
 en8f	ÿc3Duration: +25%\nWeapon Physical Damage: +25%\nÿc4Enhances Your Innate Skill\nÿc0Cube with the Eye of Divinity to Add Bonus\n\nCube Reagent
 en8g	ÿc3Damage Aborbtion increased by 20%\n9% Less Mana Drained When Hit\nÿc4Enhances Your Innate Skill\nÿc0Cube with the Nexus Crystal to Add Bonus\n\nCube Reagent
 en1a	ÿc850% Area of Effect Attack\nÿc0Cube with Helm to Add Bonus\n\nCube Reagent
-en1b	ÿc320% Chance to Cast Level 10 Life Spark on Melee Attack\nÿc0Cube with Helm to Add Bonus\n\nCube Reagent
+en1b	ÿc315% Chance to Cast Level 10 Life Spark on Melee Attack\nÿc0Cube with Helm to Add Bonus\n\nCube Reagent
 en1c	ÿc8Lightning Arena Damage Increased by 1000%\nÿc3+20 to Lightning Arena\nÿc0Cube with Helm to Add Bonus\n\nCube Reagent
 en1d	ÿc8Churel Buff Duration Increased by 66%\nÿc3+10 to Churel\nÿc0Cube with Helm to Add Bonus\n\nCube Reagent
-en1e	ÿc8Level 5 Hellfire Aura\nÿc0Cube with Helm to Add Bonus\n\nCube Reagent
+en1e	ÿc5300% of Deadly Strike added as Damage Multiplier\n200% of Deadly Strike added as Fire Pierce\nÿc8Path of Flames:\nÿc3+20 to Path of Flames\nÿc0Cube with Helm to Add Bonus\n\nCube Reagent
 en1f	ÿc8Dark Power Adds 1% Innate Elemental Damage per Skill Level\nÿc3+10 to Dark Power\nÿc0Cube with Helm to Add Bonus\n\nCube Reagent
 en1g	ÿc8Firedance Does Not Add Spell Damage\nÿc3+10 to Firedance\nÿc0Cube with Helm to Add Bonus\n\nCube Reagent
 en1h	ÿc5Hive Duration set to 30 seconds\nÿc8Hive Adds 1% Poison Spell Damage per Skill Level\nÿc3+15 to Hive\nÿc0Cube with Helm to Add Bonus\n\nCube Reagent
-en1i	ÿc5(+777% Magic Find for 7 Seconds)\nÿc3+1% Chance to Cast Level 1 Goblin Glee on Death Blow\n+10% Movement Speed\nÿc0Cube with Helm to Add Bonus\n\nCube Reagent
-en09a	ÿc8Scroll of Enchantment: Elder Staff
-en9a	ÿc3+1 to Telekinesis\n+30% Movement Speed\nÿc8+10% Magic Find per Socketed Rainbow Stone\nÿc0Cube with ÿc4Staff of Herding ÿc0to Add Bonus\n\nCube Reagent
+en1i	ÿc8Amatoxin: 2000% of Innate Elemental Damage bonus added as Damage Multiplier\nÿc3+28 to Amatoxin\nÿc1Disables Ranged Skills\nÿc0Cube with Helm to Add Bonus\n\nCube Reagent
+en09a	ÿc8Scroll of Enchantment: Staff
+en9a	ÿc3+30% Movement Speed\n+200 Life Regenerated per Second\nÿc0Cube with Staff to Add Bonus\n\nCube Reagent
 TrophySeeker	Trophy Seeker
 SCP1Q1	60\n(1/4)\n\nYou've made it here... I've left this note \nhidden here so that only a worthy hero \ncould find it. Our final confict, the\nUileloscadh Mór, is upon us. Baal's \ncorruption has enveloped Scosglen, and \nsoon will spread in all of Sanctuary...\n\nDruids, over the centuries, have been \nmastering the art of the Dubhdroiacht, \nallowing us control over the forces of \nnature. This forest is the birthplace \nof our greatest creation: the Dúlra \nAegis. We must stop the Lord of \nDestruction before he obtains it.\n\nPlease, muster your resolve and look \nfor the other pages of my diary. Reach \nthe farmfields and look for a chest near \na hut, I believe you'll find it as this \nmessage found you. Watch out, as\nbloody rituals are frequent in that area.\n
 SCP1Q2	60\n(2/4)\n\nThis device was born from the desire to \nprotect our home during the foretold \ncalamity; but now, in a twist of fate, it \ncould grant Baal authority over \nunspeakable power... thankfully \nassembling it is far from a simple task. \nThe artifact itself was never completed \nbecause of the threat of its potential \nmisuse, and the instructions were split \ninto multiple designs that Túr Dúlra \nexperts swore to protect.\n\nAfter harvesting the information he \nneeded, Baal has corrupted almost all of \nthe guardians! He has used the artifact \nto reach an unknown location, hiding his \npresence and pressing his advantages.\n\nMaking our own Dúlra Aegis may be \nour best and only step on the path to \nhis defeat.\n\nThe third page of the diary is in a chest \nnearby the Sky Altar, on a stony ground\nperpetually bathed by sunbeams. \nIt's south of the farmfields.\n
@@ -9682,11 +9682,11 @@ sc02	Scroll
 sc03	Scroll
 sc04	Scroll
 en7g	ÿc3Poison Length Reduced by 30%\nÿc0Cube with Ring to Add Bonus\n\nCube Reagent
-en3f	ÿc3+10% Mana Stolen per Hit\nÿc0Cube with Gloves to Add Bonus\n\nCube Reagent
+en3f	ÿc3+2 Mana on Striking\nÿc0Cube with Gloves to Add Bonus\n\nCube Reagent
 en4f	ÿc330% Curse Length Reduction\nÿc0Cube with Boots to Add Bonus\n\nCube Reagent
 en09	ÿc8Scroll of Enchantment: Weapon
 en9b	ÿc3+200% Damage to Undead\n30% Increased Attack Speed\nAdds 25 - 50 Damage\n5% Chance to Cast Level 30 Thunder Hammer Nova on Melee Attack\nÿc4Undead Slayer\nÿc0Cube with a Mace to Add Bonus\n\nCube Reagent
-en9c	ÿc3+20% Spell Damage\n+250 Spell Focus\nÿc840% Less Healing From Potions\nÿc4Reckless Power\nÿc0Cube with a Rare/Crafted Scepter to Add Bonus\n\nCube Reagent
+en9c	ÿc3+20% Spell Damage\n+200 Spell Focus\nÿc840% Less Healing From Potions\nÿc4Reckless Power\nÿc0Cube with a Rare/Crafted Scepter to Add Bonus\n\nCube Reagent
 en9d	ÿc3Slow Target +10%\nMaximum Life -5%\n10% Chance to Cast Level 1 Corrupted Vines on Death Blow\nÿc4Corruptor\nÿc0Cube with a Hammer to Add Bonus\n\nCube Reagent
 en9e	ÿc5Does not Work on Indestructible Items\nÿc3Item Becomes Ethereal\nÿc4Silver Point\nÿc0Cube with a Rare/Crafted Dagger to Add Bonus\n\nCube Reagent
 HebertGob	Hebert the Thief
@@ -9884,7 +9884,7 @@ SkillEarthquakeSyn	% Bonus Physical Damage per Base Level
 SkillsdTslam	ÿc1requires a melee weapon\nÿc0attack - blast out a stunning thunderclap
 SkillUpheavalSyn	 Physical Damage to Thunderslam per Base Level
 SkillUpheaval1	 Base Physical Damage to Thunderslam
-SkillUpheaval2	Weapon Physical Damage bonuses\n10% of Total Strength
+SkillUpheaval2	Weapon Physical Damage bonuses
 SkillHoS1	ÿc1Deal no Fire, Cold or Lightning damage
 SkillHoS2	% of Weapon Physical Damage bonuses added as Crushing Blow
 SkillHoS3	% of Weapon Physical Damage bonuses added as Attack Rating
@@ -9892,9 +9892,9 @@ CurrentValue+	(Current Value: +
 SkillsdHoS2	ÿc1you cannot learn this skill if you have points in Whirlwind\nonly allows the use of melee, summoning and buff/debuff skills\nÿc0passive - amplifies your physical prowess and nullifies your elemental power
 SkillsdWhirlwind2	ÿc1you cannot learn this skill if you have points in Heart of Stone\nrequires a melee weapon\nÿc0attack - become one with the wind in a dance of death
 SkillsdLeap2	ÿc0warp - jump over your foes
-DescSoR1	Enemy Movement Speed: -25%\nEnemy Attack Rating: -25%\nEnemy Physical Resist: -5%\n
+DescSoR1	Enemy Movement Speed: -25%\nEnemy Attack Rating: -25%\nEnemy Physical Resist: -10%\n
 DescAftermathSyn	% Strength added as Magic damage per Base Level
-SkillsdAftermath2	upgrade - Shower of Rocks is improved by the might of Arreat
+SkillsdAftermath2	ÿc1Requires Heart of Stone\nÿc0upgrade - Shower of Rocks is improved by the might of Arreat
 DescAftermath1	% of Strength added as Magic damage to Shower of Rocks
 DescLighterino	Lightning Damage
 SkillsdAncBlood2	ÿc0passive - increases your life and attack rating
@@ -9910,7 +9910,7 @@ SkillEotsSyn3	Increased healing per Base Level
 SkilLEots1	 Life restored per cast (based on Maximum Life)
 SkillEots2	% Maximum Lightning Resist
 SkillEots3	% Poison Length Reduced
-SkillEots4	 \nÿc1Thunderstone: -10% Total Damage
+SkillThunderstoneX	% Damage Multiplier from Energy
 mon_scosarcher	Crushing Attack
 mon_scosmantis	ÿc2Absorbs Poisonÿc0, Poison Attack
 mon_scosbigtree	ÿc8Absorbs Magicÿc0, Summons Trees
@@ -9972,3 +9972,29 @@ Alchemy2a	Cube Reagent\nÿc8Oil of Greater Alchemy (2)
 Alchemy2b	Cube Reagent\nÿc8Oil of Greater Alchemy (1)
 Alchemy1a	Cube Reagent\nÿc8Oil of Lesser Alchemy (2)
 Alchemy1b	Cube Reagent\nÿc8Oil of Lesser Alchemy (1)
+b000x	Paragon Soulstone
+ParaExplain	ÿc1WARNING: UNCLAIMED REWARDS DUE TO OVERLEVELLING ARE LOST\nÿc2Transmute in the cube at the correct level to get rewards
+b001x	Paragon Soulstone (2)
+b002x	Paragon Soulstone (3)
+b003x	Paragon Soulstone (4)
+b004x	Paragon Soulstone (5)
+b000	Paragon Soulstone
+Eschaton	Eschaton
+Farseer	Farseer
+DescXazaxTrophy	80\nXazax Trophy Challenge\nRequirements:\nKill Xazax without being hit by a Penitent\nDo not die\n\nCube Xazax's Illusion within 10 seconds\nGrants\nSlow target 4%\nLocked to current character class\n
+DescVoidTrophy	80\nVoid Trophy Challenge\nRequirements: \nKill Inarius\nLilith must stay above 95% hp\n\nCube Book of Kalan within 10 seconds\nGrants\n+2 to all Skills\nLocked to current character class\n
+DescYhshariTrophy	80\nYshari Sanctum Trophy Challenge\nRequirements:\nKill Valthek the Archmage within \n5 minutes 30 seconds of killing \nValthek's Altar \nDo not die\n\nCube The Ancient Repositories within \nthe time limit\nGrants\nMaximum Life and Mana +5%\nLocked to current character class\n
+DescUldyTrophy	80\nNephalem's Sacrifice Trophy Challenge\nRequirements: \nKill Uldyssian within 4 minutes of \nkilling Moreina the Corrupted\nDo not fail Azmodan's or Baal's\nchallenges on the path\nDo not die\n\nCube Neutrality Pact within the time limit\nGrants: \n+4% Deadly Strike\n+8% Innate Elemetal Damage\nLocked to current character class\n
+DescKabTrophy	80\nBanisher of Light Trophy Challenge\nRequirements: \nKill Kabraxis without being hit by his\nPillar of Poison\nDo not die\n\nCube Soul of Kabraxis within 10 seconds\nGrants: \nAdds 5-10 Damage\nLocked to current character class\n
+DescDuncTrophy	80\nDuncraig Trophy Challenge\nRequirements: \nKill Assur without being hit by his \nFlamefront\nDo not die\n\nCube Demonsbane within 10 seconds\nGrants: \n10% Combat Speeds\nLocked to current character class\n
+DescBelialTrophy	80\nLord of Lies Trophy Challenge\nRequirements: \nKill Belial without dying\nAll of Belial's clones must die before him\n\nCube The Book of Lies within 10 seconds\nGrants: \nWeapon Physical Damage +20%\nLocked to current character class\n
+DescAstroTrophy	80\nAstrogha Trophy Challenge\nRequirements: \nKill the real Astrogha while he is \nempowered by a Spider Statue\n\nCube Astrogha's Venom Stinger within \n10 seconds\nGrants: \n-5% to Enemy Elemental Resistances\nLocked to current character class\n
+DescQTTrophy	80\nQuov Tsin Trophy Challenge\nRequirements: \nKill Quiv Tsin without being struck by\nhis Bone Spear Nova\nDo not die\n\nCube the Silver Seal of Ureh within \n10 seconds\nGrants: \n+10% to Spell Damage\nLocked to current character class\n
+DescLobTrophy	80\nLegacy of Blood Trophy Challenge\nRequirements: \nKill Bartuc within 15 seconds of \nentering the Chamber of Blood\nDo not die\n\nCube the Legacy of Blood within the time \nlimit\nGrants: \n20% Bonus to Defense\nLocked to current character class\n
+DescJDayTrophy	80\nJudgement Day Trophy Challenge\nRequirements: \nKill both Imperius and Malthael within \n60 seconds of the hooded figure \ndisappearing\nDo not die\n\nCube the Crystalline Flame Medallion \nwithin the time limit\nGrants: \n5% to All Attributes\nLocked to current character class\n
+DescTATrophy	80\nTran Athulua Trophy Challenge\nRequirements: \nKill Skovos and Lycander within 10 \nseconds of each other\n\nCube the Sunstone of the Gods with both\ntrophy buffs on you\nGrants: \nPhysical Resist 5%\nLocked to current character class\n
+DescUrehTrophy	80\nKingdom of Shadow Trophy Challenge\nRequirements: \nPurify the Forboding Statue after entering\nKill Juris Khan without dying\n\nCube the Eternal Bone Pile within 10 \nseconds\nGrants: \n10% Movement Speed\nLocked to current character class\n
+DescCoVTrophy	80\nThe Veiled Prophet Trophy Challenge\nRequirements:\nKill either Oris or Gamuel before \ndestroying the Veil Piercer\nKill the Veiled Prophet\nDo not die\n\nCube the Idol of Vanity within 10 seconds\nGrants: \n+20% to Summoned Minion Life\n+10% to Summoned Minion Resistances\nLocked to current character class\n
+DescVizjunTrophy	80\nVizjun Trophy Challenge\nRequirements: \nKill the Master Control System within 25 \nseconds\nDo not die\n\nCube the Cold Fusion Schematics within\nthe time limit\nGrants: \n+15 to all Attributes\n
+DescLazTrophy	80\nArchbishop Lazarus Trophy Challenge\nRequirements: \nKill Archbishop Lazarus without being \nstruck by the Black Hand Totem's Tremor\nDo not die\n\nCube the Glorious Book of Median within \n10 seconds\nGrants: \nMaximum Elemental Resists +1% \nLocked to current character class\n
+DescTriuneTrophy	80\nTriune Trophy Challenge\nRequirements: \nKill Lucion without being struck by Malic's \nBurning Missiles\nDo not die\n\nCube the Corrupted Wormhole within \n10 seconds\nGrants:\n30% Magic Find\nLocked to current character class\n

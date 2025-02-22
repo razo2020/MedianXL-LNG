@@ -1,0 +1,395 @@
+------------INICIO COMPARACION-------------
+
+linea 5207
+----------------------
+8-1625%50%
+8-1625%
+-----------------
+Desc1B9Cruc	8-16 picos dependiendo de los enemigos cercanos\nConvierte 25% de Daño Físico en Daño Mágico\n50% de daño de arma
+Desc1B9Cruc	8-16 Spikes depending on Nearby Enemies\nConverts 25% Physical Damage to Magic Damage
+linea 5209
+----------------------
+85%
+21
+-----------------
+DescSunstrikeDmg	85% de daño de arma
+DescSunstrikeDmg	Gains an additional arrow every 21 Skill Levels
+linea 5378
+----------------------
+5-25%-10%-100%¿?
+5-25%-10%-50%?
+-----------------
+DescColosseumStack	Duración: 5 segundos\nVelocidad de movimiento y daño del enemigo: -25%\nResistencia física enemiga: -10%\nDefensa enemiga: -100%\nÿc8¿No estás entretenido?
+DescColosseumStack	Duration: 5 seconds\nEnemy Movement Speed and Damage: -25%\nEnemy Physical Resistance: -10%\nEnemy Defense: -50%\nÿc8Are you not entertained?
+linea 5449
+----------------------
++15%
++20%
+-----------------
+DescMagnetik	+15% más de daño por rayos por nivel base
+DescMagnetik	+20% increased lightning damage per Base Level
+linea 5486
+----------------------
++68%
++8-10%
+-----------------
+DescLionStrToMag	Daño mágico: +(6 a 8)% de la Fuerza Base por cada nivel Base
+DescLionStrToMag	Magic Damage: +8-10% of Base Strength per Base Level
+linea 5557
+----------------------
+11
+18
+-----------------
+DescBlankSGuide	Alcance: 11 yardas\nÿc1Las bonificaciones solo se aplican si estás dentro del alcance de un lobo
+DescBlankSGuide	Range: 18 yards\nÿc1Bonuses are only applied if you are within range of a wolf\n
+linea 5571
+----------------------
+75%
+100%
+-----------------
+DescHarbinger	Requiere un Monstruo como objetivo\n75% de daño de arma
+DescHarbinger	Requires a Monster as target\n100% Weapon Damage
+linea 5574
+----------------------
+4
+2.4
+-----------------
+DescWychbabble2	Duración de la grieta: 4 segundos
+DescWychbabble2	Rift Duration: 2.4 seconds
+linea 5641
+----------------------
+-33%-33%
+-20%-33%-33%
+-----------------
+DescHauntedEnemy	Velocidad de movimiento: -33%\nÍndice de daño y ataque: -33%\nÿc8Refugio
+DescHauntedEnemy	Poison Resistance: -20%\nMovement Speed: -33%\nDamage and Attack Rating: -33%\nÿc8Haunt\n
+linea 5697
+----------------------
+120+1%
+120+1%15%
+-----------------
+SymbiosisSyn	Harvesters: 1 Second Faster Regeneration per Base Level (Min 20s)\n+1% Chance to Avoid Damage per Base Level
+SymbiosisSyn	Harvesters: 1 Second Faster Regeneration per Base Level (Min 20s)\n+1% Chance to Avoid Damage per Base Level (Max 15%)
+linea 5721
+----------------------
+30%
+25%
+-----------------
+CarnageConverse	Convierte un 30% del Daño físico a Daño de Fuego
+CarnageConverse	Converts 25% Physical damage to Fire
+linea 5810
+----------------------
++66%+4
+1%
+-----------------
+DescBRBS	ÿc8Blood Fury: +66% de rango de búsqueda y +4 objetivos adicionales
+DescBRBS	1% of Maximum Mana added as a damage bonus
+linea 5815
+----------------------
++1512
++1515
+-----------------
+DescMMProj	+1 proyectil por cada 5 niveles de habilidad (máx. 12)
+DescMMProj	+1 Projectile per 5 Skill Levels (Max 15)
+linea 5995
+----------------------
+2+%+%;%+%+%;
+2+%+%%+%+%
+-----------------
+DescShrineF	ÿc1Solo puedes bendecir un objeto una vez. Los objetos etéreos no se pueden bendecir\nÿc0La bendición agregará las estadísticas fabricables al objeto\nCubo con arma o armadura sagrada, rara o fabricada y 2 cristales arcanos para bendecir\n\nÿc5(Armadura)\nÿc3Resistencia Física +x%\n+x% Defensa Mejorada\n\nÿc0(Armas)\ngrey;x% golpe mortal\nRequisitos +x%\n+x% de daño mejorado\ngrey;Cubo con Arma/Armadura Sagrada Rara o Fabricada para Fabricar\n\nReactivo de cubo
+DescShrineF	ÿc1You can only bless an item once. Ethereal items cannot be blessed\nÿc0The blessing will add the craftable stats to the item\nCube with Sacred Rare or Crafted Weapon/Armor and 2 Arcane Crystals to Bless\n\nÿc5(Armor)\nÿc3Physical Resist +x%\n+x% Enhanced Defense\n\nÿc5(Weapons)\nÿc3x% Deadly Strike\nRequirements +x%\n+x% Enhanced Damage\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
+linea 6055
+----------------------
++12
++125+12
+-----------------
+DescHawkSynergy	+1 Halcón por 2 Niveles Base
+DescHawkSynergy	+1 Hawk per Cast at Base Level 25\n+1 Hawk per 2 Base Levels
+linea 6157
+----------------------
+1300%18
+1450%18
+-----------------
+TrinityArrowSplain	Up to 1300% Total Weapon Damage at Impact Center\n18 Projectiles\n
+TrinityArrowSplain	Up to 1450% Total Weapon Damage at Impact Center\n18 Projectiles\n
+linea 6162
+----------------------
+10-20%-30%
+-20%-30%
+-----------------
+DescTerrifying1	Duración: 10 Minutos\n\nVelocidad de lanzamiento y ataque del enemigo: -20%\nDaño de arma enemiga: -30%
+DescTerrifying1	\nEnemy Attack and Cast Speed: -20%\nEnemy Weapon Damage: -30%\n
+linea 6235
+----------------------
++50%+10%+3%
++25%+10%+3%
+-----------------
+DescArtificer1	+50% de velocidad de bloqueo\n+10% a la Vitalidad\n\nResistencia máxima al fuego y al frío: +3%
+DescArtificer1	\n+25% Block Speed\n+10% to Vitality\n\nMaximum Fire and Cold Resists: +3%
+linea 6287
+----------------------
+2%
++50
+-----------------
+DescFamineMaxLife	2% de Vida Absorbida por Nivel Base
+DescFamineMaxLife	+50 Maximum Life per Base Level
+linea 6317
+----------------------
++2%
++1.5%
+-----------------
+ALightningSyn	+2% Total Damage per Base Level
+ALightningSyn	+1.5% Total Damage per Base Level
+linea 6495
+----------------------
++2%
++2%1
+-----------------
+DescSearingSpecial	\n+2% De Daño Total por cada punto al Radio de Luz\n
+DescSearingSpecial	\n+2% Total Damage per 1 Light Radius\n
+linea 6527
+----------------------
+-150%-20%
++1%-300%
+-----------------
+DescMageSlayer1	\nDaño de Arma Mejorado -150%\n-20% de Daño Elemental para los Hechizos a Enemigos Cercanos\n
+DescMageSlayer1	+1% Maximum Fire, Cold, and Lightning Resistances\nWeapon Physical Damage -300%
+linea 6565
+----------------------
++10%
++20%
+-----------------
+DescSurvivalInstinct	Probabilidad de congelar enemigos regulares al golpear\nResistencia Física +10%
+DescSurvivalInstinct	Chance to Freeze Regular Enemies on Striking\nPhysical Resist +20%
+linea 6584
+----------------------
+10%
+5%90%
+-----------------
+DescPsi1	ÿc3Drena el 10% del maná máximo por lanzamiento
+DescPsi1	Drains 5% of Maximum Mana\nWhile under 90% hp
+linea 6697
+----------------------
++1%10%+2%24000
++1%10%+8%24000
+-----------------
+DescDragonboneSyn	+1% de absorción por cada 10% de daño de hechizos físicos\n+2% de absorción por nivel base\nHasta 24 000 de maná
+DescDragonboneSyn	+1% Absorption per 10% Physical Spell Damage\n+8% Absorption per Base Level\nUp to 24 000 Mana
+linea 6705
+----------------------
+2%1%
+2%4%
+-----------------
+DescDragonbreathSyn	Resistencia al fuego enemigo reducida en un 2% por nivel base\nDaño de fuego enemigo reducido en un 1% por nivel base\nDaño de hechizo de fuego (duración, área)
+DescDragonbreathSyn	Enemy Fire and Lightning Damage reduced by 2% per Base Level\nEnemy Fire Resistance reduced by 4% per Base Level\nFire Spell Damage (Duration, Area)
+linea 6714
+----------------------
++20%
++0.6
+-----------------
+DescCombustion1	+20% de radio de explosión por
+DescCombustion1	+0.6 yards Explosion Radius per 
+linea 6826
+----------------------
+10%
+15%
+-----------------
+DescShadowRefSyn	Velocidad de movimiento aumentada en un 10% por nivel base
+DescShadowRefSyn	Movement Speed Increased by 15% per Base Level
+linea 6834
+----------------------
+1
+56%1
+-----------------
+DescLethalInc2	ÿc1Cuchillos máx.: 1
+DescLethalInc2	ÿc1Reduces Explosion Radius by 56%\nTotal Max Knives: 1
+linea 6889
+----------------------
+10-
+5-
+-----------------
+SkillsdVoracity	ÿc1requiere 10 puntos en Angel of Death\nÿc0mejora - profundiza la sed de sangre del parásito otorgando más daño y alcance
+SkillsdVoracity	ÿc1requires 5 points in parasite\nÿc0upgrade - deepens the parasite bloodthirst granting more damage and range
+linea 6890
+----------------------
+30-​​
+30-
+-----------------
+SkillsdOminousVigor	ÿc4requiere 30 puntos en otras habilidades del árbol cuerpo a cuerpo\nÿc0pasivo - aumenta tus posibilidades de bloquear, tu fuerza y ​​destreza
+SkillsdOminousVigor	ÿc4requires 30 points in other melee tree skills\nÿc0passive - heightens your chances to block, your strength and dexterity
+linea 7009
+----------------------
+0.4%
+0.4%0.4%
+-----------------
+DescCog75A	ÿc2Ráfaga de Shuriken: 0.4% de daño total por cognición
+DescCog75A	\nÿc2Shuriken Flurry: 0.4% Total Damage per Cognition\nPisonic Storm: 0.4% Total Damage per Cognition
+linea 7015
+----------------------
++25%
+-15%
+-----------------
+DescCog150A	ÿc2Ser Perfecto: +25% de Probabilidad de Evitar Daño
+DescCog150A	\nÿc2-15% to Enemy Magic Resistance
+linea 7016
+----------------------
++25%150
+-15%150
+-----------------
+DescCog150B	ÿc0Ser Perfecto: +25% de Probabilidad de Evitar Daño\nÿc8Alcanza 150 Cognición
+DescCog150B	\nÿc0-15% to Enemy Magic Resistance\nÿc8Reach 150 Cognition\n
+linea 7182
+----------------------
+20
+30
+-----------------
+DescOverload1	ÿc2Llama Purificadora\nCongelación profunda\nTormenta\nÿc8Se activa durante 20 segundos después de usar:
+DescOverload1	\nÿc8Cooldowns are shared between skills\nÿc8Using a different skill replaces the currently active buff\n\nÿc2Purifying Flame\nDeep Freeze\nThunderstorm\nÿc8Activates for 30 seconds after using:
+linea 7222
+----------------------
+0.5
+1
+-----------------
+DescBlazingSeedSyn	Duración aumentada en 0.5 segundos por nivel base
+DescBlazingSeedSyn	Increased Duration by 1 second per Base Level
+linea 7238
+----------------------
+70
+70-
+-----------------
+SkillsdTracking	ÿc4requiere 70 puntos en otras habilidades del árbol cazador\nÿc0pasivo: la pericia de un cazador traza tu camino hacia mayores alturas
+SkillsdTracking	ÿc4requires 70 points in other hunter tree skills\nÿc0passive - the expertise of an Hunter traces your path to greater heights
+linea 7295
+----------------------
+50-
+-50-
+-----------------
+SkillsdFrostborn	ÿc1no puedes aprender esta habilidad si tienes puntos en Mana Sweep\nÿc4Dominio del frío: requiere 50 puntos en otras habilidades del árbol del frío.\nÿc0pasiva - potencia tus hechizos de árbol frío
+SkillsdFrostborn	ÿc1you cannot learn this skill if you have points in Mana Sweep\nÿc4cold proficiency - requires 50 points in other cold tree skills\nÿc0passive - empowers your cold tree spells
+linea 7310
+----------------------
+60-
+50-
+-----------------
+SkillsdCollapse	ÿc4requiere 60 puntos en otras habilidades del árbol de malicia\nÿc0pasiva - el alma de un objetivo afligido en mente y cuerpo sale de su caparazón
+SkillsdCollapse	ÿc4requires 50 points in other malice tree skills\nÿc0passive - the soul of a target afflicted in mind and body departs its shell
+linea 7339
+----------------------
+50-
+-50-
+-----------------
+SkillsdBlight	ÿc1no puedes aprender esta habilidad si tienes puntos en Mana Sweep\nÿc4Dominio del veneno: requiere 50 puntos en otras habilidades del árbol venenoso.\nÿc0pasiva - la energía aumenta la entropía
+SkillsdBlight	ÿc1you cannot learn this skill if you have points in Mana Sweep\nÿc4poison proficiency - requires 50 points in other poison tree skills\nÿc0passive - energy enhances entropy
+linea 7349
+----------------------
++380%-1
++125%
+-----------------
+SkillIncineration1	+3 Saetas de fuego si está por encima del 80% de maná\n-1 Saeta de fuego
+SkillIncineration1	+1 Firebolt per 25% Current Mana
+linea 7357
+----------------------
+0.65
++2%0.65
+-----------------
+DescKeenSightSyn	Alcance de búsqueda aumentado en 0.65 yardas por nivel base
+DescKeenSightSyn	+2% Critical Strike Chance per Base Level\nSeek Range Increased by 0.65 yards per Base Level
+linea 7358
+----------------------
+1%
+1%200
+-----------------
+SkillPyre2	1% de resistencia física por
+SkillPyre2	1% Physical Resist per 200 Energy
+linea 7439
+----------------------
++7%+4%+1%
++7%+6%+1%
+-----------------
+DescTakedownSyn	+7% de defensa adicional por nivel base\n+4% de velocidad de ataque por nivel base\n+1% de velocidad de movimiento por nivel base
+DescTakedownSyn	+7% bonus defense per base level\n+6% weapon physical damage per base level\n+1% movement speed per base level
+linea 7441
+----------------------
++1+110
++3%+15
+-----------------
+DescGreatHuntSyn	ÿc8Furia: +1 Espíritu por Carga de Furia\nÿc0+1 espíritu por cada 10 niveles base
+DescGreatHuntSyn	ÿc8Fury: +3% Magic Pierce per Fury Charge\nÿc0+1 Spirit per 5 Base Levels
+linea 7465
+----------------------
+100%+1%1
+100%3%+1%1
+-----------------
+DescPounceSyn	ÿc8Furia: daño mágico aumentado en un 100% por cada carga de furia\nÿc0+1% Daño Mágico por 1 Destreza
+DescPounceSyn	ÿc8Fury: Magic Damage Increased by 100% per Fury Charge\nÿc8Fury: 3% Magic Pierce per Fury Charge\nÿc0+1% Magic Damage per 1 Dexterity
+linea 7479
+----------------------
++15%
++25%
+-----------------
+DescFireEleLifeSyn	+15% de vida por nivel base
+DescFireEleLifeSyn	+25% Life per Base Level
+linea 7482
+----------------------
+0.7+1+33%+2+100%5
+2
+-----------------
+DescBloodMagic	Pozo de lava: radio de explosión aumentado en 0.7 yardas\nTormenta de sangre: +1 estrella de sangre por lanzamiento\nBalefire: +33% de bonificación a la defensa total\nMisiles Mágicos: +2 Misiles\nÿc8Blood Magic agrega:\n\nÿc0+100% a la vida del súbdito invocado\nÿc1Máximo de elementales de fuego fijados en 5\nÿc2Invocar elementales de fuego
+DescBloodMagic	Fire Elemental health halved\nSummon 2 Fire Elementals per cast\n
+linea 7504
+----------------------
+20%
+200%
+-----------------
+SkillViolence1	El daño físico aumenta con el nivel base\nEnfriamiento reducido en un 20% por nivel base
+SkillViolence1	Snake: 200% of your Life Steal added as Poison Pierce\n
+linea 7568
+----------------------
+903-->
+905-->
+-----------------
+DescCorruptedShard1	90\nCreación de cristales corruptos:\n\n3 fragmentos corruptos\n--> Cristal corrupto
+DescCorruptedShard1	90\nCreating Corrupted Crystals:\n\n5 Corrupted Shards\n--> Corrupted Crystal\n
+linea 7598
+----------------------
++2
+25%
+-----------------
+DescFlameburstSelfSyn	+2 fragmentos adicionales por nivel base
+DescFlameburstSelfSyn	25% Increased Fire Damage per Base Level
+linea 7655
+----------------------
+3.5
+10
+-----------------
+DescReaperClar	(disponible durante 3.5 segundos después de usar Angel of Death)
+DescReaperClar	(available for 10 seconds after using Angel of Death)
+linea 7661
+----------------------
+30%30%+10040%,
+30%30%+10040%
+-----------------
+DescJustTestedOnMyWeapon	30% de probabilidad de agregar nada\n30% de probabilidad de agregar +100 de nivel requerido\n40% de probabilidad de agregar estadística de bonificación aleatoria\n\nAnillo / Amuleto\nPalabra rúnica sagrada, o\nObjeto sagrado (mágico o superior), o\nÿc1Cubo con Objeto a Dañar
+DescJustTestedOnMyWeapon	30% Chance to add Nothing\n30% Chance to add +100 Required Level\n40% Chance to add Random Bonus Stat\n\nRing / Amulet\nSacred Runeword, or\nSacred (Magical or higher) Item, or\nÿc1Cube with Item to Corrupt\n
+linea 7673
+----------------------
+300050%20%
+300050%18%
+-----------------
+SkillChaoticSpark1	Los aumentos en la velocidad de lanzamiento cuentan como foco de hechizo para esta habilidad\nEl límite de enfoque de hechizo es 3000\n\nNova cargada perfora e inflige el 50% del daño de habilidad\n20% de probabilidad de liberar una Nova cargada al lanzar
+SkillChaoticSpark1	\nIncreases in Cast Speed count as Spell Focus for this skill\nSpell Focus cap is 3000\n\nCharged Nova pierces and deals 50% of skill damage\n18% chance to release a Charged Nova on cast
+linea 7679
+----------------------
+1200
+1250
+-----------------
+SkillAvalanche1	El radio de la nube se duplica si tienes al menos 1200 Spell Focus
+SkillAvalanche1	\nCloud radius doubles if you have at least 1250 Spell Focus
+linea 7690
+----------------------
+20%30-35%
+30%30-35%
+-----------------
+SkillSearingGlow1	\nÿc5Agregar 20% de Daño Físico como Fuego\nÿc0Por cada elemento corrompido con éxito equipado:\n\nÿc5 Duración aumentada a 30 segundos.\nÍndice de ataque enemigo: -35%\nÿc0Si no tienes equipados elementos corruptos con éxito:
+SkillSearingGlow1	\nÿc5Add 30% of Physical Damage as Fire\nÿc0For each successfully corrupted item equipped:\n\nÿc5 Duration increased to 30 seconds\nEnemy Attack Rating: -35%\nÿc0If you have no successfully corrupted items equipped:
+---------------------------Numero de lineas afectadas = 236---------------

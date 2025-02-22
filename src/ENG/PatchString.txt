@@ -99,8 +99,8 @@ Druid	Druid
 Assassin	Assassin
 partychardru	Druid
 partycharass	Assassin
-x	Unable to enter game. A Diablo II character cannot join a game created by a Diablo II Expansion character.
-x	Unable to enter game. A Diablo II Expansion character cannot join a game created by a Diablo II character.
+x	Unable to enter game. This SSF character cannot join a game created by a non-SSF character.
+x	Unable to enter game. This non-SSF character cannot join a game created by a SSF character.
 charmonsterX	%s: %d%%
 charmontohit1X	Strength Damage Bonus:
 charmontohit2X	Dexterity Damage Bonus:
@@ -1030,11 +1030,11 @@ x	In the Game Queue
 eats and spits corpses	Eats and Spits Corpses
 qstsa2q63f	Explore Tal Rasha's Tomb
 Shocking Hit	Shocking Hit
-ModStrCuck2	unused
+11032	Shower of Rocks: Cooldown reduced by 1.5 seconds
 ModStrCuck1	unused
 ModStr3u	Hit Causes Monster to Flee
 ModStr4c	Bonus to Attack Rating
-UNUSED1036	Slows Target by
+11036	Eviscerate: +2 Projectiles
 ModStr6f	Chance to Reanimate Target
 ModStr6d	Hit Blinds Target
 x	Enter Host IP Address to Join Game
@@ -1239,7 +1239,7 @@ x	Warp Blade
 CfgNoPickup	Toggle item pickup
 CfpMapReveal	Reveal map
 StrCfgSmallAutomap	Small automap
-StrCfgTitleAutomap	Automap options
+StrCfgTitleAutomap	Automap settings
 StrCfgTheme	Interface Theme
 CfgNotifGold	Gold gains and loss
 CfgNotifLevelUp	Level up
@@ -1263,42 +1263,42 @@ x	Self-Immolation damage per cast unchanged\n+3 seconds to Balefire Buff Duratio
 x	Pagan Rites also Restores Mana
 1263	Superbeast adds Deadly Strike Instead of Spell Damage at 50% efficiency
 x	+30% Pierce Chance to Mind Flay
-x	+8 Storm Crows Projectiles After Being Struck
+x	+8 Storm Crows Projectiles if you have not taken weapon damage recently
 x	+60 Attack Rating per Character Level Above 105\nLion Stance Does not Reduce Your Physical Resistance
 x	+40% Pierce Chance to Stormeye Totem
 x	+200% Fire Damage to Colosseum
 x	Graveyard: +2 Additional Projectiles
 x	Ragh nar Rook
 x	Dragon's Blessing Attribute Bonus Halved
-x	Mana Shield: 45% less Mana Drained when Hit
+x	Mana Shield: 54% less Mana Drained when Hit
 x	Mana Shield: 65% less Mana Drained when Hit
 x	Moonbeam: Doubled Buff Duration
 x	50% of your Fire and Poison spell damage added as Defense Bonus
-UNUSED	+1000% Damage to Lightning Arena
+11276	Hunting Banshee: +2 Projectiles
 StrCfgAssignHotkey	or press any key to assign\npress DEL to unassign key\npress ESC to cancel
 x	You Cannot Deal Fire, Lightning or Poison Damage\nMax Life gained per point of Vitality reduced by 0.9\n100% of Vitality Added as Cold Damage to Weapon
 x	Remorseless Winter
-x	Knockback Enemies If You Have at Least 1000 Strength
+x	ÿc5+25% Deadly Strike\nKnockback Enemies\nÿc8If You Have at Least 1000 Strength:
 x	''Knowledge is Power''
 x	+2.5% Spell Damage per 1% Additional Experience Gain
 11283	ÿc5Shower of Rocks: cooldown reduced by 1 second\nThunder Slam: cooldown reduced by 4 seconds\nÿc8If You Have no Points in combat stances:
 x	ÿc1Deathlord Morph\nÿc8Parasite: +6 Targets
-x	Flamefront: +5 Maximum Projectiles
-x	+1% Deadly Strike Per Firedance Base Level
+x	Flamefront: +3 Maximum Projectiles
+x	+2% Deadly Strike Per Firedance Base Level
 x	Idol of Scosglen has no Cooldown
-1288	Ember Spirit: +15% Total Damage
-1289	Ember Spirit: +10% Total Damage
+11288	Ember Spirit: +25% Total Damage
+11289	Ember Spirit: +10% Total Damage
 x	Mana Sweep: +15% Total Damage, Leeches no Mana
-x	Fortress: +40% Pierce Chance
+x	Fortress: +50% Pierce Chance
 x	+60% Pierce Chance to Fortress
 x	Celeri Caelesti Iustitia
 11294	20% of Lightning Resistance Added as Lightning Spell Damage
 x	+15% Physical Resist After Level 120\n+25% to Experience Gained Until Level 120
 x	Treewarden Morph
 x	Thundercrack: +100% Bonus Lightning Damage
-11298	ÿc5+8% to Physical/Magic Spell Damage\n+25% Bonus to Defense\n+10 Life after each Kill\n+1 to All Skills\nÿc0(Bonus per Socketed Great/Elemental Runes)\nÿc8Gematria
+11298	ÿc5+8% to Physical/Magic Spell Damage\n+25% Bonus to Defense\n+10 Life after each Kill\n+1 to All Skills\nÿc0(Bonus for each Socketed Great/Elemental Rune)\nÿc8Gematria
 11299	+180% Damage to The Zakarum
-x	ÿc5+20% to Elemental Resists\n+0.75% Base Block Chance\n+1 to All Skills\nÿc0(Bonus per Socketed Great/Elemental Runes)\nÿc8Gematria
+x	ÿc5+20% to Elemental Resists\n+0.75% Base Block Chance\n+1 to All Skills\nÿc0(Bonus for each Socketed Great/Elemental Rune)\nÿc8Gematria
 x	Worship the Crack Monkeys!
 x	Cannot be Unsocketed
 x	Drains 2% Life per Second
@@ -1310,11 +1310,11 @@ x	Random Elemental Resistance Bonus
 x	Random Movement Speed Bonus
 x	Tempest: +3 Projectiles
 x	+150% Total Familiar Damage
-x	+20 to Maximum Familiar Skill Level
-11313	Level 10 Nephalem Spirit Aura
+x	+8 to Maximum Raven Familiar Base Level
+11313	ÿc510-15% of base Vitality\n20-30% of base Strength and Dexterity\nAdds Fire and Lightning Damage:\n5% Innate Elemental Damage\nÿc8Level 10 Nephalem Weapons
 x	Spiral Dance: +300% Bonus Magic Damage
 x	+1% Physical Resist per 18% Mana Regeneration
-x	+1% Physical/Magic Spell Damage per 20 Vitality
+x	+1% Physical/Magic Spell Damage per 20 Vitality\nEnhanced Death Ripple
 11317	Right click to open Time Rift\n
 x	-5% Deadly Strike per 1% Attack Speed\n+400% Deadly Strike
 x	Shieldmaiden: +15% Weapon Physical Damage per character level above 120
@@ -1322,32 +1322,32 @@ x	Shieldmaiden: +15% Weapon Physical Damage per character level above 120
 11321	+50% Pierce Chance to Mind Flay
 11322	Maelstrom MkI: +25% Bonus Magic Damage
 11323	-1% Cold Spell Damage per 1 Light Radius\n+3% Fire Spell Damage per 1 Light Radius\n+2 Spell Focus per 1 Light Radius
-11324	Level 20 Eagle Stance\nMind Flay: +2 Projectiles
+11324	ÿc5Regenerate Mana +40%\nRestores 2.8% Life Per Second\nÿc8Level 20 Eagle Stance\nÿc8Mind Flay: +2 Projectiles
 11325	Level 10 Wolf Stance
 11326	Adds 140% of Your Physical/Magic Spell Damage as Bonus Weapon Physical Damage\nAdds 140% of Your Fire Spell Damage as Bonus Weapon Physical Damage
 11327	-1% to Enemy Poison Resistance per 25 Strength
-11328	ÿc5Adds 75-150 Fire Damage\n+30% Attack Speed\nÿc0(Bonus per Socketed Great/Elemental Runes)\nÿc8Gematria
+11328	ÿc5Adds 75-150 Fire Damage\n+30% Attack Speed\nÿc0(Bonus for Socketed Great/Elemental Rune)\nÿc8Gematria
 11329	Mana Pulse: +50% Duration
 11330	Adds 300% of Crushing Blow as Fire and Cold Spell Damage
-11331	+100% Bonus Magic Damage to Spiral Dance
+11331	+200% Bonus Magic Damage to Spiral Dance
 11332	Lightning Shield: +(18 to 30) Lightning Damage to Weapon per Skill Level\nThundergod Nova Deals 5000 Lightning Damage\nStormblast: +1 Projectile
 11333	Vessel of Judgement: +3 Targets
 11334	+1% Deadly Strike per 6% Fire Spell Damage\nTotal Defense Reduced by 25%
 11335	Deathly Effigy: +1 Maximum Effigy Allowed
 11336	3 Magic Missiles Projectiles
-11337	Level 1 Demon Blood Aura
+11337	ÿc526.6 Yard Radius\nYou and Undead Minions: Maximum Life +6%\nÿc8Demon Blood Aura
 11338	Skills Cost Life Instead of Mana
-11339	ÿc5-10% to Enemy Poison Resistance\n+30 Life After Each Kill\n+2.5% Physical Resist\n+1 to All Skills\nÿc0(Bonus per Socketed Great/Elemental Runes)\nÿc8Gematria
+11339	ÿc5-10% to Enemy Poison Resistance\n+30 Life After Each Kill\n+2.5% Physical Resist\n+1 to All Skills\nÿc0(Bonus for each Socketed Great/Elemental Rune)\nÿc8Gematria
 11340	Vessel of Retribution: 0.7% Damage Leeched as Life
-11341	Queen of Blades: +2500 Lightning Damage to Blade Mines
+11341	Queen of Blades: +2500 Lightning Damage
 11342	-6% Weapon Physical Damage per 1% Crushing Blow
-11343	Kraken Stance: +3% Damage per Base Level in the Templar Tree\nLevel 30 Kraken Stance
+11343	ÿc8Kraken Stance: +3% Damage per Base Level in the Templar Tree\nÿc5Adds 150-375 Fire, Cold, and Lightning Damage\nÿc8Level 30 Kraken Stance
 11344	Deal No Elemental or Magic Damage
 11345	Fear No Evil
 11346	50% of Your Bonus to Defense Added as Vitality
 11347	ÿc5+600 Spell Focus\n+25% Physical Resist\n+33% Deadly Strike\n+100% Magic Find\n+50% Cast Speed\nÿc8Thundermaiden, Crimson Rite and Dragonlore:\nIf you have No Points in Lioness, Shieldmaiden,
 11348	Thunder Path: 150 Life after Each Kill\nHammer Path: -30% Enemy Lightning Resistance
-11349	Crucify: +14% Magic Damage per Base Level
+11349	Crucify: +30% Magic Damage per Base Level
 11350	Shadow Refuge: -1% to Enemy Fire, Cold and Lightning Resists per Base Level
 11351	+100% Duration to Solar Flare
 11352	Stampede: +1 Projectile
@@ -1362,12 +1362,12 @@ x	Shieldmaiden: +15% Weapon Physical Damage per character level above 120
 11361	ÿc5-1% to Enemy Fire and Lightning Resists per 60 Attributes\n+200% to Fire and Lightning Spell Damage\nAdds 3 - 5 Lightning Damage per 20 Attributes\nAdds 3 - 5 Fire Damage per 20 Attributes\nÿc8While Using Windform:
 11362	Minion Damage Also Increases Your Spell Damage at 50% Efficiency\n-1 to Maximum Totems
 11363	+1% Attack Speed per 20 Strength
-11364	ÿc5+0.5% to Maximum Elemental Resistances\n+250 to Life\nÿc0(Bonus per Socketed Great/Elemental Runes)\nÿc8Gematria
+11364	ÿc5+0.5% to Maximum Elemental Resistances\n+250 to Life\nÿc0(Bonus for each Socketed Great/Elemental Rune)\nÿc8Gematria
 11365	Deal No Lightning Damage
 x	
 x	
 11368	Congratulations!
-11369	Cube after Killing Dark Star Dragon in Under 1 Minute and 30 Seconds
+11369	Cube to upgrade, granting bonuses based on your class
 11370	+8 to Maximum Forked Lightning Projectiles
 11371	Deal No Crushing Blows\n40% of Minion Life Increases Added as Bonus to Defense\n12% of Minion Damage Increases Added as Deadly Strike
 11372	(Max: 1 minute from each other)\nCube after Killing Imperius and Malthael
@@ -1375,14 +1375,14 @@ x
 11374	Can be Upgraded with Ghost Trance
 11375	Chance to Avoid Damage becomes 0%
 11376	Fire Elementals Gain 100% of Their Physical Damage as Fire
-11377	Adds 1 - 3 Fire, Cold and Lightning Damage to Weapon per 1 Spell Focus
+11377	Adds 1 - 4 Fire, Cold and Lightning Damage to Weapon per 1 Spell Focus until capped
 11378	+120% Weapon Physical Damage if Wielding a Scepter
 11379	ÿc5+1 Projectile to Iceburst\nÿc8While Dual Wielding This Weapon:
 11380	ÿc5 +100% Noctule Projectiles\nÿc8While Dual Wielding This Weapon:
 11381	You Cannot Summon Ice Elementals Directly
 11382	You Cannot Summon Blade Spirits Directly
-11383	ÿc8Level 8 Hellfire Aura
-11384	Death Ripple: +1 Projectile\nBane: +100% Duration
+11383	ÿc57.3 Yard Radius\nMaximum Fire Resist +5%\n-18% to Enemy Elemental Resistances\nÿc8Level 8 Hellfire Aura
+11384	Enhances Death Ripple\nBane: +100% Duration
 11385	+33% Increased Leap Speed
 11386	Arrow Swarm: 50% More Projectiles
 11387	Sanguine Covenant Regenerates 2% of Maximum Life per Second
@@ -1392,22 +1392,22 @@ x
 11391	Veil King: +100% Life and Damage
 11392	Deathlord Makes You Significantly More Vulnerable to All Damage
 11393	ÿc5+3% Weapon Physical Damage per Tantrum Skill Level\n+0.5% Crushing Blow per Tantrum Skill Level\n+0.5% Deadly Strike per Tantrum Skill Level\nÿc8While Tantrum is Active:
-11394	Graveyard: +40% Total Damage and +2 Projectiles\nDeal No Fire, Lightning or Cold Damage
+11394	Graveyard: +40% Total Damage and +2 Projectiles\nDeal No Fire, Cold or Lightning Damage
 11395	+1% Cold Spell Damage For Each Skill Level of Your Ways Passives\nLimpet Laser: +1 Projectile
 11396	Voodoo Practice: +1% Extra Chance to Spawn a Corpse on Striking
-11397	Sun Strike: +18% Bonus Fire Damage per Base Level in the Bow Tree\nSun Strike Shoots 1 Projectile
+11397	Sun Strike: +25% Bonus Fire Damage per Base Level in the Bow Tree
 11398	Parasite: +200% Bonus Magic Damage
-11399	-2% to Enemy Elemental Resistances per Carnage Base Level
-11400	This Fire Damage is Increased by 15% per Wildfire Base Level\nAdds 750 Fire Damage to Idol of Scosglen
+11399	-3% to Enemy Elemental Resistances per Carnage Base Level
+11400	This Fire Damage is Increased by 15% per Wildfire Base Level\nAdds 2000 Fire Damage to Idol of Scosglen
 11401	Laughing Ghost: +8% Bonus Magic Damage per Summon Skill Base Level
-11402	ÿc5Adds 100-200 Cold Damage\n-10% to Enemy Cold Resist\nAdds 10-15 Damage\nÿc0(Bonus per Socketed Great/Elemental Runes)\nÿc8Gematria
-11403	Adds (60 to 80)% of Dexerity as Magic Damage to Weapon
+11402	ÿc5Adds 100-200 Cold Damage\n-10% to Enemy Cold Resist\nAdds 10-15 Damage\nÿc0(Bonus for each Socketed Great/Elemental Rune)\nÿc8Gematria
+11403	Adds (80 to 110)% of Dexerity as Magic Damage to Weapon
 11404	Three's a Company''\n''Cross the Wide, Somber Seas I Will Sail
 11405	''Cross the Wide, Somber Seas I Will Sail''
-11406	ÿc5+25% Bonus to Defense\n-5% Elemental Resists\n+5% Physical Resist\nÿc0(Bonus per Socketed Great/Elemental Runes)\nÿc8Gematria
-11407	Hunting Banshee: +1 Projectile
-11408	Hunting Banshee: +2 Projectiles
-11409	-2% to Enemy Elemental Resistances per Nephalem Spirit Base Level
+11406	ÿc5+25% Bonus to Defense\n-5% Elemental Resists\n+5% Physical Resist\nÿc0(Bonus for each Socketed Great/Elemental Rune)\nÿc8Gematria
+11407	Hunting Banshee: +2 Projectiles
+11408	Hunting Banshee: +3 Projectiles
+11409	-4% to Enemy Elemental Resistances per Nephalem Spirit Base Level
 11410	Discharge: Thunder Frequency Improved by 1 Second
 11411	Exorcism: +50% Total Damage
 11412	Bloodbath Is Active
@@ -1420,7 +1420,7 @@ StrMinute	 minute
 StrMinutes	 minutes
 11420	+500% Weapon Physical Damage
 11421	-70% to Enemy Elemental Resistances
-11422	Level 20 Warp Field Aura
+11422	ÿc516.6 Yard Radius\nand -25% Weapon Physical Damage\nNearby Enemies: -30% Attack Rating\nÿc8Level 20 Warp Field Aura
 11423	Nullifies Alchemical Provision
 StrCfgShowAutomapParty	Show minions and mercenary
 11425	+1 Extra Veil King
@@ -1440,8 +1440,8 @@ StrCfgShowAutomapParty	Show minions and mercenary
 11439	Scorpion Sting: +1% Pierce Chance to Lightning Fury per Base Level
 11440	ATMG Sentry: +20 Magic Damage per Level
 11441	+250% to Veil King Life and Damage
-11442	To unlock its true power\n\nÿc5Yham Rune\nIah Rune\nthree Greater Signets of Learning\nÿc3Transmute this item with:
-11443	To unlock its true power\n\nÿc5Qor Rune\nGhal Rune\nthree Greater Signets of Learning\nÿc3Transmute this item with:
+11442	To unlock its true power\n\nÿc5Phul Rune\nLew Rune\nTwo Greater Signets of Learning\nÿc3Transmute this item with:
+11443	To unlock its true power\n\nÿc5Any Great Rune\nTwo Greater Signets of Learning\nÿc3Transmute this item with:
 11444	Tantrum: 20% of Vitality added as Cold Damage
 11445	Gamma Field: Increased Damage and Lowered Duration
 11446	Soulshatter: +200 Fire damage per Level
@@ -1450,7 +1450,7 @@ StrCfgShowAutomapParty	Show minions and mercenary
 11449	ÿc4Wyrd Cooldown Increased by 0.3 seconds\nÿc8Wyrd: Stuns Target for 0.2 seconds
 11450	Congratulations!
 11451	Adds 4000 - 5000 Magic Damage
-11452	Nearby enemies lose 10% Magic and Elemental resistances
+11452	ÿc520 Yard Radius\nNearby Enemies: -10% Elemental and Magic Resistances\nÿc8Despair
 11453	ÿc5- Demonic Forgery -
 11454	ÿc5- Curse of the Warlord -
 11455	ÿc5- Divine Mandate -
@@ -1481,19 +1481,19 @@ StrCfgShowAutomapParty	Show minions and mercenary
 11480	Difficulty: 80%\nCongratulations!
 11481	Difficulty: 90%\nCongratulations!
 11482	Difficulty: 100%\nCongratulations!
-11483	ÿc3Cube with Trophy Fragment: Restore +20%\nÿc5Maximum Elemental Resists +3%\n+50% Bonus to Defense\n+2 to All Skills\nÿc0(Based on Restore Percentage)\nÿc8Restitution
-11484	ÿc3Cube with Trophy Fragment: Restore +4%\nÿc5Maximum Life +7%\nPhysical Resist +15%\n+50% Combat Speeds\nÿc0(Based on Restore Percentage)\nÿc8Restitution
-11485	ÿc3Cube with Trophy Fragment: Restore +5%\nÿc5+50% Magic Find\n+10 to All Skills\n+150 Life after each Kill\n-50% to Enemy Cold Resistance\nBecomes Available to All Classes\nÿc0(Based on Restore Percentage)\nÿc8Restitution
-11486	ÿc5Maximum Elemental Resists +3%\nTotal Character Defense +50%\n+2 to All Skills\nÿc8Trophy Blessing
-11487	ÿc5Maximum Life +7%\nPhysical Resist +15%\n+50% Combat Speeds\nÿc8Trophy Blessing
-11488	ÿc5+50% Magic Find\n+10 to All Skills\n+150 Life after each Kill\n-50% to Enemy Cold Resistance\nÿc8Trophy Blessing
+11483	ÿc3Cube with Heavenly Soul: Restore +20%\nÿc5Maximum Elemental Resists +3%\n+50% Bonus to Defense\n+2 to All Skills\nÿc0(Based on Restore Percentage)\nÿc8Restitution
+11484	ÿc3Cube with Heavenly Soul: Restore +4%\nÿc5Maximum Life +7%\nPhysical Resist +15%\n+50% Combat Speeds\nÿc0(Based on Restore Percentage)\nÿc8Restitution
+11485	ÿc3Cube with Heavenly Soul: Restore +5%\nÿc5+50% Magic Find\n+10 to All Skills\n+150 Life after each Kill\n-50% to Enemy Cold Resistance\nBecomes Available to All Classes\nÿc0(Based on Restore Percentage)\nÿc8Restitution
+11486	ÿc5Maximum Elemental Resists +3%\nTotal Character Defense +50%\n+2 to All Skills\nÿc8Blessing of Souls
+11487	ÿc5Maximum Life +7%\nPhysical Resist +15%\n+50% Combat Speeds\nÿc8Blessing of Souls
+11488	ÿc5+50% Magic Find\n+10 to All Skills\n+150 Life after each Kill\n-50% to Enemy Cold Resistance\nÿc8Blessing of Souls
 11489	50% of Strength Added as Fire Damage to Weapon
 11490	33% of Dexterity Added as Cold Damage to Weapon
 11491	36% of Dexterity Added as Lightning Damage to Weapon
 11492	37% of Dexterity Added as Tri-Elemental Damage to Weapon
 11493	Catalyst Trap Cooldown Reduced by 10 seconds\nIncineration Trap Radius Reduced by 50%
 11494	+1% Trap Damage per 5 Base Strength
-11495	ÿc850% of Strength Added as Magic Damage to Area of Effect attack modifier
+11495	ÿc5If you have an item source with Area of Effect attack\nÿc860% of Strength Added as Magic Damage to Area of Effect attack bonus
 11496	+1.5% Physical Resist per Resurgence Base Level\n+1% Maximum Elemental Resists per Totem of that Element
 11497	-25% to Enemy Elemental Resistances for Your Traps
 11498	ÿc3Weapon Physical Damage -150%\nÿc8Adds 5 - 7 Fire Damage to Weapon per 2% Attack Speed
@@ -1529,7 +1529,7 @@ StrCfgShowAutomapParty	Show minions and mercenary
 11528	+5 Axes to Overkill
 11529	+15 Lightning Damage per 1% Lightning Pierce
 11530	Apple Healing Effect While Equipped
-11531	ÿc5+1 to All Skills\n+20% to Elemental Spell Damage\n+25 Spell Focus\nÿc0(Bonus per Hidden Crafts)\nÿc8Hidden Reliquary
+11531	ÿc5+1 to All Skills\n+20% to Elemental Spell Damage\n+25 Spell Focus\nÿc0(Bonus for each equipped Hidden Craft Item)\nÿc8Hidden Reliquary
 11532	33% of Dexterity Added as Lightning Damage to Weapon
 11533	+1 Extra Resurrect
 11534	Split Arrow: +8 Projectiles
@@ -1613,10 +1613,10 @@ x	%d %.1f %s
 11612	Level 1 Crane Stance
 11613	Level 3 Crane Stance
 11614	Level 7 Crane Stance
-11615	Level 1 Wolf Stance
+11615	ÿc510% Weapon Physical Damage\n10% Crushing Blow\n28% Hit Recovery\n40% Movement Speed\n28% Attack Speed\nÿc8Level 1 Wolf Stance
 11616	Level 6 Lion Stance
 11617	Level 12 Lion Stance
-11618	Level 1 Bear Stance
+11618	ÿc512% Bonus to Defense\nPhysical Resist 20%\nÿc8Level 1 Bear Stance
 11619	Level 6 Eagle Stance
 11620	Level 1 Eagle Stance
 11621	+1% Attack Speed per 25 Dexterity
@@ -1645,9 +1645,9 @@ StrStashToggleLocal	Switch to local storage
 StrStashNextPage	Next page
 StrStashPrevPage	Previous page
 11646	10% Magic Find per Socketed Rainbow Stone\n+1 to All Skills per 2 Socketed Rainbow Stones
-11647	Lightning Arena Damage Increased by 1000%
+11647	Lightning Arena Damage Increased by 2000%
 11648	Churel Buff Duration Increased by 66%
-11649	Level 5 Hellfire Aura
+11649	ÿc3300% of Deadly Strike added as Damage Multiplier\n200% of Deadly Strike added as Fire Pierce\nÿc8Path of Flames:
 11650	Dark Power Adds 1% Innate Elemental Damage per Skill Level
 11651	Firedance Does Not Add Spell Damage
 11652	Hive Adds 1% Poison Spell Damage per Skill Level
@@ -1658,7 +1658,7 @@ StrStashPrevPage	Previous page
 11657	(Ring, Amulet or Quiver Only)
 11658	(Any Equippable Item)
 11659	200% Bonus to Miasma Haunt Duration
-11660	Miasma Haunt Duration Increased by 2 seconds
+11660	Miasma: Haunt Duration Increased by 4 seconds
 11661	+50% Bonus to Miasma Haunt Duration
 11662	+150% Bonus to Miasma Haunt Duration
 11663	+200% Enhanced Damage to Mooncall
@@ -1750,13 +1750,13 @@ x
 11749	Carnage Now Converts 100% Physical Damage to Fire
 11750	Carnage Conversion is Reduced by 1% per Base Level\nYour Fire Damage Is Nullified
 RightClickToUnsummon	Right-click to Unsummon
-11752	UNUSED
+11752	Pestilence: regenerates 4% of Maximum Life per Second\nPestilence: duration reduced by 50%
 11753	+5-10 Damage per Character Level Above 138
-11754	Holy Shock has 1200 Base Damage, Increases by 1% per 7 Energy\nLevel 1 Holy Shock
+11754	ÿc516.6 Yard Radius\n+1% damage per 7 Energy\nNearby Enemies take 1200 Lightning Damage every 1.2 seconds\nÿc8Holy Shock
 11755	With 15 Base Levels in Runemaster: 10% Deadly Strike\nAt least 1 Base Level in Runemaster: Maximum Poison Resist +4%
 11756	(Whichever is Higher)\n+1% Weapon Physical Damage per 50 Strength or Dexterity
 11757	Howl of the Spirits: +4 Seconds Duration 
-11758	+100% Bonus Fire Damage to Retaliate
+11758	+150% Bonus Fire Damage to Retaliate
 strConfigDungeonTimer	Display countdown in timed dungeons
 11760	Level 1 Spark of Hope
 11761	-3% Weapon Physical Damage per 1% Lost Mana\n+200% Enhanced Weapon Damage
@@ -1767,7 +1767,7 @@ strConfigDungeonTimer	Display countdown in timed dungeons
 11766	(pick one)\nUltimate Skill
 11767	Ring Of Flames Gains +1% Total Damage per Character Level
 11768	Living Flame Gives +1% Fire Spell Damage per 8 Character Levels
-11769	Occult Path: +10 Life per Death Ripple Skill Level\n+1 Projectile to Death Ripple
+11769	Occult Path: +10 Life per Death Ripple Skill Level\nEnhances Death Ripple
 11770	(locks other devotions)\nÿc8Holy Devotion
 11771	(locks other devotions)\nÿc;Unholy Devotion
 11772	(locks other devotions)\nÿc0Neutral Devotion
@@ -1883,8 +1883,8 @@ strPartyScreenAddFriend	Add Friend
 11882	Vindicate: +200% Duration
 11883	Gale Force: +1.3 Yards to Area of Effect
 11884	Gain 50% of your Maximum Mana as Defense
-11885	- without taking damage from the Rift Storm\n- with at least one Frozen Shambler alive\nÿc2Defeat the Ascendant Riftwalker\nÿc0(cube charm only on completion)\nÿc7Bonus Quest II\n
-11886	- without taking damage from the Rift Storm\nÿc2Defeat the Greater Riftwalker\nÿc0(cube charm only on completion)\nÿc7Bonus Quest I\n
+11885	- without taking damage from the Rift Storm\n- with at least one Frozen Shambler alive\nÿc2Defeat the Ascendant Riftwalker\nÿc0(cube charm by itself on completion)\nÿc7Bonus Quest II\n
+11886	- without taking damage from the Rift Storm\nÿc2Defeat the Greater Riftwalker\nÿc0(cube charm by itself on completion)\nÿc7Bonus Quest I\n
 11887	Gain 20% of your Poison Resistance as Poison Length Reduction
 11888	Curare: +5% Damage Multiplier Per Reckoning Of Zerae Base Level
 11889	UNUSED
@@ -1940,7 +1940,7 @@ strPartyScreenAddFriend	Add Friend
 11939	3 Sacred Unique Gloves
 11940	3 Sacred Unique Boots
 11941	4 Large Cycles
-11942	4 Trophy Fragments
+11942	Any Emblem
 11943	5 Enchanted Runes
 11944	Relic
 11945	25 Shrines
@@ -1956,8 +1956,8 @@ strPartyScreenAddFriend	Add Friend
 11955	Cube with Enchanted Rune to Unlock
 11956	ÿc0Gold Cost: 666,666\nCube with Oil of Craft to Create\n
 11957	ÿc0Gold Cost: 1,000,000\nCube with Oil of Craft to Create\n
-11958	ÿc0Gold Cost: 1,000,000\nCube with Oil of Craft to Create\n
-11959	ÿc0Gold Cost: 2,500,000\nCube with Oil of Craft to Create\n
+11958	ÿc0Gold Cost: 300,000\nCube with Oil of Craft to Create\n
+11959	ÿc0Gold Cost: 700,000\nCube with Oil of Craft to Create\n
 11960	
 11961	
 11962	
@@ -2020,8 +2020,8 @@ strPartyScreenAddFriend	Add Friend
 12019	18% added as Cold and Poison Spell Damage (Max +40%)
 12020	15% added as Physical and Magic Spell Damage (Max +40%)
 12021	18% added as Physical and Magic Spell Damage (Max +40%)
-12022	5% added as Magic Find (Max +100%)
-12023	6% added as Magic Find (Max +100%)
+12022	10% added as Magic Find (Max +100%)
+12023	12% added as Magic Find (Max +100%)
 12024	ÿc8Gives stats based on the sum of your bonus damage to Undead and Demons
 12025	Melee Spellcaster Tree
 12026	Servants of Valor regenerate 2% of their life per second
@@ -2039,7 +2039,7 @@ StrAutomapPing	Ping:
 12038	Arrow Swarm: +2 Projectiles
 12039	Balefire: 30% Movement Speed while Self-Immolating
 12040	Bane: +100% Duration
-12041	Death Ripple: +1 Projectile
+12041	Enhances Death Ripple
 12042	Flameburst shot: +5 Projectiles
 12043	Dark Power: Doubled Magic Damage
 12044	ÿc5(Defender Spirit - Guardian Spirit - Protector Spirit)\nSpirit Walk Heals an Additional 5% Maximum Life while Carrying All Shaman Relics
@@ -2077,13 +2077,13 @@ StrAutomapPing	Ping:
 12076	ÿc4+666 to Life\n+100% to Summoned Minion Attack Rating\n+100% to Summoned Minion Damage\nSummon One Extra Minion With Each Cast\nÿc8Exodia\n\nÿc5(Summon Frostwalker - Summon Glowing Fungus - Summon Sinner)\nGain ÿc8Exodiaÿc5 while Carrying All Summon Trio Relics
 12077	Shower of Rocks: -5% Enemy Physical Resist
 12078	Maelstrom MkI: +10% Bonus Magic Damage
-12079	ÿc3Carnage Cooldown Reduced by 1.72 seconds\nÿc8Carnage: +1250 Fire Damage
-12080	Queen of Blades: +3 Projectiles
+12079	ÿc3Carnage Cooldown Reduced by 1.72 seconds\nÿc8Carnage: Added Fire Damage Doubled
+12080	
 12081	Familiars Cast Crucify when Killed/Unsummoned
 12082	ÿc5Transmute the charm with a Celestial Wind effigy\nComplete all of the above Labyrinth Quests\nÿc4Trial of the Nephalem
 12083	\nÿc5Transmute charm after boss death\nDefeat Deimoss the Fleshweaver in the Labyrinth depths\nÿc4End the Invasion
 12084	\nÿc5(these items are rare drops from Labyrinth mini bosses)\nTransmute charm once with each Star Chart piece and Dream Fragment\nDefeat the monster Heroes, Champions and Sovereigns roaming the Labyrinth\nÿc4Trial of Purity
-12085	\nÿc5(must be done in ascending order)\nTransmute charm once with each Depleted Riftstone\nExplore every level of the Labyrinth\nÿc4Trial of Discovery
+12085	\nÿc5(must be done in ascending order)\nTransmute charm once with each Riftstone\nExplore every level of the Labyrinth\nÿc4Trial of Discovery
 12086	\nÿc5Transmute charm with an Elemental Dominion effigy\nDefeat Deimoss with exactly 5 optional difficulty modifiers\nÿc4Dimensional Alchemy
 12087	ÿc5Returns charm and a random Relic\nTransmute charm with a Depleted Riftstone (6)\nÿc4Dimensional Alchemy Unlocked
 12088	\nÿc5Transmute charm with an Elemental Ire effigy\nDefeat Deimoss with exactly 3 optional difficulty modifiers\nÿc4Occult Smithing
@@ -2126,7 +2126,7 @@ StrAutomapPing	Ping:
 12125	ÿc8Trinity Shrine\n
 12126	ÿc8Weird Shrine\n
 12127	the abyss gazes also into you\nAnd if you gaze for long into an abyss\n\nthereby become a monster\nmight take care lest he\nHe who fights with monsters\n\n\n
-12128	Level 1 Salvation Aura
+12128	ÿc520 Yard Radius\n5% Fire, Cold, and Lightning Absorb\nÿc8Salvation Aura
 12129	+80 Magic Damage per 1% Deadly Strike
 12130	Dragon Jaws reduces enemy physical resist by 30% for 1 second\nDragon Jaws area increased by 30%
 12131	ÿc52% Chance to Cast level 60 Eldritch Storm on Death Blow\nÿc8With 25 Points in Eldritch Storm
@@ -2186,3 +2186,149 @@ strHotkeydescEmote	Audio emote from your character that other players around you
 12185	ÿc5Transmute with a Mark of Victory to double the stats of this charm\nTransmute with a Xith rune to receive two quest entrance scrolls\nÿc4Infernal Machine (Heroic)\n
 12186	ÿc5Transmute in the cube after reaching Level 122\nDifficulty Level: 122\nÿc4Infernal Machine (Heroic)\n
 12187	\nÿc5Main spike deals 200% weapon damage, each split halves damage\nLaunches a massive frozen spike that splits into smaller bursts, which split again into small spikes\nWhile holding a Javelin:\n\nÿc3+1 to Crystalline Arsenal
+12188	UNUSED
+12189	\nÿc5Pandemonium Season trophy\n+\n(Sacred unique with ilvl 130+)\nRandom SSSU\nÿc8Level 150
+12190	\nÿc5+20% Deadly Strike\n+50% Spell Damage\n+30% Innate Elemental Damage\nÿc8Level 149
+12191	\nÿc5Two Random Relics\nÿc8Level 148
+12192	\nÿc5Breath of Thaumaturgy\nEmpyrean Touch\nÿc8Level 147
+12193	\nÿc5Two Random Relics\nÿc8Level 146
+12194	\nÿc5Maximum Life and Mana +10%\nÿc8Level 145
+12195	\nÿc5Two Random Relics\nÿc8Level 144
+12196	\nÿc57 Corrupted Crystals\nÿc8Level 143
+12197	\nÿc5Two Random Relics\nÿc8Level 142
+12198	\nÿc5Cherry\nÿc8Level 141
+12199	\nÿc5Random Relic\nÿc8Level 140
+12200	\nÿc5Maximum Elemental Resists +1%\nÿc8Level 138
+12201	\nÿc5Random Relic\nÿc8Level 136
+12202	\nÿc5Physical Resist +10%\nÿc8Level 134
+12203	\nÿc5Random Relic\nÿc8Level 132
+12204	\nÿc5Dark Disciple (Sacred)\nÿc8Level 130
+12205	\nÿc5Boots of Blinding Bluster (Sacred)\nÿc8Level 128
+12206	\nÿc5Random Relic\nÿc8Level 125
+12207	\nÿc5(777% magic find for 7 seconds)\nGoblin Glee\nÿc8Level 122
+12208	\nÿc5Random Cincture (Mastercrafted)\nÿc8Level 119
+12209	\nÿc5Gothic Staff (Mastercrafted)\nÿc8Level 116
+12210	\nÿc5Staff of Herding Design\nÿc8Level 115
+12211	ÿc4(unclaimed rewards are lost)\nÿc52 Arcane Crystals\nÿc4Transmute at 126+ to upgrade, requires: \n
+12212	ÿc4(unclaimed rewards are lost)\nÿc54x 25 Signets of Learning\n2 Belladonna Extracts\nÿc4Transmute at 137+ to upgrade, requires: \n
+12213	ÿc4(unclaimed rewards are lost)\nÿc56x 25 Signets of Learning\n3 Belladonna Extracts\nÿc4Transmute at 144+ to upgrade, requires: \n
+12214	ÿc4(unclaimed rewards are lost)\nÿc510x 25 Signets of Learning\n5 Belladonna Extracts\nÿc4Transmute at 149+ to upgrade, requires: \n
+12215	ÿc8 Pandemonium season item, nonfunctional\nÿc1Cannot be Renewed
+12216	ÿc8 Pandemonium season item, nonfunctional\nÿc1Cannot be Renewed
+12217	ÿc8 Pandemonium season item, nonfunctional\nÿc1Cannot be Renewed
+12218	ÿc8 Pandemonium season item, nonfunctional\nÿc1Cannot be Renewed
+12219	ÿc8 Pandemonium season item, nonfunctional\nÿc1Cannot be Renewed
+12220	Pandemonium season item, nonfunctional
+12221	Congratulations on reaching level 150!
+12222	Pandemonium season item, nonfunctional
+12223	\nCreates exclusive uniques\nModifies rare Sacred or Angelic, weapons or armors only\nCollect Souls in Heroic Khalimgrad to craft
+12224	ÿc/<Transmute for recipe list: Diamond>\n\nÿc1Socket / Mystic Orb / Bless / Corrupt your items after Soulforging\nWARNING: Item modification can interfere with Soulforge functionality
+12225	ÿc3\n[4] + [3] = (5-8)% Deadly Strike\n[3] + [2] = (90-120) Spell Focus (2H)\n[3] + [2] = (60-80) Spell Focus (1H)\n[2] + [2] = (85-120) Minimum Damage (2H)\n[2] + [2] = (51-75) Minimum Damage (1H)\n[1] + [1] = 120% Enhanced Damage\nWeapon Prefixes\nÿc;[Oils of Craft] + [Souls] = [Effect]\n\nÿc5Only 1 affix per group can exist\nItem cannot have more than 3 prefixes and 3 suffixes\nCube: Soulforge + Rare Item + Perfect Diamond + Oils + Souls\nÿc8Modify Rare item: Diamond
+12226	ÿc/<Transmute for recipe list: Ruby>\n---\nÿc3[6] + [2] = (6-10)% Physical Resist (Shield)\n[5] + [1] = (21-25) Damage Reduced\n[4] + [1] = (2-3)% Physical Resist\nArmor Suffixes\n\n[3] + [2] = (251-300) Maximum Damage (2H)\n[3] + [2] = (111-135) Maximum Damage (1H)\n[2] + [1] = 10% Slow Target\n[1] + [1] = (39-50)% Minion Damage\nWeapon Suffixes\nÿc;[Oils of Enhancement] + [Souls] = [Effect]\n\nÿc3[5] + [1] = 150% Enhanced Defense\nArmor Prefixes
+12227	ÿc3[4] + [2] = (21-30)% Fire Spell Damage (Body)\n[4] + [2] = 10% Fire Spell Damage\nArmor Prefixes\n\n[3] + [1] = 10% Life Leech\n[2] + [1] = (301-400) Life\n[1] + [2] = (55-65)% Fire Spell Damage (2H)\n[1] + [2] = (25-35)% Fire Spell Damage (1H)\nWeapon Prefixes\nÿc;[Oils of Craft] + [Souls] = [Effect]\n\nÿc5Only 1 affix per group can exist\nItem cannot have more than 3 prefixes and 3 suffixes\nCube: Soulforge + Rare Item + Perfect Ruby + Oils + Souls\nÿc8Modify Rare item: Ruby
+12228	ÿc/<Transmute for recipe list: Sapphire>\n---\nÿc3[6] + [2] = 15% Fire Pierce (Body)\n[6] + [2] = 5% Fire Pierce\n[5] + [1] = 1% Max Fire Resist\nArmor Suffixes\n\n[4] + [1] = 60% Minion Life (2H)\n[4] + [1] = 30% Minion Life (1H)\n[3] + [1] = (81-100) Life on Kill\n[2] + [2] = 25% Fire Pierce (2H)\n[2] + [2] = 15% Fire Pierce (1H)\n[1] +[1] = (250-400) Fire Damage\nWeapon Suffixes\nÿc;[Oils of Enhancement] + [Souls] = [Effect]ÿc3\n\n[6] + [1] = 50 Life Regen per second\n[5] + [1] = (136-170) Life
+12229	ÿc3[4] + [2] = 10% Cold Spell Damage\nArmor Prefixes\n\n[3] + [1] = 10% Mana Leech\n[2] + [1] = (201-250) Mana\n[1] + [2] = (55-65)% Cold Spell Damage (2H)\n[1] + [2] = (25-35)% Cold Spell Damage (1H)\nWeapon Prefixes\nÿc;[Oils of Craft] + [Souls] = [Effect]\n\nÿc5Only 1 affix per group can exist\nItem cannot have more than 3 prefixes and 3 suffixes\nCube: Soulforge + Rare Item + Perfect Sapphire + Oils + Souls\nÿc8Modify Rare item: Sapphire
+12230	ÿc/<Transmute for recipe list: Topaz>\n---\nÿc3[6] + [2] = 15% Energy (Body)\n[5] + [2] = 15% Cold Pierce (Body)\n[5] + [2] = 5% Cold Pierce\n[4] + [1] = 1% Max Cold Resist\nArmor Suffixes\n\n[3] + [1] = (41-50) Mana on Kill\n[2] + [2] = 25% Cold Pierce (2H)\n[2] + [2] = 15% Cold Pierce (1H)\n[1] + [1] = (300-350) Cold Damage\nWeapon Suffixes\nÿc;[Oils of Enhancement] + [Souls] = [Effect]ÿc3\n\n[5] + [1] = (51-90) Mana\n[4] + [2] = (21-30)% Cold Spell Damage (Body)
+12231	ÿc3[4] + [2] = 10% Lightning Spell Damage\nArmor Prefixes\n\n[3] + [1] = 70% Attack Speed (2H)\n[3] + [1] = 40% Attack Speed (1H)\n[2] + [1] = 40% Cast Speed\n[1] + [2] = (55-65)% Lightning Spell Damage (2H)\n[1] + [2] = (25-35)% Lightning Spell Damage (1H)\nWeapon Prefixes\nÿc;[Oils of Craft] + [Souls] = [Effect]\n\nÿc5Only 1 affix per group can exist\nItem cannot have more than 3 prefixes and 3 suffixes\nCube: Soulforge + Rare Item + Perfect Topaz + Oils + Souls\nÿc8Modify Rare item: Topaz
+12232	ÿc/<Transmute for recipe list: Emerald>\n---\nÿc3[5] + [2] = 15% Dexterity (Body)\n[4] + [2] = 15% Lightning Pierce (Body)\n[4] + [2] = 5% Lightning Pierce\n[3] + [1] = 1% Max Lightning Resist\nArmor Suffixes\n\n[2] + [2] = 25% Lightning Pierce (2H)\n[2]  + [2] = 15% Lightning Pierce (1H)\n[1] + [1] = (1-750) Lightning Damage [1]\nWeapon Suffixes\nÿc;[Oils of Enhancement] + [Souls] = [Effect]ÿc3\n\n[5] + [1] = (41-50)% Magic Find (Body)\n[4] + [2] = (21-30)% Lightning Spell Damage (Body)
+12233	[3] + [2] = +10% Poison Spell Damage\n[2] + [1] = (41-50)% Poison Length Reduced (Body)\n[2] + [1] = 25% Poison Length Reduced\nArmor Prefixes\n\n[1] + [2] = (55-65)% Poison Spell Damage (2H)\n[1] + [2] = (25-35)% Poison Spell Damage (1H)\nWeapon Prefixes\nÿc;[Oils of Craft] + [Souls] = [Effect]\n\nÿc5Only 1 affix per group can exist\nItem cannot have more than 3 prefixes and 3 suffixes\nCube: Soulforge + Rare Item + Perfect Emerald + Oils + Souls\nÿc8Modify Rare item: Emerald
+12234	ÿc/<Transmute for recipe list: Skull>\n---\nÿc3[7] + [2] = 20% Strength (Body)\n[6] + [2] = 15% Poison Pierce (Body)\n[6] + [2] = 5% Poison Pierce\n[5] + [1] = 1% Max Poison Resist\n[4] + [1] = 1% Block Chance (non-class Shield)\nArmor Suffixes\n\n[3] + [1] = 200% Attack Rating\n[2] + [2] = 25% Poison Pierce (2H)\n[2] + [2] = 15% Poison Pierce (1H)\n[1] + [1] = 538 Poison Damage per second\nWeapon Suffixes\nÿc;[Oils of Enhancement] + [Souls] = [Effect]ÿc3\n\n[3] + [2] = (21-30)% Poison Spell Damage (Body}
+12235	\n[2] + [2] = (25-35)% Phys/Mag Spell Damage (Body)\n[2] + [2] = 12% Phys/Mag Spell Damage\nArmor Prefixes\n\n[1] + [2] = (70-80)% Phys/Mag Spell Damage (2H)\n[1] + [2] = (30-40)% Phys/Mag Spell Damage (1H)\nWeapon Prefixes\nÿc; [Oils of Craft] + [Souls] = [Effect]\n\nÿc5Only 1 affix per group can exist\nItem cannot have more than 3 prefixes and 3 suffixes\nCube: Soulforge + Rare Item + Perfect Skull + Oils + Souls\nÿc8Modify Rare item: Skull
+12236	ÿc/<Transmute for recipe list: Rainbow Stone>\n---\nÿc3[3] + [2] = 15% Vitality (Body)\n[2] + [1] = 25% Gold Find (Body)\nArmor Suffixes\n\n[1] + [1] = (350-400) Magic Damage\nWeapon Suffixes\nÿc;[Oils of Enhancement] + [Souls] = [Effect]ÿc3
+12237	\n[2] + [4] = 20 to Rising Dawn [Assassin Shield, Paladin 1H Weapon, Amazon Helm]\n\n[1] + [4] = (8-16) to Death Star [Claw, Assassin Shield, Amazon/Barbarian Helm]\noSkills - Suffixes\nÿc;[Oils of Enhancement] + [Souls] = [Effect]\n\nÿc5Item cannot have the same affix more than once\nItem cannot have more than 3 prefixes and 3 suffixes\nCube: Soulforge + Rare Item + Perfect Rainbow Stone + Oils + Souls\nÿc8Modify Rare item: Rainbow Stone
+12238	ÿc/<Transmute for recipe list: Craft Uniques>\n---\nÿc3[6] + [4] = 18 to Tantrum [Bow/Crossbow]\n\n[5] + [4] = (4-14) to Searing Glow [Amazon/Paladin Shield, Druid Helm, Necromancer Staff]\n\n[4] + [4] = (8-16) to Phoenix Wave [Claw, Staff, Amazon Shield]\n\n[3] + [4] = 14 to Chaotic Spark [Paladin Helm, Sorceress Body]
+12239	100% of Physical/Magic spell damage regenerated as life per second
+12240	50% chance to splash weapon damage in a 6.67 yard radius
+12241	[2] + [20] = ÿc4Faithlessÿc3 (Physical Damage Claw)\n[1] + [20] = ÿc4Raven Mantleÿc3 (Phys/Mag Caster Body Armor)\n\nÿc;[Oils of Craft] + [Souls] = [Effect]\n\nÿc5Cube: Soulforge + Souls + Oils\nÿc8Craft Uniques
+12242	Divine Judgement: Buff Grants 1.5% Fire Pierce per Base Level Instead of Physical Weapon Damage
+12243	ÿc1Cannot be Crafted (Shrines will be lost)\nCannot be Renewed
+12244	ÿc5Tramsmute with 2 Angelic items to open with Area Level 130\nTramsmute with a Perfect Gem to open with Area Level 125\nÿc;Rewards: Angelic Items, Crafting Rares, Crafting Exclusive Uniques\nÿc8Heroic Library of Fate\n\n
+12245	1% Chance to Gain Heart of the Pack for 3 seconds on Striking
+12246	ÿc5+25% Deadly Strike\n+10% Lightning Absorb\n+10% Cold Absorb\n+10% Fire Absorb\nÿc8If you have at least 450% Damage to Demons
+StrCfgTabLootFilterSettings	Settings\nLoot Filter
+StrLootFilterCfgConditions	Conditions:
+StrLootFilterCfgItemQuality	Item's quality is: 
+StrLootFilterCfgClvl	Character's level is
+StrLootFilterCfgIlvl	Item's level is
+StrLootFilterCfgItemClass	Item is of type: 
+StrLootFilterCfgItemCode	Item is: 
+StrLootFilterCfgLowQual	Low Quality
+StrLootFilterCfgNormal	Normal
+StrLootFilterCfgSuperior	High Quality
+StrLootFilterCfgMagic	Magic
+StrLootFilterCfgSet	Part of a Set
+StrLootFilterCfgRare	Rare
+StrLootFilterCfgUnique	Unique
+StrLootFilterCfgCraft	Crafted
+StrLootFilterCfgTempered	Honorific
+StrLootFilterCfgUnknown	Unknown
+StrCfgTitleLootFilter	Loot filter settings
+StrCfgDisplayToggleShowLoot	Toggle show loot hotkey
+StrCfgDisplayNoLootFilterTown	No loot filter in town
+StrCfgLootFilterBtnNewConfig	New Configuration
+StrCfgLootFilterBtnImportConfig	Import Configuration From Clipboard
+StrCfgLootFilterBtnRevert	Discard Last Unsaved Change (ctrl+z)
+StrCfgLootFilterBtnSave	Save Changes (ctrl+s)
+StrCfgLootFilterBtnDelete	Delete Configuration
+StrCfgLootFilterBtnExport	Export to Clipboard
+StrCfgLootFilterBtnAddRule	Add Rule
+StrCfgLootFilterBtnUndoAll	Discard All Unsaved Changes
+StrCfgNone	None
+StrCfgAny	Any
+StrCfgTo	to
+StrCfgLootFilterOutcomeShow	SHOW
+StrCfgLootFilterOutcomeHide	HIDE
+StrCfgLootFilterLabelName	Name:
+StrCfgLootFilterLabelShowItemDefault	Show Item by Default:
+StrCfgLootFilterLabelConfiguration	Configuration:
+StrCfgLootFilterLabelRuleSettings	- Rule Settings -
+StrCfgLootFilterLabelRuleShowItem	Show Item:
+StrCfgLootFilterLabelRuleActive	Rule is Active:
+StrCfgLootFilterLabelRuleConditions	- Conditions -
+StrCfgLootFilterLabelItemQuality	Item's Quality is:
+StrCfgLootFilterLabelItemEthereal	Item is Ethereal:
+StrCfgLootFilterLabelIlvl	Item's Level is:
+StrCfgLootFilterLabelClvl	Character's Level is:
+StrCfgLootFilterLabelSpecificCondition	- Specific Condition -
+StrCfgLootFilterMatchItemByCategory	Match Item by Category
+StrCfgLootFilterMatchItemByCode	Match Specific Item
+StrCfgLootFilterLabelYes	Yes
+StrCfgLootFilterLabelNo	No
+StrCfgLootFilterLabelEither	Either
+StrCfgLootFilterItemIsEthereal	Item is Ethereal
+StrCfgLootFilterItemIsNotEthereal	Item is not Ethereal
+StrCfgLootFilterLabelAnd	and
+StrCfgLootFilterUnsavedChanges	Do you want to discard all changes\nCurrent configuration has unsaved changes
+StrCfgLootFilterLabelDiscard	Discard
+StrCfgLootFilterLabelCancel	Cancel
+StrCfgLootFilterWarnDeleteConfig	Are you sure you want to delete it\nThe configuration will be deleted permanently
+StrCfgLootFilterLabelDelete	Delete
+StrCfgLootFilterFavoriteOn	Select as Favorite
+StrCfgLootFilterFavoriteOff	Unselect as Favorite
+StrCfgHotkeyFavoriteLf	Favorite loot filter
+StrCfgHotkeyDefaultLf	Default loot filter
+StrCfgHotkeyDescFavoriteLf	Switch to favorite loot filter configuration
+StrCfgHotkeyDescDefaultLf	Switch to default loot filter configuration
+StrCfgLootFilterLabelMoveRule	like to move this rule\nChoose where you'd
+StrCfgLootFilterLabelMoveRuleHere	Click to move rule to this position
+12313	ÿc8Can spawn any oSkill from Rare Affixes\nÿc1Cannot be Renewed
+12314	ÿc8Adds +160-250 Cold Damage to Weapon\n+1 Life on Striking per 100 Base Vitality\nÿc1Cannot be Renewed
+12315	ÿc8Orb of Annihilation: +10% Total Damage per Corrupted Item worn\nSuccessful corruptions increase Required Level by 10\nFailed corruptions do not increase Required Level\nEmpowered corruption outcomes\nCan be corrupted 10 times\nÿc1Corrupted
+StrCfgLootFilterLabelNotify	Notify:
+StrCfgLootFilterLabeShowOnMap	Show on Map:
+StrCfgLootFilterNotifyDesc	item matching these criteria drop\nYou will be notified when an
+StrCfgLootFilterShowOnMapDesc	will show up on your automap\nItems matching these criteria
+StrPushNotifGoblinAppear	 appears!
+StrPushNotifHighThreat	High threat nearby!
+DescBaalTrophy	80\nEve of Destruction Trophy Challenge\nRequirements:\nKill Baal without being struck by his Black \nCarpet Bomb\nDo not die\n\nCube the Spirit of Creation within 10 \nseconds \nGrants: \nElemental Resists +10%\nLocked to current character class\n
+DescAzmoTrophy	80\nHeart of Sin Trophy Challenge\nRequirements: \nKill Azmodan without being struck by \na Flameblood\nDo not die\n\nCube Azmodan's Heart within 10 seconds\nGrants: \n+150 to Life\n+75 to mana\nLocked to current character class\n
+DescBremmTrophy	80\nBremmtown Trophy Challenge\nRequirements:\nKill the Dark Star Dragon within 30 \nseconds of entering\nDo not die\n\nCube the Dragon Claw within the time limit\nGrants: \n+10% to Experience Gained\n
+RevealTrophyChallenge	ÿc8Right click to reveal trophy challenge
+12326	ÿc8Amatoxin: 2000% of Innate Elemental Damage bonus added as Damage Multiplier\nÿc3+28 to Amatoxin\nÿc1Disables Ranged Skills
+StrPushNotifFavoriteFilter	Switched to favorite filter configuration
+StrPushNotifDefaultFilter	Switched to default filter configuration
+strObjectNameDeusExMachina	ÿc1You will not be able to come back\nÿc1Can only be activated once\nÿc0to end this nightmare\nÿc0the effect radius for 15 seconds\nÿc0Click to activate and stay within\nÿc4Deus Ex Machina
+12330	ÿc5Physical Damage Reduced by 150\n+20% Chance of Crushing Blow\n+100 Life after each Kill\n+20% Slow Target\nÿc4ATMG, Charged Strike, Cherubim, Guard Tower, Lex Talionis, Rock Shock, Time Wave\nÿc8If you have at least 30 Levels in any of the following Skills:\nCherubim: +(50-75) Magic Damage per Skill Level\nGuard Tower: +1 Arrow
+StrCfgSearch	Search...
+12332	Strength/Dexterity
+12333	ÿc1Deal no Magic Damage

@@ -2690,11 +2690,11 @@ To The Worldstone Chamber	ÿc0Difficulty: ÿc1Hard\n\nÿc8+ Eve of Destruction +
 To The Throne of Destruction	To The Throne of Destruction
 hireiconinfo1	Drop Potion on Portrait to Heal
 hireiconinfo2	Right-click to Open Inventory (%s)
-hiredismiss	Dismiss
+hiredismiss	dismiss
 hiredismisshire	Dismiss Hireling
 hirerehire	Rehire
-hireresurrect	Resurrect
-hireresurrect2	Resurrect %s: %d
+hireresurrect	resurrect
+hireresurrect2	resurrect %s: %d
 hirechat1	Thanks.
 hirechat2	Thank you.
 hirechat3	I needed that.
@@ -4274,7 +4274,7 @@ SkillnameRiftwalk	Starfire
 SkillnameRing	Ring of Light
 SkillnameRisingDawn	Rising Dawn
 SkillnameRMBar	Runemaster
-SkillnameRob	Superbeast
+SkillnameRob	Short Duration Superbeast
 SkillnameRocks	Shower of Rocks
 SkillnameRockShock	Rock Shock
 SkillnameRuneOfFire	Rune of Fire
@@ -4451,7 +4451,7 @@ SkillsdArcaneStrike	ÿc1requires a melee weapon\nÿc3only allows the use of mele
 SkillsdArcTorrent3	ÿc0spell - devastate enemies in front of you with arcane power
 SkillsdArrowSwarm	ÿc1requires a bow or crossbowÿc0\nprojectile - fire a blast of multiple zigzagging arrows in front of you
 SkillsdAsterism	ÿc0passive - you are enshrouded in storm, increasing your combat powers
-SkillsdATMGSentry	ÿc0projectile - sentry that fires an autotracking machine gun
+SkillsdATMGSentry	ÿc0projectile - places a sentry at a fixed distance that fires an autotracking machine gun
 SkillsdAvalanched	ÿc0spell - summon two parallel rolling clouds of frost and ice
 SkillsdAvatar	ÿc0floating avatar that casts freezing waves around it
 SkillsdAvengingFury	ÿc1requires a bow or crossbowÿc0\nprojectile - fire a dragon spirit that bombards nearby enemies with spines
@@ -4476,7 +4476,7 @@ SkillsdBlackMass	ÿc2press and hold mouse button to channelÿc0\nspell - channel
 SkillsdBlackSleep	ÿc3only allows the use of melee, summoning and buff/debuff skills\nÿc0passive - improves your combat fortitude
 SkillsdBlackstorm	ÿc0upgrade - your Mind Flay is enhanced near your Slayer
 SkillsdBlackW	ÿc1disables catapult shot\nrequires a crossbowÿc0\nprojectile - unleash a barrage of homing bolts
-SkillsdBladeQ	ÿc0buff - temporarily hurls swirling blade mines at nearby foes
+SkillsdBladeQ	ÿc0buff - spinning blades periodically strike at enemies within melee range
 SkillsdBladesOfLight	ÿc0provides self or target ally with magical thorns of light
 SkillsdBladespirit	ÿc0special summon - Zann swordwraiths fight alongside you
 SkillsdBladestorm	ÿc1requires a staff, orb or crystal swordÿc0\nattack - unleash magical homing blades
@@ -4744,9 +4744,9 @@ SkillsdPsicrown	ÿc0spell - circle of bouncing psionic missiles whose damage is 
 SkillsdPummel	ÿc1requires an axe or mace\nÿc0attack - impale your enemies on a burst of spines
 SkillsdPunish	ÿc0casts a slow moving bolt of doom that kills or cripples a target
 SkillsdPurgeAttack	ÿc1requires a scythe or daggerÿc0\nÿc0attack - releases a magic scourge that tears between multiple targets
-SkillsdPwnYourself4	ÿc3only allows the use of melee and buff/debuff skills\nÿc1requires an elemental melee weapon\nÿc0attack - sacrifice physical prowess for elemental power
+SkillsdPwnYourself4	ÿc3only allows the use of melee and buff/debuff skills\nÿc1requires an elemental melee weapon\nÿc0buff - sacrifice physical prowess for elemental power
 SkillsdPyro6	ÿc0summons a devastating volcanic wave of molten rock and fire
-SkillsdQQSkill	ÿc1requires a staff, orb or crystal swordÿc0\nbuff - improves your melee combat prowess
+SkillsdQQSkill	ÿc1requires a melee weaponÿc0\nbuff - improves your melee combat prowess
 SkillsdQuakeState	ÿc1requires a melee weapon\nÿc7(works only after using Blood Hatred)\nÿc0melee attack that blasts out a gigantic crushing wave
 SkillsdRapBattle	ÿc1requires a scythe or daggerÿc0\nwarp strike - leap in the air and plunge to deliver a devastating blow
 SkillsdRathmaRulez	ÿc0empowering your combat prowess\nspecial summon - evoke rathma's avatar upon sanctuary,\nÿc4(Melee/Crossbow Specialty)
@@ -4863,8 +4863,8 @@ SkillsdTrembleInFear	ÿc0spell - causes a violent earthquake that damages all vi
 SkillsdTritonForm	ÿc1requires an axe or mace\nÿc3only allows the use of melee, summoning and buff/debuff skills\nÿc0buff - transform into a massive treant with a crushing attack
 SkillsdTriumphant	ÿc1requires a spearÿc0\nattack - enter a state of fury and improve your combat abilities
 SkillsdTrololol	ÿc0burn baby burn!
-SkillsdMageSlayer	ÿc3only allows the use of melee, summoning and buff/debuff skills\nÿc0buff - neutralizes enemy elemental damage and enhances your own
-SkillsdTwistingbite	ÿc1requires a sword\nÿc0attack - melee hit which unleashes prey seeking twisters
+SkillsdMageSlayer	ÿc9(cast again to turn off)\nÿc0buff - neutralizes enemy elemental damage and enhances your own
+SkillsdTwistingbite	ÿc1requires a sword\nÿc0attack - melee hit which unleashes a spiral of damaging twisters
 SkillsdTyphoonK	ÿc1requires a bow or crossbowÿc0\ncast a tremendous blast of wind from your bow or crossbow
 SkillsdTyphoonS	ÿc0sentry that blows away nearby enemies with wind blasts
 SkillsdUnholyArmor	ÿc0turns you or a target ally invulnerable for a short time
@@ -4914,14 +4914,14 @@ DescSparklies	 bolts
 DescShatterStreak	 bolts on impact
 DescBombs	 bombs
 DescColdConvertJav	 bonus cold damage to attack
-DescFireConvertJav	 bonus fire damage to attack
+DescFireConvertJav	Bonus Fire Damage: 
 DescStopReadingThis	 Bonus Magic Damage
 DescThirdTime	 Bonus Magic Damage
 DescCowz	 cows
 DescDefenzor	 defense
 DescSuperBodies	 each time the totem casts
 DescChronoTrigger	 Enemy Physical and Feedback Resistances: 
-DescBladesOnAPlane	 Extra Blade per 3 Base Levels
+DescQoBSyn	5% Increased Attack Speed per Base Level\n2% Crushing Blow per Base Level \nReduced Attack Delay per Base Level
 DescHammersHoly	 extra targets
 DescHammersUnh	 extra targets
 DescFireballs	 fireballs
@@ -5030,7 +5030,7 @@ DescTotalHP	% of your Maximum Life
 DescShamans3Syn	% per Base Level in the Spirits Tree
 Damplevv	% Physical Damage per Base Level
 DescDmgPLvl	% Physical Damage per Base Level
-DescDmgPLion	% Physical Damage per Base Level
+DescIasPLion	% Attack Speed per Base Level (Max 250%)
 DescDmgPLvlElfin	+1.25% Innate Elemental Damage per Base Level\n+1% Deadly Strike per Base Level
 DescSmokeeeeeeeer	% Physical Damage to Lightning
 DescHowNowBrownCow	% Physical Damage to this attack
@@ -5044,7 +5044,7 @@ DescStopAvoid	% when standing still or whirlwinding
 DescPctVengeful	% damage for 5 seconds after being hit
 DescACFlash	% while Casting
 DescDeathFeedbackCap	(Capped at 25,000 Life)
-DescFeedbackCap	(Capped at 30,000 Mana)
+DescFeedbackCap	(Capped at 40,000 Mana)
 DescCurrentNeph1	(Current Value: 
 DescItsNotRocketSciGuys	(Damage per Second Remains Constant)
 DescCryoPhysCrit	(Damage: 25000)\n1% Chance to Atomize Target per 10 Base Energy
@@ -5088,7 +5088,7 @@ DescDemiurgeBlank
 DescTiefling	\nTotal Character Defense -50%
 DescTwistingBite	unused
 DescBlankHarbinger	unused
-DescNovaEffectM	\nConverts 80% Physical Damage to Magic\n16 Projectiles per Nova\n90% Weapon Damage\nÿc8Flechette Novas\n
+DescNovaEffectM	\nConverts 70% Physical Damage to Magic\n16 Projectiles per Nova\nÿc8Flechette Novas\n
 DescFirstChargeRadius	
 DescYouNeedToWolfIt	\nRequired to unlock bonuses\nÿc8Lycanthropy\n
 DescBlankPounce	\nMagic Damage Increased by 100% per Fury Charge\nÿc8Fury\n
@@ -5174,10 +5174,10 @@ DescMREXSyn	+3% Innate Elemental Damage per Base Level (Max 30%)\n+10% Mana Rege
 DescMinRCMag	+350-700 Bonus Magic Damage per Base Level
 DescAsterismSyn2	+3 to Maximum Damage per Base Level (Hammer Path)
 NewbiesDontGetIt	+%d%% Malice Skills Damage per Base Level
-DescIncarnationSyn	Increased Attack Rating scaling per Base Level\nIncreased Spell Damage scaling per Base Level
+DescIncarnationSyn	Increased Spell Damage scaling per Base Level
 DescWitch2Syn	+10 Life after each kill per Base Level
 DescMFforReals	+5% to party Magic Find per Base Level
-DescDemiurgeSyn	+30 Vitality and Energy per Base Level
+DescDemiurgeSyn	+30 Vitality and Energy per Base Level\n+1 Second to Duration per Base Level (Max 15s)\n10% Increased Physical Damage per Base Level
 DescBackstabSyn	+8% Crushing Blow per Base Level (Max 100%)
 DescAsterismSyn	-1% to Enemy Lightning Resistance per Base Level
 DescDoomPierce	-1% to Enemy Magic Resistance per Base Level
@@ -5206,7 +5206,7 @@ DescWindfronts	8 wind fronts
 LemuresEjaculation	8 Wraiths
 Desc1B9Cruc	8-16 Spikes depending on Nearby Enemies\nConverts 25% Physical Damage to Magic Damage
 DescRocksDmg	85% Weapon Damage\n
-DescSunstrikeDmg	85% Weapon Damage\n
+DescSunstrikeDmg	Gains an additional arrow every 21 Skill Levels
 DescAcidNr	Harvesters: 
 DescDevouringAcid	Acid Puddle Duration: 5 seconds
 DescOnlyWhenStruck	Activate after being Struck in Combat
@@ -5276,7 +5276,7 @@ DescTCDLioness	Bonus Defense:
 DescASLifeSyn	% Minion Life per Base Level
 DescBlankExptraSp	Ancient Spirit Life Multiplier: 
 DescBonusMagDmg	Bonus magic damage: 
-DescRathmaFC	The Way will be made clear, stand ready\n\nTaha Great Rune\nGreater Signet of Learning\nIt must now be imbued with Knowledge and Arcana\n\nÿc5The Worldstone crystal has been reforged
+DescRathmaFC	The Way will be made clear, stand ready\n\nGreater Signet of Learning\nIt must now be imbued with Great Knowledge\n\nÿc5The Worldstone crystal has been reforged
 DescBaseDmg	Bonus Physical Damage
 DescStatsTriton	Bonus Strength and Vitality: 
 DescVelSyn	ÿc2Neutrality: duration increased to 20 seconds
@@ -5519,9 +5519,9 @@ SkillnamePanda	Pandemonium
 DescHellReduce	Maximum Fire Resistance: 
 DescDmgT	Party Members: Crushing Blow: 
 DescHowlzYoo	Party Members: Damage: 
-DescElemT	Party Members: Elemental Damages: 
+DescElemT	Party: Elemental Spell Damage: 
 DescBlankHowling	Party Members: Hit Causes Monster to Flee 5%\n
-DescManaTideTide	Party Members: Mana Recovery Rate: 
+DescManaTideTide	Party: Mana Recovery Rate: 
 DescAllKingsT	Party Members: To all Attributes: 
 DescSWConsolidated	Passive - Bonus Stance Radius: 
 DescPctNoS	percent
@@ -5569,9 +5569,9 @@ DescChurel	\nReleases up to 18 ghosts\nGravestone Duration: 10 seconds\n
 DescTargetOnlyT	Requires a Monster as a target
 DescPounceNurfed7	Requires a Monster as target\nConverts 25% Physical Damage to Magic
 DescHarbinger	Requires a Monster as target\n100% Weapon Damage
-DescShunpoEffect	Requires a Monster as target\nRadius: 10.4 yards
+DescShunpoEffect	\nRequires a Monster as target\nRadius: 10.4 yards
 DescScalingBonus	Requires Several Hits to Charge Up\n
-DescWychbabble2	Rift Duration: 4 seconds
+DescWychbabble2	Rift Duration: 2.4 seconds
 DescNrRockets	Rockets: 
 DescStopCheesingUldyssian	Movement Speed: 
 DescDelayNukeAttempts	Total Fire and Physical damage per blast: 
@@ -5650,7 +5650,7 @@ DescShamans4Syn	Weapon Damage per Base Level (Max 8%)
 DescShamans2Syn	Weapon Damage: 
 DescGenericDmg	Weapon Physical Damage: 
 DescJustPhys	Weapon Physical Damage: 
-DescWhenEatBerry	It which is a splinter of the spirit in a land Unformed\n\nIt which is of many and may cleanse the soul\n\nIt which is of the brother, savior and sacrifice\n\nIt which can manifest their son and his disciple\n\nIt which bears the writings of genesis
+DescWhenEatBerry	It which is a splinter of the spirit in a land Unformed\n\nIt which is of many and may cleanse the soul\n\nIt which is of the brother, savior and sacrifice\n\nIt which can manifest their son and his disciple\n\nIt which screams haunt the living
 DescBerryR	\nDuration: 10 minutes
 DescWolvesNumberR	Wolves: 
 DescMoarBansheeIsFunLongStringIsLong	Wraiths: 
@@ -5718,7 +5718,7 @@ Pacman Key	ÿc8Cherry
 mon_irekyou	Samael, Herald of the End
 HadesNewTimer	(Reduced by 4 seconds During Bloodbath)
 CarnageSyn	Max this skill until Base Level 7 to remove Cooldown
-CarnageConverse	Converts 30% Physical damage to Fire
+CarnageConverse	Converts 25% Physical damage to Fire
 FamineSpecial	as Weapon Physical Damage\nAdds 15% of Strength and Dexterity\n
 SkillnameWerebear	Werebear
 BarbSkillTimers	Max this skill until Base Level 6 to remove Cooldown
@@ -5980,29 +5980,29 @@ irX05	ÿc5- Transmute -\n\nÿc0Monster Heroes may spawn\nÿc2Immune to Crushing 
 irX06	ÿc5- Transmute -\n\nÿc0Monster Heroes and Champions may spawn\nImmune to Crushing Blow, 50% Less Poison Duration\nImmune to Crowd Control, Max Slow Effect: 25%\nÿc2Absorb 50% Fire, Cold and Lightning\nÿc0Cannot be Chilled or Frozen\n\nElemental Resists: +15%\nDamage: +50%\nLife: +100%\n
 irX07	ÿc5- Transmute -\n\nÿc0Monster Heroes and Champions may spawn\nImmune to Crushing Blow, 50% Less Poison Duration\nImmune to Crowd Control, Max Slow Effect: 25%\nÿc0Absorb 50% Fire, Cold and Lightning\nCannot be Chilled or Frozen\nÿc2Dimensional Tear\n\nÿc0Elemental Resists: +18%\nÿc2Monster Density: +10%\nÿc0Damage: +60%\nLife: +120%\n
 irX08	ÿc5- Transmute -\n\nÿc0Monster Heroes and Champions may spawn\nImmune to Crushing Blow, 50% Less Poison Duration\nImmune to Crowd Control, Max Slow Effect: 25%\nAbsorb 50% Fire, Cold and Lightning\nCannot be Chilled or Frozen\nÿc270% Leech Resistance\nÿc0Dimensional Tear\n\nElemental Resists: +21%\nMonster Density: +10%\nDamage: +70%\nLife: +140%\n
-irX09	ÿc5- Transmute -\n\nÿc0Monster Heroes and Champions may spawn\nImmune to Crushing Blow, 50% Less Poison Duration\nImmune to Crowd Control, Max Slow Effect: 25%\nAbsorb 50% Fire, Cold and Lightning\nCannot be Chilled or Frozen\nÿc2+70% Movement Speed\nÿc070% Leech Resistance\nDimensional Tear\nÿc2Curse Redux\n\nÿc0Elemental Resists: +24%\nMonster Density: +10%\nDamage: +80%\nLife: +160%\n
-irX10	ÿc5- Transmute -\n\nÿc0Monster Heroes and Champions may spawn\nImmune to Crushing Blow, 50% Less Poison Duration\nImmune to Crowd Control, Max Slow Effect: 25%\nAbsorb 50% Fire, Cold and Lightning\nCannot be Chilled or Frozen\n+70% Movement Speed\n70% Leech Resistance\nÿc2No Monster Corpses\nÿc0Dimensional Tear\nCurse Redux\n\nElemental Resists: +27%\nMonster Density: +10%\nDamage: +90%\nLife: +180%\n
-irX11	ÿc5- Transmute -\n\nÿc0Monster Heroes, Champions and Sovereigns may spawn\nImmune to Crushing Blow, 50% Less Poison Duration\nImmune to Crowd Control, Max Slow Effect: 25%\nAbsorb 50% Fire, Cold and Lightning\nCannot be Chilled or Frozen\n+70% Movement Speed\n70% Leech Resistance\nNo Monster Corpses\nÿc2Empowered Skills\nÿc0Dimensional Tear\nCurse Redux\n\nElemental Resists: +30%\nMonster Density: +10%\nÿc2Pack Size: +20%\nÿc0Damage: +100%\nLife: +200%\n
-irX12	ÿc5- Transmute -\n\nÿc0Monster Heroes, Champions and Sovereigns may spawn\nImmune to Crushing Blow, 50% Less Poison Duration\nImmune to Crowd Control, Max Slow Effect: 25%\nÿc2Reduce Player Avoid and Block on Hit\nÿc0Absorb 50% Fire, Cold and Lightning\nCannot be Chilled or Frozen\n+70% Movement Speed\n70% Leech Resistance\nNo Monster Corpses\nEmpowered Skills\nDimensional Tear\nCurse Redux\n\nElemental Resists: +33%\nMonster Density: +10%\nPack Size: +20%\nDamage: +110%\nLife: +220%\n
-irX13	ÿc5- Transmute -\n\nÿc0Monster Heroes, Champions and Sovereigns may spawn\nImmune to Crushing Blow, 50% Less Poison Duration\nImmune to Crowd Control, Max Slow Effect: 25%\nÿc2Gain 200% of Physical Damage as Elemental\nÿc0Reduce Player Avoid and Block on Hit\nAbsorb 50% Fire, Cold and Lightning\nCannot be Chilled or Frozen\n+70% Movement Speed\n70% Leech Resistance\nNo Monster Corpses\nEmpowered Skills\nDimensional Tear\nCurse Redux\n\nElemental Resists: +36%\nMonster Density: +10%\nPack Size: +20%\nDamage: +120%\nLife: +240%\n
-irX14	ÿc5- Transmute -\n\nÿc0Monster Heroes, Champions and Sovereigns may spawn\nImmune to Crushing Blow, 50% Less Poison Duration\nImmune to Crowd Control, Max Slow Effect: 25%\nGain 200% of Physical Damage as Elemental\nReduce Player Avoid and Block on Hit\nAbsorb 50% Fire, Cold and Lightning\nÿc2Pierce 100% Elemental Resists\nÿc0Cannot be Chilled or Frozen\n+70% Movement Speed\n70% Leech Resistance\nNo Monster Corpses\nEmpowered Skills\nDimensional Tear\nCurse Redux\n\nElemental Resists: +40%\nMonster Density: +10%\nPack Size: +20%\nDamage: +130%\nLife: +260%\n
-irX15	ÿc5- Transmute -\n\nÿc0Monster Heroes, Champions and Sovereigns may spawn\nImmune to Crushing Blow, 50% Less Poison Duration\nImmune to Crowd Control, Max Slow Effect: 25%\nGain 200% of Physical Damage as Elemental\nReduce Player Avoid and Block on Hit\nAbsorb 50% Fire, Cold and Lightning\nPierce 100% Elemental Resists\nCannot be Chilled or Frozen\n+70% Movement Speed\n70% Leech Resistance\nNo Monster Corpses\nEmpowered Skills\nDimensional Tear\nCurse Redux\nÿc2Nemesis\n\n\nÿc0Elemental Resists: +45%\nMonster Density: +40%\nPack Size: +20%\nDamage: +150%\nLife: +300%\n
-DescShrineA	ÿc3+x to Strength\nx% to Strength\nx% Chance of Crushing Blow\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
-DescShrineB	ÿc3+x to Dexterity\nx% to Dexterity\nx% Bonus to Attack Rating\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
-DescShrineC	ÿc3+x to Vitality\nx% to Vitality\n+x Life Regenerated per Second\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
-DescShrineD	ÿc3+x to Energy\nx% to Energy\n+x Spell Focus\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
-DescShrineE	ÿc3Adds x-y damage\n+x% Enhanced Damage\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
-DescShrineF	ÿc5(Armor)\nÿc3Physical Resist +x%\n+x% Enhanced Defense\n\nÿc5(Weapons)\nÿc3x% Deadly Strike\nRequirements +x%\n+x% Enhanced Damage\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
-DescShrineG	ÿc3+x% to Summoned Minion Damage\n+x% to Summoned Minion Attack Rating\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
-DescShrineH	ÿc3+x% to Fire Spell Damage\n-x% to Enemy Fire Resistance\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
-DescShrineI	ÿc3+x% to Lightning Spell Damage\n-x% to Enemy Lightning Resistance\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
-DescShrineJ	ÿc3+x% to Cold Spell Damage\n-x% to Enemy Cold Resistance\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
-DescShrineK	ÿc3+x% to Poison Spell Damage\n-x% to Enemy Poison Resistance\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
-DescShrineM	ÿc3+x% Cast Speed\nMaximum Mana +x%\nRegenerate Mana +x%\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
-DescShrineN	ÿc3+x% to Summoned Minion Life\n+x% to Summoned Minion Resistances\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
-DescShrineO	ÿc3Magic Resist +x%\n+x% to Physical/Magic Spell Damage\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
-DescShrineQ	ÿc31% Reanimate as: Random Monster\n1% Reanimate as: Random Monster\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
-DescShrineR	ÿc3+x to All Attributes\n+x% to Innate Elemental Damage\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
+irX09	ÿc5- Transmute -\n\nÿc0Monster Heroes and Champions may spawn\nImmune to Crushing Blow, 50% Less Poison Duration\nImmune to Crowd Control, Max Slow Effect: 25%\nAbsorb 50% Fire, Cold and Lightning\nCannot be Chilled or Frozen\nÿc2+20% Movement Speed\nÿc070% Leech Resistance\nDimensional Tear\nÿc2Curse Redux\n\nÿc0Elemental Resists: +24%\nMonster Density: +10%\nDamage: +80%\nLife: +160%\n
+irX10	ÿc5- Transmute -\n\nÿc0Monster Heroes and Champions may spawn\nImmune to Crushing Blow, 50% Less Poison Duration\nImmune to Crowd Control, Max Slow Effect: 25%\nAbsorb 50% Fire, Cold and Lightning\nCannot be Chilled or Frozen\n+20% Movement Speed\n70% Leech Resistance\nÿc2No Monster Corpses\nÿc0Dimensional Tear\nCurse Redux\n\nElemental Resists: +27%\nMonster Density: +10%\nDamage: +90%\nLife: +180%\n
+irX11	ÿc5- Transmute -\n\nÿc0Monster Heroes, Champions and Sovereigns may spawn\nImmune to Crushing Blow, 50% Less Poison Duration\nImmune to Crowd Control, Max Slow Effect: 25%\nAbsorb 50% Fire, Cold and Lightning\nCannot be Chilled or Frozen\n+20% Movement Speed\n70% Leech Resistance\nNo Monster Corpses\nÿc2Empowered Skills\nÿc0Dimensional Tear\nCurse Redux\n\nElemental Resists: +30%\nMonster Density: +10%\nÿc2Pack Size: +20%\nÿc0Damage: +100%\nLife: +200%\n
+irX12	ÿc5- Transmute -\n\nÿc0Monster Heroes, Champions and Sovereigns may spawn\nImmune to Crushing Blow, 50% Less Poison Duration\nImmune to Crowd Control, Max Slow Effect: 25%\nÿc2Reduce Player Avoid and Block on Hit\nÿc0Absorb 50% Fire, Cold and Lightning\nCannot be Chilled or Frozen\n+20% Movement Speed\n70% Leech Resistance\nNo Monster Corpses\nEmpowered Skills\nDimensional Tear\nCurse Redux\n\nElemental Resists: +33%\nMonster Density: +10%\nPack Size: +20%\nDamage: +110%\nLife: +220%\n
+irX13	ÿc5- Transmute -\n\nÿc0Monster Heroes, Champions and Sovereigns may spawn\nImmune to Crushing Blow, 50% Less Poison Duration\nImmune to Crowd Control, Max Slow Effect: 25%\nÿc2Gain 200% of Physical Damage as Elemental\nÿc0Reduce Player Avoid and Block on Hit\nAbsorb 50% Fire, Cold and Lightning\nCannot be Chilled or Frozen\nÿc2+40% Movement Speed\nÿc070% Leech Resistance\nNo Monster Corpses\nEmpowered Skills\nDimensional Tear\nCurse Redux\n\nElemental Resists: +36%\nMonster Density: +10%\nPack Size: +20%\nDamage: +120%\nLife: +240%\n
+irX14	ÿc5- Transmute -\n\nÿc0Monster Heroes, Champions and Sovereigns may spawn\nImmune to Crushing Blow, 50% Less Poison Duration\nImmune to Crowd Control, Max Slow Effect: 25%\nGain 200% of Physical Damage as Elemental\nReduce Player Avoid and Block on Hit\nAbsorb 50% Fire, Cold and Lightning\nÿc2Pierce 100% Elemental Resists\nÿc0Cannot be Chilled or Frozen\n+40% Movement Speed\n70% Leech Resistance\nNo Monster Corpses\nEmpowered Skills\nDimensional Tear\nCurse Redux\n\nElemental Resists: +40%\nMonster Density: +10%\nPack Size: +20%\nDamage: +130%\nLife: +260%\n
+irX15	ÿc5- Transmute -\n\nÿc0Monster Heroes, Champions and Sovereigns may spawn\nImmune to Crushing Blow, 50% Less Poison Duration\nImmune to Crowd Control, Max Slow Effect: 25%\nGain 200% of Physical Damage as Elemental\nReduce Player Avoid and Block on Hit\nAbsorb 50% Fire, Cold and Lightning\nPierce 100% Elemental Resists\nCannot be Chilled or Frozen\n+40% Movement Speed\n70% Leech Resistance\nNo Monster Corpses\nEmpowered Skills\nDimensional Tear\nCurse Redux\nÿc2Nemesis\n\n\nÿc0Elemental Resists: +45%\nMonster Density: +40%\nPack Size: +20%\nDamage: +150%\nLife: +300%\n
+DescShrineA	ÿc1You can only bless an item once. Ethereal items cannot be blessed\nÿc0The blessing will add the craftable stats to the item\nCube with Sacred Rare or Crafted Weapon/Armor and 2 Arcane Crystals to Bless\n\nÿc3+x to Strength\nx% to Strength\nx% Chance of Crushing Blow\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
+DescShrineB	ÿc1You can only bless an item once. Ethereal items cannot be blessed\nÿc0The blessing will add the craftable stats to the item\nCube with Sacred Rare or Crafted Weapon/Armor and 2 Arcane Crystals to Bless\n\nÿc3+x to Dexterity\nx% to Dexterity\nx% Bonus to Attack Rating\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
+DescShrineC	ÿc1You can only bless an item once. Ethereal items cannot be blessed\nÿc0The blessing will add the craftable stats to the item\nCube with Sacred Rare or Crafted Weapon/Armor and 2 Arcane Crystals to Bless\n\nÿc3+x to Vitality\nx% to Vitality\n+x Life Regenerated per Second\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
+DescShrineD	ÿc1You can only bless an item once. Ethereal items cannot be blessed\nÿc0The blessing will add the craftable stats to the item\nCube with Sacred Rare or Crafted Weapon/Armor and 2 Arcane Crystals to Bless\n\nÿc3+x to Energy\nx% to Energy\n+x Spell Focus\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
+DescShrineE	ÿc1You can only bless an item once. Ethereal items cannot be blessed\nÿc0The blessing will add the craftable stats to the item\nCube with Sacred Rare or Crafted Weapon/Armor and 2 Arcane Crystals to Bless\n\nÿc3Adds x-y damage\n+x% Enhanced Damage\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
+DescShrineF	ÿc1You can only bless an item once. Ethereal items cannot be blessed\nÿc0The blessing will add the craftable stats to the item\nCube with Sacred Rare or Crafted Weapon/Armor and 2 Arcane Crystals to Bless\n\nÿc5(Armor)\nÿc3Physical Resist +x%\n+x% Enhanced Defense\n\nÿc5(Weapons)\nÿc3x% Deadly Strike\nRequirements +x%\n+x% Enhanced Damage\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
+DescShrineG	ÿc1You can only bless an item once. Ethereal items cannot be blessed\nÿc0The blessing will add the craftable stats to the item\nCube with Sacred Rare or Crafted Weapon/Armor and 2 Arcane Crystals to Bless\n\nÿc3+x% to Summoned Minion Damage\n+x% to Summoned Minion Attack Rating\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
+DescShrineH	ÿc1You can only bless an item once. Ethereal items cannot be blessed\nÿc0The blessing will add the craftable stats to the item\nCube with Sacred Rare or Crafted Weapon/Armor and 2 Arcane Crystals to Bless\n\nÿc3+x% to Fire Spell Damage\n-x% to Enemy Fire Resistance\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
+DescShrineI	ÿc1You can only bless an item once. Ethereal items cannot be blessed\nÿc0The blessing will add the craftable stats to the item\nCube with Sacred Rare or Crafted Weapon/Armor and 2 Arcane Crystals to Bless\n\nÿc3+x% to Lightning Spell Damage\n-x% to Enemy Lightning Resistance\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
+DescShrineJ	ÿc1You can only bless an item once. Ethereal items cannot be blessed\nÿc0The blessing will add the craftable stats to the item\nCube with Sacred Rare or Crafted Weapon/Armor and 2 Arcane Crystals to Bless\n\nÿc3+x% to Cold Spell Damage\n-x% to Enemy Cold Resistance\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
+DescShrineK	ÿc1You can only bless an item once. Ethereal items cannot be blessed\nÿc0The blessing will add the craftable stats to the item\nCube with Sacred Rare or Crafted Weapon/Armor and 2 Arcane Crystals to Bless\n\nÿc3+x% to Poison Spell Damage\n-x% to Enemy Poison Resistance\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
+DescShrineM	ÿc1You can only bless an item once. Ethereal items cannot be blessed\nÿc0The blessing will add the craftable stats to the item\nCube with Sacred Rare or Crafted Weapon/Armor and 2 Arcane Crystals to Bless\n\nÿc3+x% Cast Speed\nMaximum Mana +x%\nRegenerate Mana +x%\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
+DescShrineN	ÿc1You can only bless an item once. Ethereal items cannot be blessed\nÿc0The blessing will add the craftable stats to the item\nCube with Sacred Rare or Crafted Weapon/Armor and 2 Arcane Crystals to Bless\n\nÿc3+x% to Summoned Minion Life\n+x% to Summoned Minion Resistances\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
+DescShrineO	ÿc1You can only bless an item once. Ethereal items cannot be blessed\nÿc0The blessing will add the craftable stats to the item\nCube with Sacred Rare or Crafted Weapon/Armor and 2 Arcane Crystals to Bless\n\nÿc3Magic Resist +x%\n+x% to Physical/Magic Spell Damage\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
+DescShrineQ	ÿc1You can only bless an item once. Ethereal items cannot be blessed\nÿc0The blessing will add the craftable stats to the item\nCube with Sacred Rare or Crafted Weapon/Armor and 2 Arcane Crystals to Bless\n\nÿc31% Reanimate as: Random Monster\n1% Reanimate as: Random Monster\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
+DescShrineR	ÿc1You can only bless an item once. Ethereal items cannot be blessed\nÿc0The blessing will add the craftable stats to the item\nCube with Sacred Rare or Crafted Weapon/Armor and 2 Arcane Crystals to Bless\n\nÿc3+x to All Attributes\n+x% to Innate Elemental Damage\nÿc0Cube with Sacred Rare or Crafted Weapon/Armor to Craft\n\nCube Reagent
 SkillnameDeathPact	Death Pact
 SkillsdDeathPact	ÿc0passive - your devotion determines your combat strengths
 SkillnameSoulbond	Soulbond
@@ -6052,7 +6052,7 @@ DescHawkPack
 DescElementalAbsorb	All Damage Reduced by 
 DescConversionBlank	Converts 50% Physical Damage to Magic
 DescBloodSynergy	+1 Skeleton per 4 Base Levels
-DescHawkSynergy	+1 Hawk per 2 Base Levels
+DescHawkSynergy	+1 Hawk per Cast at Base Level 25\n+1 Hawk per 2 Base Levels
 DescAbyssSynergy	+1 Knight per 6 Base Levels
 DescGrimVisionAura	ÿc8Grim Vision Aura\n\nÿc2Blood Skeleton
 DescImResurgence	Necromancer Minions: 
@@ -6081,22 +6081,22 @@ DescBlankie	\n
 SkillnameVenomcloud	Venomcloud Totem
 SkillsdVenomcloud	ÿc0totem - casts poisonous waves at nearby enemies
 SkillnameSpikeRush	Spike Rush
-bt01	ÿc8Juneend's AFK Service
-bt02	ÿc8Nihlathak Simulator
-bt03	ÿc8Arcane Crystal Voucher
-bt04	ÿc8Chuck's Secret
-bt05	ÿc8#unique command but it costs 1 mill
-bt06	ÿc8Thraxis the Martyr
-bt07	ÿc8Instant Regret
-DescBeta01	ÿc3Eat For Experience
-DescBeta02	ÿc3Eat For 10 Stat Points
-DescBeta03	Cube to create Arcane Crystal
-DescBeta04	ÿc3Cube = Duplicates Shrines Twice
-DescBeta05	ÿc3Cube = Converts Item to SU
-DescBeta06	ÿc3Cube = Creates Beta Charm
-DescBeta07	ÿc3Cube = Creates 2 Respec Potions
-bt99	''The Worst Beta I've Been In''
-Beta Trinket	''The Worst Beta I've Been In''
+bt01	unused
+bt02	unused
+bt03	unused
+bt04	unused
+bt05	unused
+bt06	unused
+bt07	unused
+DescBeta01	unused
+DescBeta02	unused
+DescBeta03	unused
+DescBeta04	unused
+DescBeta05	unused
+DescBeta06	unused
+DescBeta07	unused
+bt99	unused
+Beta Trinket	unused
 RemadeFlesh	Remade Flesh
 VoidErinys	Erinys
 ColossalTunneler	Colossal Tunneller
@@ -6367,7 +6367,7 @@ DescFeedMore	Bonus Strength:
 DescFeedMoreAuto	% Bonus Strength per Base Level
 SkillnameDreamEater	Dream Eater
 SkillsdDreamEater	ÿc0spell - target foe is consumed by horror
-DescDreamEater	ÿc8Terrifies Target
+DescDreamEater	Enemy Physical Resist: -10%\nÿc8Terrifies Target
 DescDreamCooldown	Cooldown Reduced by 0.2 seconds per Base Level
 Daydreamer	Daydreamer
 TempestSyn	+1 Bolt per 10 Skill Levels (Max 
@@ -6402,7 +6402,7 @@ stat_signets	Stat Signets
 cat_Weapon	Weapon Damage
 weap_total	Physical Damage
 weap_flat	Base Physical Damage
-weap_ewd	Enhanced W. Damage
+weap_ewd	W. Physical Damage
 weap_deadly	Deadly Strike
 weap_cb	Crushing Blow
 weap_ar	Attack Rating
@@ -6524,7 +6524,7 @@ DOptionalSpawn6	ÿc1Destroy to heal Deimoss. Increases difficulty and rewards.\n
 mon_crystalball	Nearby Allies are Immune
 BlackIce	Black Ice
 MageSlayerSyn	+1% to Innate Elemental Damage per Base Level
-DescMageSlayer1	Weapon Physical Damage -150%\n+1% Maximum Elemental Resistances\n
+DescMageSlayer1	+1% Maximum Fire, Cold, and Lightning Resistances\nWeapon Physical Damage -300%
 DescBaseBlock	% Base Chance to Block
 DescShadowDancerBlank	\n(Depends on Character Level)
 DescNoctuleSyn	+14% Bonus Magic Damage per Base Level
@@ -6581,9 +6581,9 @@ DescRathmaBabiesDmg2	% Total Damage
 AmazoniteUltra	Amazon Defender
 SkillnameCorruptedVines	Corrupted Vines
 DescPsiTotal	% of Total Energy
-DescPsi1	ÿc3Drains 10% of Maximum Mana per Cast
+DescPsi1	Drains 5% of Maximum Mana\nWhile under 90% hp
 DescPsi2	Heals 
-DescPsi3	% of Your Maximum Life
+DescPsi3	% of Maximum Life
 DescPsi4	+2% Increased Healing per Base Level in the Psionic Tree (Max 100%)
 DescShowerofRocks1	\nCooldown: 1 second\nEnemy Movement Speed: -25%\nEnemy Physical Resist: -5%\n150% Weapon Damage\n
 DescShowerofRocks2	% of Base Strength and Weapon Physical Damage Modifiers
@@ -6668,7 +6668,7 @@ DescFervorSyn	% of Total Damage added as Fire Damage per Base Level
 DescSummDmg	% to Summoned Minion Damage
 DescFervor2	(Bonus Fire Damage +
 SkillnameReverence	ÿc2Reverence
-SkillsdReverence	ÿc:disables casting ward of fate and veneration of justice\nÿc0buff - applies both ward of fate and veneration of justice
+SkillsdReverence	ÿc:disables casting ward of fate and veneration of justice\nÿc0buff - applies relevant effects from ward of fate and veneration of justice
 DescReverence1	ÿc:Disables casting Ward of Fate and Valiance of Justice
 DescNephalem1	ÿc:\nDisables Holy & Unholy Skills\nNephalem Skill
 DescNephalemX	\nÿc:Nephalem Skill
@@ -6723,7 +6723,7 @@ DescApexpredator3	Weapon Life Leech: +
 DescSolarflare1	Enemy Weapon Physical Damage and Attack Rating: 
 DescIncarnation1	% Fire Spell Damage per Annihilation Base Level
 DescIncarnation2	% Physical/Magic Spell Damage per Dragon Jaws Base Level
-DescIncarnation3	% of Current Mana Added as Attack Rating (Max 20 000)
+DescIncarnation3	% of Current Life Added as Attack Rating
 MasteryNameDuration	Continuity
 MasterySdDuration	ÿc0passive - increases the duration of your buff/debuff skills
 MasteryDuration1	% Skill Duration
@@ -6886,7 +6886,7 @@ SkillsdViolentImmolation	ÿc0upgrade - deprived of any hesitation the hawks deal
 SkillsdChaosNova	ÿc0upgrade - knights proc a deadly nova on kill and when killed
 SkillsdMetalSolace	ÿc0upgrade - the metal flesh mends itself and the golem regenerates its wounds
 SkillsdOnslaught	ÿc0upgrade - reduced cooldown for more killing power
-SkillsdVoracity	ÿc1requires 10 points in Angel of Death\nÿc0upgrade - deepens the parasite bloodthirst granting more damage and range
+SkillsdVoracity	ÿc1requires 5 points in parasite\nÿc0upgrade - deepens the parasite bloodthirst granting more damage and range
 SkillsdOminousVigor	ÿc4requires 30 points in other melee tree skills\nÿc0passive - heightens your chances to block, your strength and dexterity
 SkillsdDemonicCommune	ÿc0upgrade - increased movement speed gifted by a profane bond
 SkillsdBrutalEffigy	ÿc0upgrade - your effigy gains an aura that boosts your combat prowess while nearby
@@ -7006,7 +7006,7 @@ DescPbombPhase	\nPhased Enemy Elemental Resistances:
 DescPbombSyn	-1% Enemy Elemental Resistances per 3 Base Levels into Ways
 DescCog50A	\nÿc2Pinnacle: adds 100% of Cognition as Stamina
 DescCog50B	\nÿc0Pinnacle: adds 100% of Cognition as Stamina\nÿc8Reach 50 Cognition\n
-DescCog75A	\nÿc2Shuriken Flurry: 0.4% Total Damage per Cognition
+DescCog75A	\nÿc2Shuriken Flurry: 0.4% Total Damage per Cognition\nPisonic Storm: 0.4% Total Damage per Cognition
 DescCog75B	\nÿc0Shuriken Flurry: 0.4% Total Damage per Cognition\nÿc8Reach 75 Cognition\n
 DescCog100A	\nÿc2You Have Bloodbath
 DescCog100B	\nÿc0You Have Bloodbath\nÿc8Reach 100 Cognition\n
@@ -7078,7 +7078,7 @@ SkillsdBlazingSeed	ÿc0upgrade - Egg Traps empower you upon hatching
 SkillsdEruptingStrike	ÿc0upgrade - increases the fire damage of your hunter skills
 SkillsdHeartofthePackPassive	ÿc0upgrade - the link with your companion manifests as a powerful party buff
 SkillsdSpiritualAlignment	ÿc0passive - increases your fire and cold spell damage
-SkillsdArmageddon	ÿc0Buff - rain meteors from the sky to obliterate your foes
+SkillsdArmageddon	ÿc1cannot be used with Frigid Domain\nÿc0Buff - rain meteors from the sky to obliterate your foes
 Burning Contagion	Burning Contagion
 ArreatTerror	Arreat Terror
 WhiteBear	White Bear
@@ -7219,7 +7219,7 @@ DescHungerSyn	50% of Vitality added as Attack Rating per Base Level
 DescSlowsTarget	Slows Target by %d%%
 DescSlowsTargetBlvl	+%d%% Slows Target per Base Level
 DescBlazingSeedMega	Raid: +1 Target\nEgg Trap: No Cooldown\nCharged Talons: Double Damage\n\nÿc9Activates after egg hatches
-DescBlazingSeedSyn	Increased Duration by 0.5 seconds per Base Level
+DescBlazingSeedSyn	Increased Duration by 1 second per Base Level
 DescBlockCap	% Maximum Block Chance
 DescBlockCapBlvl	% Maximum Block Chance per Base Level
 DescChillDur	Chill Duration: 
@@ -7277,7 +7277,7 @@ SkillnameGlacialTorrent	Glacial Torrent
 SkillsdGlacialTorrent	ÿc1requires a scepter or an orb\nÿc0attack - unleash a freezing cascade through your weapon
 SkillGT1	12 hits per second
 SkillnameCrystallineBarrier	Crystalline Barrier
-SkillsdCrystallineBarrier	ÿc1requires a scepter or an orb\nÿc0buff - a protective shield freezing melee attackers
+SkillsdCrystallineBarrier	ÿc1disables Mooncall damage bonuses\nrequires a scepter or an orb\nÿc0buff - a protective shield freezing melee attackers
 SkillsdDefvsMiss	 Defense Against Projectiles
 SkillnameElementalCommand	Elemental Command
 SkillsdElementalCommand	ÿc0passive - increases the elemental power of your arrows
@@ -7290,7 +7290,7 @@ DescFireatWillSyn	Cooldown Reduced by 0.6 seconds per Base Level
 DescSorcBlvlBonus	% Damage Multiplier per Base Level
 DescCrystallineB1	\n(increasing returns with cold spell damage)
 SkillnameWintertide	Wintertide
-SkillsdWintertide	ÿc1requires a scepter or an orb\nÿc0warp - teleports you to a target enemy
+SkillsdWintertide	ÿc1requires a scepter or an orb\nÿc0warp strike - teleports you to a target enemy
 SkillnameFrostborn	Frostborn
 SkillsdFrostborn	ÿc1you cannot learn this skill if you have points in Mana Sweep\nÿc4cold proficiency - requires 50 points in other cold tree skills\nÿc0passive - empowers your cold tree spells
 SkillFrostborn1	Witch Blood bonuses apply to Cold Spells regardless of your life level
@@ -7306,9 +7306,9 @@ SkillRime2	(increasing returns with higher energy)
 SkillRimeSyn	More Freeze Length from Energy per Base Level
 gob	'The Goblin King'\nEvent Award:
 GobolinoReward	'The Goblin King'\nEvent Award:
-SkillnameCollapse	Vanish
-SkillsdCollapse	ÿc4requires 60 points in other malice tree skills\nÿc0passive - the soul of a target afflicted in mind and body departs its shell
-DescGameOver	ÿc1enemies that are exiled, terrified and poisoned die instantly
+SkillnameCollapse	Soul Sever
+SkillsdCollapse	ÿc4requires 50 points in other malice tree skills\nÿc0passive - the soul of a target afflicted in mind and body departs its shell
+DescGameOver	Graveyard: damage increased by Nightwalker bonus\nEnhances Death Ripple\n\nÿc1enemies that are exiled, terrified and poisoned die instantly
 SkillnameFortitude	ÿc8Fortitude
 SkillsdFortitude	ÿc0upgrade - become a Tireless Warrior
 DescFortitudeSyn	+25 Maximum Stamina per Base Level
@@ -7316,7 +7316,7 @@ SkillEntanglement2	Cast Speed: +%d%%
 SkillsdSuperposition1	ÿc0warp - short ranged teleport
 SkillnameEotS	ÿc8Eye of the Storm
 SkillsdEotS	ÿc0upgrade - you become shielded while casting Thunderstone
-DescPLRBlvl	+%d%% Poison Length Reduction per Base Level
+SkillNightwalkerSyn	% Poison Length Reduction per Base Level in other Malice skills (Max 150%)
 DescDreamEating	(Based on Character Level)\nSteals %d%% of Damage as Life
 DescDreamDurSyn	Duration Increased by 0.32 seconds per Base Level
 DescExileSyn	Increased Radius by 0.67 yards per 2 Base Levels
@@ -7377,7 +7377,7 @@ SkillnameParadigmShift	Primordial Might
 SkillsdParadigmShift	ÿc3only allows the use of melee, summoning and buff/debuff skills\nÿc0passive - Mooncall increases elemental power instead of physical
 SkillParadigmShift1	% of Mooncall Physical Damage bonus added as Innate Elemental Damage
 SkillnameColdBlooded	ÿc8Cold Blooded
-SkillsdColdBlooded	ÿc0upgrade - using Bladestorm with a crystal sword triggers a Glacial Volley
+SkillsdColdBlooded	ÿc1does not work with Warp Blades\nÿc0upgrade - using Bladestorm with a crystal sword triggers a Glacial Volley
 SkillColdBlooded1	% chance to cast Glacial Volley on Bladestorm
 SkillnamePremonition	ÿc8Premonition
 SkillsdPremonition	ÿc0upgrade - maximum block chance is increased during Fusillade
@@ -7436,7 +7436,7 @@ DescEviscerateSyn	+1 Javelin per
 mon_duduspawner	Damage Reduction Aura, Spawns Corrupted Druid
 SkillnameFend	Fend
 SkillsdFend	ÿc1requires a spear\nÿc0 buff - bulks up and fends off enemies at all sides
-DescTakedownSyn	+7% bonus defense per base level\n+4% attack speed per base level\n+1% movement speed per base level
+DescTakedownSyn	+7% bonus defense per base level\n+6% weapon physical damage per base level\n+1% movement speed per base level
 DescCelestialRageSyn	+1% Life Leech per Base Level\n+10% Physical Damage per Base Level\nDuration Increased by 0.2 Seconds per Level
 DescGreatHuntSyn	ÿc8Fury: +3% Magic Pierce per Fury Charge\nÿc0+1 Spirit per 5 Base Levels
 DescBlankFend	\nCooldown: 20 Seconds\n
@@ -7501,7 +7501,7 @@ DescMindRip	Increased Radius per 3 Base Levels
 ktyx	ÿc0Cube Reagent\nÿc4Greater Riftwalker Essence
 ktxx	ÿc0Cube Reagent\nÿc4Ascendant Riftwalker Essence
 Mithridatism	Mithridatism
-SkillViolence1	Snake: 100% of your Life Steal added as Poison Pierce\n
+SkillViolence1	Snake: 200% of your Life Steal added as Poison Pierce\n
 GreaterRiftwalker	Greater Riftwalker
 AscendantRiftwalker	Ascendant Riftwalker
 FrozenShambler	Frozen Shambler
@@ -7642,7 +7642,7 @@ SkillNoxiousMastery3	Curare: +
 SkillNoxiousMastery4	% Damage Multiplier per Base Level
 SkillNoxiousMasterySynNoSpace	+3% Movement Speed per Base Level\n+1% Physical Resist per Base Level
 DescConvertsToMag	Converts %d%% Physical Damage to Magic
-DescNewVoracity	Parasite Bolts Have Area of Effect\n\nÿc9(available while Angel of Death is active)\nÿc2Parasite -> Reaper
+DescNewVoracity	Parasite Bolts Have Area of Effect\nÿc2Parasite -> Reaper
 SkillnameBlightDescend	ÿc8Blight Descent
 SkillsdBlightDescend	ÿc0upgrade - gain poison damage to all your attacks after jumping
 Desc10KSoon	Two-Handed Weapons: Doubled Poison Pierce Bonus\nAngel of Death: +1% Poison Pierce per Base Level\n+8% of Angel of Death's Damage per Base Level
@@ -7665,12 +7665,12 @@ SkillPhoenixWave2	 Life restored per cast
 SkillPhoenixWave3	\nÿc5100% increased healing at 2800 energy and again at 3600 energy\nDouble healing if you are not a Paladin or a Sorceress
 DescSummonDmgMag	Magic Damage
 DescAlwaysHits	Always Hits
-ThisIsALeek	65\n- Runewords can now be corrupted\n
+ThisIsALeek	65\\n- Runewords can now be corrupted\\n
 leek	:leek:
 WinterStormBot	ÿc0Winter Storm
 scld	Diary
 ScosglenChest	Protected Chest
-SkillChaoticSpark1	\nIncreases in Cast Speed count as Spell Focus for this skill\nSpell Focus cap is 3000\n\nCharged Nova pierces and deals 50% of skill damage\n20% chance to release a Charged Nova on cast
+SkillChaoticSpark1	\nIncreases in Cast Speed count as Spell Focus for this skill\nSpell Focus cap is 3000\n\nCharged Nova pierces and deals 50% of skill damage\n18% chance to release a Charged Nova on cast
 obox	ÿc1Corrupted Treasure
 SkillPentagram1	\n+2% to Physical Resistance for 2 seconds after casting per 20 Unspent Attributes (max 300)\nCooldown reduced by 0.04 seconds per 20 Unspent Attributes (max 300)\n
 VineEggEvul	Corrupted Harvester
@@ -7682,7 +7682,7 @@ SkillGuardTower3	Arrows:
 SkillsdDeathstar	ÿc0projectile - noxious star which periodically poisons enemies near it
 SkillDeathstar1	% of your combined poison damage per second from items and skills
 SkillDeathstar2	\nGain an extra projectile per 15 Skill Levels (Max 3)\nAlways Hits\n
-DescProgenyBlaze	Egg Trap: 0.5 Second Faster Regeneration per Base Level
+DescProgenyBlaze	Egg Trap: 0.5 second Faster Regeneration per Base Level
 DescRangedEggLol	Does Not Trigger Progeny's Blessing\nInherits all Egg Trap Attributes
 SkillsdActualEggOnFace	ÿc1requires Wereowl Form\nÿc0projectile - spawn a fiery egg at a distance
 SkillnameActualEggOnFace	ÿc4Ranged Egg Trap
@@ -7692,15 +7692,15 @@ SkillSearingGlow1	\nÿc5Add 30% of Physical Damage as Fire\nÿc0For each success
 DescScosArtifact	ÿc325% Magic Find\nMaximum Life +5%\n+1 to All Skills\nÿc0Cube with Dulra Aegis to Add Bonus\n\nCube Reagent
 EleventhEye	Eleventh Eye
 |ds1	ÿc8Conjuring Eye
-DescEleventhEye	ÿc1Requires Standing in the Ancient Circle\nÿc0Cube with Dulra Aegis to enter the Frozen Crest\n\nCube Reagent
+DescEleventhEye	ÿc1Requires Standing within Tur Durla\nÿc0Cube with Dulra Aegis to enter the Frozen Sea\n\nCube Reagent
 |ds2	ÿc8Reality Piercer
 DescConjEye	Cube Reagent
 SkillArcaneFury4	+1 Projectile\nÿc2Immersion:\n
 DescGrowDown	Transmute to Unlock Reward\nÿc5Reward for Defeating Hell Baal
 qrel	ÿc4Relic Orb
-SkillSinner1	\nSummon an extra Sinner at character levels 130, 140 and 148\nFire pierce is increased by your Minion Attack Rating\nGains 75% of your Minion Damage as Fire Spell Damage\nGains 10 Spell Focus and 30 Energy per Skill Level
-SkillGF1	\nSummon an extra Fungus at character levels 130, 140 and 148\nLightning pierce is increased by your Minion Attack Rating\nGains 50% of your Minion Damage as Lightning Spell Damage\nGains 3 Spell Focus and 5 Energy per 1% Cast Speed
-SkillFrostwalker1	\nSummon an extra Frostwalker at character levels 130, 140 and 148\nCold pierce is increased by your Minion Attack Rating\nGains 75% of your Minion Damage as Cold Spell Damage\nGains 1.5 Spell Focus and 4 Energy per 1% Minion Life
+SkillSinner1	\nSummon an extra Sinner at character levels 130, 140 and 148\nMinion Fire pierce is increased by your own\nGains 75% of your Minion Damage as Fire Spell Damage\nGains 10 Spell Focus and 30 Energy per Skill Level
+SkillGF1	\nSummon an extra Fungus at character levels 130, 140 and 148\nMinion Lightning pierce is increased by your own\nGains 50% of your Minion Damage as Lightning Spell Damage\nGains 3 Spell Focus and 5 Energy per 1% Cast Speed
+SkillFrostwalker1	\nSummon an extra Frostwalker at character levels 130, 140 and 148\nMinion Cold pierce is increased by your own\nGains 75% of your Minion Damage as Cold Spell Damage\nGains 1.5 Spell Focus and 4 Energy per 1% Minion Life
 SkillIceLance1	\nIncreases to Weapon Physical Damage count as Cold Spell Damage\nHits 3 times per impact
 SkillnameFrozenTrail	Frozen Heart
 SkillsdFrozenTrail	ÿc1(requires Hive, Nova Charge and Path of Flames Relics)\nÿc0buff - periodically freezes and damages nearby enemies
@@ -7709,7 +7709,7 @@ mon_panopticon	Soulstealer, Master of Illusions
 DescMaliiche	+1% Physical Resist per 4 points in other Malice tree skills
 DescSsinSseason	+1 second Duration per Base Level
 DescBetterShred	Base Duration = 10 seconds
-DescGodSaveTheQueen	\nHits Multiple Times\nBlade Mine Duration: 2 seconds\nDelay between Volleys: 0.8 seconds\n
+DescGodSaveTheQueen	Triggers "On Melee Attack" Skill Procs\n\nTime Between Attacks: 
 DescPrismaticBlock	Block Speed: 
 DescCDtoWPN	Cold Damage to Weapon
 DescCDtoWPNsynergy	% Cold Damage to Weapon per Base Level
@@ -7730,11 +7730,11 @@ SkillnameAncestralEndurance	ÿc8Ancestral Endurance
 SkillsdAncestralEndurance	ÿc1requires 20 points in Shaman tree skills\nÿc0upgrade - increases your damage mitigation after using Spirit Reave
 SkillAncestralEndurance1	UNUSED
 SkillnameTectonics	ÿc8Tectonics
-SkillsdTectonics	ÿc0upgrade - your Earthquakes occasionally trigger a Shower of Rocks
-SkillTectonicsSyn	% Weapon Physical Damage bonus required per Base Level\n-100 Strength required per Base Level
-SkillTectonics1	1% chance to cast Shower of Rocks per 
+SkillsdTectonics	ÿc0upgrade - your Earthquakes trigger Shower of Rocks if powerful enough
+SkillTectonicsSyn	% Weapon Physical Damage bonus required per Base Level\n-10 Strength required per Base Level
+SkillTectonics1	1 Power per 
 SkillTectonics2	% Weapon Physical Damage bonuses
-SkillTectonics3	When using Earthquake:
+SkillTectonics3	ÿc2Gain Power from Strength and Weapon Physical Damage Bonuses:
 SkillTectonics4	(Current chance: 
 SkillnameHoZSingle	Power Shift
 SkillsdHoZSingle	ÿc1requires a mace, hammer, or scepter\nÿc0projectile - launch a short range hammer that sacrifices its piercing capabilities for greatly increased impact damage
@@ -7901,7 +7901,7 @@ DescWPNPhys	% Weapon Physical Damage
 DescBackstabHit	200% Weapon Damage\n4 Hits per Attack
 wm01	Maiden Bow (Mastercrafted)
 SkillPrimordia1	\nÿc4 Elemental Damage Specialization
-SkillColdBlooded2	Deals damage equal to 140% of your total Cold weapon damage\nConverts your Fire and Lightning weapon damage to Cold\n3 Piercing Projectiles\nÿc2Glacial Volley\n
+SkillColdBlooded2	Deals damage equal to 75% of your total Cold weapon damage\nConverts your Fire and Lightning weapon damage to Cold\n3 Piercing Projectiles\nÿc2Glacial Volley\n
 wm02	Kukri (Mastercrafted)
 Maenad	Maenad
 AthuluasBlessing	Athulua's Blessing
@@ -7925,7 +7925,7 @@ DPBefowlerInfo	Buffs allies, Debuffs enemies
 DPArchitect	Architect
 DPArchitectInfo	Elemental Dominion
 DPMainInfo	Requires two officers nearby to enter maintenance mode
-SkillGaleForce1	3 Hits per Attack
+SkillGaleForce1	Deals up to 400% extra weapon damage in melee
 DPCommanderPet	Fetish Spirit
 TombTerror	Tomb Terror
 AbyssLord	Abyss Lord
@@ -8005,7 +8005,7 @@ IM_CarpetInfo	Reanimates. Weak to Fire
 IM_HollowInfo	Immobile. Attacks on nearby motion
 DescTantrumBursts	Bursts: 
 DescTantrumScaling	Fires 1 Additional Burst Every 5 Levels
-SkillViolence2	Eagle: 100% of your Life Steal added as Lightning Pierce\n
+SkillViolence2	Eagle: 200% of your Life Steal added as Lightning Pierce\n
 SkillViolence3	Wolf: 25% of your Life Steal added as Critical Strike chance\n
 SkillnameMightyVigor	Mighty Vigor
 SkillsdMightyVigor	ÿc4proficiency skill - you may pick up to 2\nÿc0passive - your strength increases your bloodthirst
@@ -8068,7 +8068,7 @@ SkillsdRiteRestless	ÿc4you cannot learn this skill if you have Rite of Thorns\n
 SkillRitesDesc	Increased number of hits per attack\nDamage radius reduced by 75%
 SkillRitesDesc2	% Damage Multiplier
 SkillNameFrigidDomain	Frigid Domain
-SkillsdFrigidDomain	ÿc0buff - conjure a field of frozen air that slows nearby enemies
+SkillsdFrigidDomain	ÿc1cannot be used with Armageddon\nÿc0buff - conjure a field of frozen air that slows nearby enemies
 DescArmaFrequency	Calls a Meteor Every 0.24 Seconds
 DescFrigidFrequency	Releases a Pulse Once per Second
 FrigidLevelSyn	Increased Slow Scaling per Base Level (Max 30%)
@@ -8092,3 +8092,206 @@ SkillFrostbornSyn	+5% Attack Rating per Cold Tree Base Level\n+1% maximum Life p
 SkillNameClearMind	Clear Mind
 SkillsdClearMind	spell - conjure magical ripples accross the landscape, empowered by your unspent skill points
 SkillDescClearMind	\nGains additional radius and hit rate every 25 unspent skill points\nGains quadratically more damage per unspent skill point
+SkillnameJudgmentDay	Judgment Day
+LabReaver	Warped Reaver
+LabMaster	Warped Master
+LabVoidMaw	Void Maw
+LabFracturedBeing	Fractured Being
+LabCasterDesc	Mends nearby monsters
+TwistedScosMauler	Twisted Spriggan
+TwistedGoreCrawler	Twisted Crawler
+TwistedSire	Twisted Sire
+TimewarpTotem	Timewarp Totem
+wm03	Gothic Staff (Mastercrafted)
+wm04	Cincture (Mastercrafted)
+BootsBlinding	Boots of Blinding Bluster
+DarkDisciple	Dark Disciple
+DescCherries	Right click to eat...
+PandemoniumSeason	'Season 36: Pandemonium'\nEvent Award:
+Library of Fate 125	Heroic 125\nLibrary of Fate\n
+To The Library of Fate 125	ÿc0Difficulty: ÿc1Hard\n\nÿc0Area Level: 125\nHeroic Rift\nÿc4Library of Fate
+an01	Full Helm (Angelic)
+an02	Light Plate (Angelic)
+an03	Kite Shield (Angelic)
+an04	Light Plated Boots (Angelic)
+an05	Light Gauntlets (Angelic)
+an06	Belt (Angelic)
+aw01	Military Pick (Angelic)
+aw02	Large Axe (Angelic)
+aw03	War Sword (Angelic)
+aw04	Giant Sword (Angelic)
+aw05	Morning Star (Angelic)
+aw06	Scepter (Angelic)
+aw07	Dagger (Angelic)
+aw08	Battle Staff (Angelic)
+aw09	Long Staff (Angelic)
+aw10	Crossbow (Angelic)
+aw11	Trident (Angelic)
+f666	Soulforge
+f667	ÿc8Heavenly Soul
+HSoulExplain	(Cube with an Oil of Craft to create container)\nCube with Soulforge to craft items\n\nÿc2Cube with an Oil of Enhancement to create a Soulforge
+SoulForge	The Soulforge
+ItemPrefixCounter	ÿc9Prefixes:
+ItemSuffixCounter	ÿc9Suffixes:
+RavenMantle	Raven Mantle
+Faithless	Faithless
+f668	Crate O' Souls
+DescSoulCrate	(Transmute in Cube to Extract Souls)\n(Right Click to Collect)
+DescAddedPhys	 Bonus Physical Damage
+SkillnameQueenBlade	Queen of Blades
+SkillsdQueenBlade	Queen of Blades
+SkillCrystallineDR	 Reduced Physical and Magic Damage Taken
+AurielGryphon	Auriel's Gryphon
+MalthaelArchon	Archon of Malthael
+AGInfo	ÿc4Weak to Physical\nÿc/War Spirit
+ItheraelVanguard	Itherael's Vanguard
+ImperiusWrath	Imperius' Wrath
+IVinfo	ÿc2Weak to Poison\nÿc/Nearby allies take less damage
+MAinfo	ÿc8Weak to Magic\nÿc/Elemental Pierce -50%%
+IWinfo	ÿc3Weak to Cold\nÿc/Cannot take Deadly Strikes
+Library of Fate 130	Heroic 130\nLibrary of Fate\n
+To The Library of Fate 130	ÿc0Difficulty: ÿc1Very Hard\n\nÿc0Area Level: 130\nHeroic Rift\nÿc4Library of Fate
+vrx4	ÿc4Area Level: 125\nLibrary of Fate (Heroic)
+vrx5	ÿc5+50% Leech Resist\n+25% Magic Resist\n+20% Movement Speed\n+10% Density\nÿc3Monster modifiers:\n\nÿc2+25% Angelic Item drops\n\nÿc4Area Level: 130\nLibrary of Fate (Heroic)
+DescBacchCap	(Up to 25 000 Max Life)
+DescArachnomancySyn	% Duration for every 100 Energy above 1500
+SkillArachnomancyX	% bonus Duration from Energy
+SkillGraveyardX	\n(Based on whichever is highest: Minion Damage or Poison Spell Damage)
+SkillDeathRippleEnhance	\n2 Enhancements: Releases a Flurry of Bone Spears\n1 Enhancement: Bone Spear Nova Repeats\nÿc2Missile Pattern improves per Enhancement (Up to 2)\n
+DescQoBDelay	Time between attacks: 
+DescShunpo1	% of Base Strength or Dexterity
+DescShunpo2	(whichever is higher)
+MasteryNameFreedom	Freedom
+MasterySdFreedom	ÿc0passive - increases defensive speeds and reduces chilled duration
+MasteryFreedom1	Half Freeze Duration\n\n(Both Depend on Character Level)\nHit Recovery: 
+MasteryFreedom2	Block Speed: 
+MasteryFreedomSyn	+10% Block Speed per Base Level\n+5% Hit Recovery per Base Level
+SkillAftermath1	Increased by your Weapon Physical Damage Bonuses
+SkillAftermath2	 Magic Damage)
+SkillTectonicsX	200 Power: 3 Shower of Rocks waves on Earthquake\n140 Power: 2 Shower of Rocks waves on Earthquake\n60 Power: 1 Shower of Rocks waves on Earthquake
+SkilltectonicsXX	(Current Power: 
+itemcls_gold	Gold
+itemcls_gear	Gear
+itemcls_armor	Armor
+itemcls_weap	Weapon
+itemcls_jewelry	Jewelry
+itemcls_quiver	Quiver
+itemcls_classonly	Class Specific
+itemcls_ama	Class Specific Amazon
+itemcls_sor	Class Specific Sorceress
+itemcls_nec	Class Specific Necromancer
+itemcls_pal	Class Specific Paladin
+itemcls_bar	Class Specific Barbarian
+itemcls_dru	Class Specific Druid
+itemcls_sin	Class Specific Assassin
+itemcls_t1	Tier 1
+itemcls_t2	Tier 2
+itemcls_t3	Tier 3
+itemcls_t4	Tier 4
+itemcls_sacred	Tier Sacred
+itemcls_mastercraft	Tier Mastercrafted
+itemcls_angelic	Tier Angelic
+itemcls_questreward	Quest Reward
+itemcls_potion	Potion
+itemcls_hpot	Potion Health
+itemcls_mpot	Potion Mana
+itemcls_socketables	Socket Filler
+itemcls_jewel	Jewel
+itemcls_rune	Rune
+itemcls_enchrune	Rune Enchanted
+itemcls_grune	Rune Great
+itemcls_elerune	Rune Elemental
+itemcls_gem	Gem
+itemcls_perfgem	Gem Perfect
+itemcls_chunkgem	Gem Imperfect
+itemcls_commrune	Rune Common
+itemcls_amethyst	Gem Amethyst
+itemcls_topaz	Gem Topaz
+itemcls_saphire	Gem Sapphire
+itemcls_emerald	Gem Emerald
+itemcls_ruby	Gem Ruby
+itemcls_diamond	Gem Diamond
+itemcls_skull	Gem Skull
+itemcls_onyx	Gem Onyx
+itemcls_bloodstone	Gem Bloodstone
+itemcls_turquoise	Gem Turquoise
+itemcls_amber	Gem Amber
+itemcls_lgbtqstone	Gem Rainbow Stone
+itemcls_shrine	Shrine
+itemcls_creepyshrine	Shrine Creepy
+itemcls_abandonshrine	Shrine Abandoned
+itemcls_quietshrine	Shrine Quiet
+itemcls_eerieshrine	Shrine Eerie
+itemcls_weirdshrine	Shrine Weird
+itemcls_taintedshrine	Shrine Tainted
+itemcls_intimshrine	Shrine Intimidating
+itemcls_trinityshrine	Shrine Trinity
+itemcls_fascinshrine	Shrine Fascinating
+itemcls_ornateshrine	Shrine Ornate
+itemcls_sacredshrine	Shrine Sacred
+itemcls_shimmshrine	Shrine Shimmering
+itemcls_spiritshrine	Shrine Spirit
+itemcls_magicalshrine	Shrine Magical
+itemcls_enchshrine	Shrine Enchanted
+itemcls_hiddenshrine	Shrine Hidden
+itemcls_mo	Mystic Orb
+itemcls_umo	Mystic Orb Unique
+itemcls_signet	Signet
+itemcls_gsignet	Signet Gold
+itemcls_asignet	Signet Attribute
+itemcls_arcshard	Arcane Shard
+itemcls_arccrystal	Arcane Crystal
+itemcls_oil	Oil
+itemcls_dyes	Color Dye
+itemcls_cubereag	Cube Reagant
+itemcls_trophy	Trophy
+itemcls_cycle	Cycle
+itemcls_cyclesmall	Cycle Small
+itemcls_cyclemedium	Cycle Medium
+itemcls_cyclelarge	Cycle Large
+itemcls_riftstone	Riftstone
+itemcls_catalyst	Catalyst
+itemcls_design	Design Scheme
+itemcls_questitem	Quest Item
+itemcls_bellapot	Belladona Extract
+itemcls_relic	Relic
+itemcls_essence	Essence
+itemcls_specialcrystal	Special Crystal
+itemcls_emblem	Emblem
+itemcls_scroll	Scroll
+itemcls_effigy	Effigy
+itemcls_specialshard	Special Shard
+wm21	Soulbinder Gloves (Mastercrafted)
+wm05	Flying Kinzhal (Mastercrafted)
+SkillATMGX	Weapon Damage increases to 95% with 85% Deadly and Critical Strike Chance OR 110% Innate Elemental Damage\nWeapon Damage increases to 75% with 55% Deadly and Critical Strike Chance OR 55% Innate Elemental Damage\n\nRadius increases by 33% with 200, 500, 900 Base Dexterity (Max +100%)\n\nÿc3item granted skill
+AstroStatueDesc	Increases Nearby Monster Damage by 20%%
+UrehStatue	Forboding Statue
+UrehStatueDesc	Required for the Kingdom of Shadow Trophy Challenge\nGrants the player +50 seconds to teleport cooldowns\nPurify to embrace Juris Khan's Darkness
+FeralGhoul	Feral Ghoul
+Ravager	Ravager
+DaughterHallows	Daughter of the Hallows
+ForsakenOne	Forsaken One
+LotG	Lord of the Grave
+Husk	Husk
+Grave Charm	Soulstone of the Hallows
+Halloween Chest	Spend 2300 harvests to open\nÿc8Spooky Chest
+itemcls_escroll	Enchant Scroll
+Ravager2	Brutal Ravager
+Ravager3	Lethal Ravager
+Ravager4	Savage Ravager
+Ravager5	Nightmarish Ravager
+Ravager6	Hellish Ravager
+ForsakenOne2	Brutal Forsaken One
+ForsakenOne3	Lethal Forsaken One
+ForsakenOne4	Savage Forsaken One
+ForsakenOne5	Nightmarish Forsaken One
+ForsakenOne6	Hellish Forsaken One
+The Twilight Zone	The Twilight Zone
+en9f	ÿc5Whichever attribute is higher\nÿc32H: 52% of Strength/Dexterity added as Innate Fire Damage\n1H: 33% of Strength/Dexterity added as Innate Fire Damage\nWeapon Physical Damage -500%\nDeal no Magic Damage\nÿc4Pandemonium\n\nÿc1Does not work on elemental bases and items which have innate elemental damage scaling\nÿc0Cube with a Sacred Weapon of Magic rarity or higher to Add Bonus\n\nCube Reagent
+en9g	ÿc315% chance to cast Level 25 Raid on Melee Attack\nÿc8Amazing Grace\nÿc4Short Straw\n\nÿc0Cube with a Javelin to Add Bonus\n\nCube Reagent
+en9h	ÿc322% chance to cast Level 30 ATMG Sentry on Melee Attack\nÿc8Mega Impact\nÿc4Finesse\n\nÿc0Cube with a Spear to Add Bonus\n\nCube Reagent
+en9i	ÿc3+2 to Energy (Based on Character Level)\n-20% to Enemy Magic Resistance\nÿc4Wizardry\n\nÿc0Cube with a magic quality Shield\n\nCube Reagent
+en10	ÿc8Scroll of Enchantment: Shield
+ModItemMagPierce	to Enemy Magic Resistance
+SkillnameSuperbeast	Superbeast
+itemcls_shield	Shield
