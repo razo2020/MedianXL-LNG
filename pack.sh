@@ -9,13 +9,13 @@ collectOutput() {
 mv d2tbl_ouput.tbl .tmp/$1.tbl
 }
 
-#unix2dos src/ESP/String.txt
+unix2dos src/ESP/String.txt
 tools/d2tbl.exe -import src/ESP/String.txt -ansi -always-insert
 collectOutput String
-#unix2dos src/ESP/PatchString.txt
+unix2dos src/ESP/PatchString.txt
 tools/d2tbl.exe -import src/ESP/PatchString.txt -ansi -always-insert
 collectOutput PatchString
-#unix2dos src/ESP/ExpansionString.txt
+unix2dos src/ESP/ExpansionString.txt
 tools/d2tbl.exe -import src/ESP/ExpansionString.txt -ansi -always-insert
 collectOutput ExpansionString
 

@@ -20,7 +20,7 @@ tag=$1
 type=$2
 
 mxlurl="https://get.median-xl.com/get.php?type=mxl_$type&tag=$tag&file=medianxl-YmludGJsdHh0.mpq"
-langurl="https://github.com/Zahariel1942/MedianXL-Chinese/releases/latest/download/Release.zip"
+langurl="https://github.com/razo2020/MedianXL-LNG/releases/download/v2.10.5_0.1/Release.zip"
 tmp=".tmp"
 
 # Download files

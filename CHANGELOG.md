@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 2.10.5_0.1 (2025-02-22 18:39:36)
+- esta al español hasta la version 2.05 MXL
+	- el avance es del 70%
+
 ## 2.7.2_1.1 (2023-10-21 01:38:02)
 - 更新至正式版2.7.2
 

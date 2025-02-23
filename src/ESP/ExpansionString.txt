@@ -1880,7 +1880,7 @@ McAuley's Paragon	Excelencia de Sander
 McAuley's Folly	Locura de Sander
 x	disco de expansión
 qstsa5q62b	Mata a esbirros de Baal.
-x	www.median-xl.com
+x	MedianXL: Sigma 2.10.5 https://www.median-xl.com/changelog ver. Español: 0.1
 of the Plague	de la plaga
 Go South	vuelta al infierno
 ItemExpansiveChancX	%d%% de posibilidades de lanzar el nivel %d %s al atacar cuerpo a cuerpo
